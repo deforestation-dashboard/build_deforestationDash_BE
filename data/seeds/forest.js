@@ -1,4 +1,4 @@
-import data from '../csvjson.json'
+// import data from '../csvjson.json'
 
 exports.seed = function(knex, Promise) {
   // Deletes ALL existing entries
