@@ -15,7 +15,7 @@ server.get("/api", (req, res) => {
 	res.status(200).json({ message: "API Live" });
 });
 
-server.get("/forest", (req, res) => {
+server.get("/forest", async (req, res) => {
 
 	try {
 		const list = await Forest.get();
