@@ -1,75 +1,63 @@
-Proposal
+# API For The Look Book Project
 
-- What problem does your app solve?
+# Dependencies
 
-The Deforestation Dashboard is an awareness platform where users gain insights into how the world’s forests are changing.
-	
-- Be as specific as possible; how does your app solve the problem?
+### [Express](https://www.npmjs.com/package/express)
 
-By presenting accurate, historical data, The Deforestation Dashboard allows users to view the decline or increase in forest cover throughout the world. By presenting the data in a historical and geographical context we aim to raise personalized awareness about the planet’s deforestation.
+Express is our Web Framework of choice for creating our RESTful API.
 
-- What is the mission statement?
+### [Helmet](https://www.npmjs.com/package/helmet)
 
-“To educate and inspire through accurate and current information .”
-Features
+Helmet is a middleware function we use for Express. It sets multiple headers, to make our API more secure.
 
-- What features are required for your minimum viable product?
+### [Morgan](https://www.npmjs.com/package/morgan)
 
-1. Choropleth maps that show forest cover by country over time
-2. An interactive component that allows users to select a country and get more detailed information
-3. Create a model that predicts future forest cover based upon historical data"
-	
-- What features may you wish to put in a future release?
+Morgan is an Express middleware function used to log every HTTP request in the console of the application. This is very useful for seeing the result of all requests going through your API.
 
-1. Create a ""tutorial"" about forest loss and its effects on geosystems
-2. Include governmental changes by country in the time series data and look for connections
+### [Cors](https://www.npmjs.com/package/cors)
 
-- What do the top 3 similar apps do for their users?
-Frameworks - Libraries
+Cors is used to enabling Cross origin resource sharing between the API and Front End. This package allows us to do it with one simple line, and acts as a middle ware function for Express.
 
-- What 3rd party frameworks/libraries are you considering using?
+### [Dotenv](https://www.npmjs.com/package/dotenv)
 
-ReactJS, Redux, Redux-Thunk, Axios, React-Router, Styled-Components, Plotly, LESS and/or SASS
+Dotenv is simple, yet important. It loads variables from a .env file into process.env for our project to take use of.
 
-- Do APIs require you to contact its maintainer to gain access?  no
-- Are you required to pay to use the API?  no
-For Data Scientists
+### [Knex](https://www.npmjs.com/package/knex)
 
+Knex is an SQL query builder that we use to interact with our Database in the API.
 
-- Describe the Established data source with at least rough data able to be provided on day 1. 
+### [PG](https://www.npmjs.com/package/pg)
 
-https://github.com/manjulamishra/Deforestation
+> Non-blocking PostgreSQL client for Node.js. Pure JavaScript and optional native libpq bindings.
 
-- You can gather information about the data set you’ll be working with from the project description. Be sure to collaborate with your PM, and your Backend Architect to chat about the resources you have.
+## Development Dependencies
 
-We will create a backend server to import data from multiple resources, analyze all inputs, and create a model that predicts future forest cover based upon historical data.
+### [Cross-env](https://www.npmjs.com/package/cross-env)
 
-- Write a description for what the DS problem is (what uncertainty/prediction are we trying to do here? Sentiment analysis? Why is this a useful solution to a problem?)
+Cross-env is used for allowing Environment Variable setting with any platform/operating system.
 
-We are considering using time series analysis that predicts future values of forest cover based on previously observed values.
+### [Faker](https://www.npmjs.com/package/faker)
 
-- A target (e.g. JSON format or such) for output that DS students can deliver to web/other students for them to ingest and use in the app
+Faker is used for generating random data. In this project it is used for creating fake Artist Post's.
 
-The output will be in JSON format
+### [Jest](https://www.npmjs.com/package/jest)
 
-Target Audience
+Jest is meant for Javascript testing.
 
-- Who is your target audience? Be specific.
+### [Supertest](https://www.npmjs.com/package/supertest)
 
-	Anyone interested in how the forests of the world are changing with time!  As well as prospective employers that want to see some cool work done by Lambda students!
+Supertest is used for HTTP Assertions. We use Supertest to test all of our API Endpoints.
 
-- What feedback have you gotten from potential users?
+### [Nodemon](https://www.npmjs.com/package/nodemon)
 
-	Having an intuitive interface to view and navigate well representative graphs/plots built off solid data will make this app stand out.
+Nodemon is used for restarting your Node.js Application automatically if any of the source code changes.
 
-- Have you validated the problem and your solution with your target audience? How?
+# Environment Variables
 
-Research
+- `DATABASE_URL` PostgreSQL connection string. Provided by Heroku if you have a PostgreSQL addon.
+- `DB_ENV` Can be set to `testing`, `development`, or `production`. Defaults to `development`.
 
-- Research thoroughly before writing a single line of code. Solidify the features of your app conceptually before implementation. Spend the weekend researching so you can hit the ground running on Monday.
-Prototype Key Feature(s)
+# Endpoints
 
-- This is the “bread and butter” of the app, this is what makes your app yours. Calculate how long it takes to implement these features and triple the time estimated. That way you’ll have plenty of time to finish. It is preferred to drop features and spend more time working on your MVP features if needed.
-
-
+### GET /api/
 
