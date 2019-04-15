@@ -13,51 +13,51 @@ exports.seed = function(knex, Promise) {
           "percent": 2.07
         },
         {
-          "Entity": "Afghanistan",
-          "Code": "AFG",
-          "Year": 2000,
+          "entity": "Afghanistan",
+          "code": "AFG",
+          "year": 2000,
           "percent": 2.07
         },
         {
-          "Entity": "Afghanistan",
-          "Code": "AFG",
-          "Year": 2005,
+          "entity": "Afghanistan",
+          "code": "AFG",
+          "year": 2005,
           "percent": 2.07
         },
         {
-          "Entity": "Afghanistan",
-          "Code": "AFG",
-          "Year": 2010,
+          "entity": "Afghanistan",
+          "code": "AFG",
+          "year": 2010,
           "percent": 2.07
         },
         {
-          "Entity": "Afghanistan",
-          "Code": "AFG",
-          "Year": 2015,
+          "entity": "Afghanistan",
+          "code": "AFG",
+          "year": 2015,
           "percent": 2.07
         },
         {
-          "Entity": "Albania",
-          "Code": "ALB",
-          "Year": 1990,
+          "entity": "Albania",
+          "code": "ALB",
+          "year": 1990,
           "percent": 28.79
         },
         {
-          "Entity": "Albania",
-          "Code": "ALB",
-          "Year": 2000,
+          "entity": "Albania",
+          "code": "ALB",
+          "year": 2000,
           "percent": 28.08
         },
         {
-          "Entity": "Albania",
-          "Code": "ALB",
-          "Year": 2005,
+          "entity": "Albania",
+          "code": "ALB",
+          "year": 2005,
           "percent": 28.55
         },
         {
-          "Entity": "Albania",
-          "Code": "ALB",
-          "Year": 2010,
+          "entity": "Albania",
+          "code": "ALB",
+          "year": 2010,
           "percent": 28.33
         }
       ]);
