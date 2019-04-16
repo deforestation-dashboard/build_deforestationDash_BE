@@ -1,7 +1,7 @@
 const db = require("../data/database");
 
 const get = () => {
-	return db("deforestation");
+	return db("forest");
 };
 
 const getByYear = (year) => {
