@@ -28,7 +28,7 @@ Knex is an SQL query builder that we use to interact with our Database in the AP
 
 ### [PG](https://www.npmjs.com/package/pg)
 
-> Non-blocking PostgreSQL client for Node.js. Pure JavaScript and optional native libpq bindings.
+Non-blocking PostgreSQL client for Node.js. Pure JavaScript and optional native libpq bindings.
 
 ## Development Dependencies
 
@@ -38,7 +38,7 @@ Cross-env is used for allowing Environment Variable setting with any platform/op
 
 ### [Faker](https://www.npmjs.com/package/faker)
 
-Faker is used for generating random data. In this project it is used for creating fake Artist Post's.
+Faker is used for generating random data.
 
 ### [Jest](https://www.npmjs.com/package/jest)
 
@@ -85,7 +85,7 @@ Nodemon is used for restarting your Node.js Application automatically if any of 
 
 ### GET /forest/:year
 
-- Returns an array with each element is an object contains a country name and a forest percentage at the year provided.
+- Returns an array with each element is an object containing a country name and a forest percentage in the year provided.
 
 - Response Example:
 
