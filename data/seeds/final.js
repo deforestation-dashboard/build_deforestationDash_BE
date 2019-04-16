@@ -7,6 +7,7 @@ exports.seed = function(knex, Promise) {
     .then(function () {
       return knex('deforestation').insert(finaldata1)
         .then(function () {
-          return knex('deforestation').insert(finaldata2))
+          return knex('deforestation').insert(finaldata2)
+        });
     });
 };
