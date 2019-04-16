@@ -17,7 +17,7 @@ const getCountryByYear = (country,year) => {
 };
 
 const test = () => {
-	return db("deforestation");
+	return db("forest");
 };
 
 module.exports = {
