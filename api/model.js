@@ -8,7 +8,17 @@ const getByYear = (year) => {
 	return db("forest").where({year}).select('entity', 'percent');
 };
 
+const getCountry = (country) => {
+	return db("countryinfo").where({country});
+};
+
+const getCountryByYear = (country,year) => {
+	return db("countryinfo").where({country, year});
+};
+
 module.exports = {
     get,
-    getByYear
+    getByYear,
+    getCountry,
+    getCountryByYear
 };
