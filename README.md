@@ -133,3 +133,62 @@ Nodemon is used for restarting your Node.js Application automatically if any of 
     ]
 }
 ```
+
+### GET /:country
+
+- Returns an array containing information of a country in different years.
+
+- :country should match the country name exactly. Usually, first letter of a country name is capitalized (Ex: "Afghanistan")
+
+- Response Example:
+
+```
+[
+    {
+        "country": "Afghanistan",
+        "code": "AFG",
+        "year": 1990,
+        "forest_area_km": "13500",
+        "country_land_area_km": "652860",
+        "forest_propotion_to_land": "2.07",
+        "country_population": "12249114",
+        "wood_removal": "2160000",
+        "total_land_usage": "0"
+    },
+    {
+        "country": "Afghanistan",
+        "code": "AFG",
+        "year": 1991,
+        "forest_area_km": "13500",
+        "country_land_area_km": "652860",
+        "forest_propotion_to_land": "0",
+        "country_population": "0",
+        "wood_removal": "2210000",
+        "total_land_usage": "0"
+    },
+    ...
+]
+```
+
+### GET /:country/:year
+
+- Returns information of a country in the given year.
+
+- :country should match the country name exactly. Usually, first letter of a country name is capitalized (Ex: "Afghanistan")
+
+- Response Example:
+
+```
+{
+    "country": "Afghanistan",
+    "code": "AFG",
+    "year": 1990,
+    "forest_area_km": "13500",
+    "country_land_area_km": "652860",
+    "forest_propotion_to_land": "2.07",
+    "country_population": "12249114",
+    "wood_removal": "2160000",
+    "total_land_usage": "0"
+}
+
+```

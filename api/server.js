@@ -64,8 +64,8 @@ server.get("/:country", async (req, res) => {
 server.get("/:country/:year", async (req, res) => {
 
 	try {
-		const list = await Forest.getCountryByYear(req.params.country,req.params.year);
-		res.status(200).json(list);
+		const country = await Forest.getCountryByYear(req.params.country,req.params.year);
+		res.status(200).json(country);
 	} catch (error) {
 		return res.status(500).json({ message: "Error retrieving information" });
 	}

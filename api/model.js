@@ -13,7 +13,7 @@ const getCountry = (country) => {
 };
 
 const getCountryByYear = (country,year) => {
-	return db("countryinfo").where({country, year});
+	return db("countryinfo").where({country, year}).first();
 };
 
 module.exports = {
