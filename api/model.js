@@ -16,9 +16,14 @@ const getCountryByYear = (country,year) => {
 	return db("countryinfo").where({country, year}).first();
 };
 
+const test = () => {
+	return db("deforestation");
+};
+
 module.exports = {
     get,
     getByYear,
     getCountry,
-    getCountryByYear
+    getCountryByYear,
+    test
 };

@@ -71,5 +71,15 @@ server.get("/:country/:year", async (req, res) => {
 	}
 });
 
+server.get("/test", async (req, res) => {
+
+	try {
+		const list = await Forest.test();
+		res.status(200).json(list);
+	} catch (error) {
+		return res.status(500).json({ message: "Error retrieving information" });
+	}
+});
+
 module.exports = server;
 
