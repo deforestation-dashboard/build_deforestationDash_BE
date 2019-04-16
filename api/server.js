@@ -35,5 +35,21 @@ server.get("/forest/:year", async (req, res) => {
 	}
 });
 
+server.get("/forest/:year/array", async (req, res) => {
+
+	try {
+		const list = await Forest.getByYear(req.params.year);
+		let countryArray = [];
+		let percentArray = [];
+		list.map( e => {
+			countryArray.push(e.entity);
+			percentArray.push(e.percent);
+		})
+		res.status(200).json({entity: countryArray, percent: percentArray});
+	} catch (error) {
+		return res.status(500).json({ message: "Error retrieving information" });
+	}
+});
+
 module.exports = server;
 
