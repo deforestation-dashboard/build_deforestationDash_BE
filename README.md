@@ -59,5 +59,77 @@ Nodemon is used for restarting your Node.js Application automatically if any of 
 
 # Endpoints
 
-### GET /api/
+### GET /forest/
 
+- Returns an array with every row in data table as an element.
+
+- Response Example:
+
+```
+[
+    {
+        "entity": "Afghanistan",
+        "code": "AFG",
+        "year": 1990,
+        "percent": "2.07"
+    },
+    {
+        "entity": "Afghanistan",
+        "code": "AFG",
+        "year": 2000,
+        "percent": "2.07"
+    },
+    ...
+]
+```
+
+### GET /forest/:year
+
+- Returns an array with each element is an object contains a country name and a forest percentage at the year provided.
+
+- Response Example:
+
+```
+[
+    {
+        "entity": "Afghanistan",
+        "percent": "2.07"
+    },
+    {
+        "entity": "Albania",
+        "percent": "28.79"
+    },
+    {
+        "entity": "Algeria",
+        "percent": "0.70"
+    },
+    ...
+]
+```
+
+### GET /forest/:year/array
+
+- Similar to GET /forest/:year but returning a different data format.
+
+- Response Example:
+
+```
+{
+    "entity": [
+        "Afghanistan",
+        "Albania",
+        "Algeria",
+        "American Samoa",
+        "Andorra",
+        ...
+    ],
+    "percent": [
+        "2.07",
+        "28.79",
+        "0.70",
+        "91.94",
+        "34.04",
+        ...
+    ]
+}
+```
