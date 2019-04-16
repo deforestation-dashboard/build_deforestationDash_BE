@@ -1,4 +1,4 @@
-# API For The Look Book Project
+# API For Deforestation Dashboard
 
 # Dependencies
 
