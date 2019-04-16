@@ -25,5 +25,15 @@ server.get("/forest", async (req, res) => {
 	}
 });
 
+server.get("/forest/:year", async (req, res) => {
+
+	try {
+		const list = await Forest.getByYear(req.params.year);
+		res.status(200).json(list);
+	} catch (error) {
+		return res.status(500).json({ message: "Error retrieving information" });
+	}
+});
+
 module.exports = server;
 
