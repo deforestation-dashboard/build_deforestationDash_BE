@@ -4,7 +4,7 @@ exports.up = function(knex, Promise) {
 		table.string("country");
 		table.string("code");
         table.integer("year");
-        table.integer("forest_area_km");
+        table.decimal("forest_area_km");
         table.integer("country_land_area_km");
         table.decimal("forest_propotion_to_land");
         table.integer("country_population");
