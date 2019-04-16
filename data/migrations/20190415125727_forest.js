@@ -1,7 +1,6 @@
 
 exports.up = function(knex, Promise) {
     return knex.schema.createTable("forest", table => {
-		table.increments();
 		table.string("entity");
 		table.string("code");
         table.integer("year");

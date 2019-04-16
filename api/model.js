@@ -5,7 +5,7 @@ const get = () => {
 };
 
 const getByYear = (year) => {
-	return db("forest").where({year});
+	return db("forest").where({year}).select('entity', 'percent');
 };
 
 module.exports = {
