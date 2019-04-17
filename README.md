@@ -93,16 +93,16 @@ Nodemon is used for restarting your Node.js Application automatically if any of 
 ```
 [
     {
-        "entity": "Afghanistan",
-        "percent": "2.07"
+        "country": "Afghanistan",
+        "forest_propotion_to_land": "2.07"
     },
     {
-        "entity": "Albania",
-        "percent": "28.79"
+        "country": "Albania",
+        "forest_propotion_to_land": "28.79"
     },
     {
-        "entity": "Algeria",
-        "percent": "0.70"
+        "country": "Algeria",
+        "forest_propotion_to_land": "0.70"
     },
     ...
 ]
@@ -116,7 +116,7 @@ Nodemon is used for restarting your Node.js Application automatically if any of 
 
 ```
 {
-    "entity": [
+    "country": [
         "Afghanistan",
         "Albania",
         "Algeria",
@@ -124,7 +124,7 @@ Nodemon is used for restarting your Node.js Application automatically if any of 
         "Andorra",
         ...
     ],
-    "percent": [
+    "forest_propotion_to_land": [
         "2.07",
         "28.79",
         "0.70",
