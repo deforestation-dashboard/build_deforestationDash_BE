@@ -1,7 +1,7 @@
 const db = require("../data/database");
 
 const get = () => {
-	return db("forest");
+	return db("deforestation");
 };
 
 const getByYear = (year) => {
@@ -14,10 +14,6 @@ const getCountry = (country) => {
 
 const getCountryByYear = (country,year) => {
 	return db("countryinfo").where({country, year}).first();
-};
-
-const test = () => {
-	return db("deforestation");
 };
 
 module.exports = {
