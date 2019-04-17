@@ -20,6 +20,5 @@ module.exports = {
     get,
     getByYear,
     getCountry,
-    getCountryByYear,
-    test
+    getCountryByYear
 };
