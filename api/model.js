@@ -5,15 +5,15 @@ const get = () => {
 };
 
 const getByYear = (year) => {
-	return db("forest").where({year}).select('entity', 'percent');
+	return db("deforestation").where({year}).select('entity', 'percent');
 };
 
 const getCountry = (country) => {
-	return db("countryinfo").where({country});
+	return db("deforestation").where({country});
 };
 
 const getCountryByYear = (country,year) => {
-	return db("countryinfo").where({country, year}).first();
+	return db("deforestation").where({country, year}).first();
 };
 
 module.exports = {

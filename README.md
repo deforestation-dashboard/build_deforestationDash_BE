@@ -68,16 +68,17 @@ Nodemon is used for restarting your Node.js Application automatically if any of 
 ```
 [
     {
-        "entity": "Afghanistan",
+        "country": "Afghanistan",
         "code": "AFG",
         "year": 1990,
-        "percent": "2.07"
-    },
-    {
-        "entity": "Afghanistan",
-        "code": "AFG",
-        "year": 2000,
-        "percent": "2.07"
+        "forest_area_km": "13500",
+        "country_land_area_km": "652860",
+        "forest_propotion_to_land": "2.07",
+        "country_population": "12249114",
+        "wood_removal": "2160000",
+        "total_land_usage": "0",
+        "percent_protected_land": "0",
+        "mean_yearly_exposure_pollution": "60.9366899697247"
     },
     ...
 ]
