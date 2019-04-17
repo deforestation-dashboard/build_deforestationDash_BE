@@ -154,7 +154,9 @@ Nodemon is used for restarting your Node.js Application automatically if any of 
         "forest_propotion_to_land": "2.07",
         "country_population": "12249114",
         "wood_removal": "2160000",
-        "total_land_usage": "0"
+        "total_land_usage": "0",
+        "percent_protected_land": "0",
+        "mean_yearly_exposure_pollution": "60.9366899697247"
     },
     {
         "country": "Afghanistan",
@@ -165,7 +167,9 @@ Nodemon is used for restarting your Node.js Application automatically if any of 
         "forest_propotion_to_land": "0",
         "country_population": "0",
         "wood_removal": "2210000",
-        "total_land_usage": "0"
+        "total_land_usage": "0",
+        "percent_protected_land": "0",
+        "mean_yearly_exposure_pollution": "0"
     },
     ...
 ]
@@ -189,7 +193,9 @@ Nodemon is used for restarting your Node.js Application automatically if any of 
     "forest_propotion_to_land": "2.07",
     "country_population": "12249114",
     "wood_removal": "2160000",
-    "total_land_usage": "0"
+    "total_land_usage": "0",
+    "percent_protected_land": "0",
+    "mean_yearly_exposure_pollution": "60.9366899697247"
 }
 
 ```

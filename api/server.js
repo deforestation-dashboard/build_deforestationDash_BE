@@ -42,10 +42,10 @@ server.get("/forest/:year/array", async (req, res) => {
 		let countryArray = [];
 		let percentArray = [];
 		list.map( e => {
-			countryArray.push(e.entity);
-			percentArray.push(e.percent);
+			countryArray.push(e.country);
+			percentArray.push(e.forest_propotion_to_land);
 		})
-		res.status(200).json({entity: countryArray, percent: percentArray});
+		res.status(200).json({country: countryArray, forest_propotion_to_land: percentArray});
 	} catch (error) {
 		return res.status(500).json({ message: "Error retrieving information" });
 	}

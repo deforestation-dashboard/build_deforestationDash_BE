@@ -5,7 +5,7 @@ const get = () => {
 };
 
 const getByYear = (year) => {
-	return db("deforestation").where({year}).select('entity', 'percent');
+	return db("deforestation").where({year}).select('country', 'forest_propotion_to_land');
 };
 
 const getCountry = (country) => {
