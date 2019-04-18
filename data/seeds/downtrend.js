@@ -6,4 +6,4 @@ exports.seed = function(knex, Promise) {
     .then(function () {
       return knex('downtrend').insert(data)
     });
-};
+}

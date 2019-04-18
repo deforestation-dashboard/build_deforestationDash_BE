@@ -10,7 +10,7 @@ module.exports = [
     "country_land_area_km": 652860,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 60.9366899697
+    "mean_yearly_exposure_pollution": 60.93668996970001
   },
   {
     "country": "Afghanistan",
@@ -75,7 +75,7 @@ module.exports = [
     "country_land_area_km": 652860,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 56.1366281956
+    "mean_yearly_exposure_pollution": 56.136628195600004
   },
   {
     "country": "Afghanistan",
@@ -205,7 +205,7 @@ module.exports = [
     "country_land_area_km": 652860,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 43.234032203
+    "mean_yearly_exposure_pollution": 43.23403220300001
   },
   {
     "country": "Afghanistan",
@@ -270,7 +270,7 @@ module.exports = [
     "country_land_area_km": 652860,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 46.5368091436
+    "mean_yearly_exposure_pollution": 46.536809143599996
   },
   {
     "country": "Afghanistan",
@@ -296,7 +296,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 50.6539453618
+    "mean_yearly_exposure_pollution": 50.653945361800005
   },
   {
     "country": "Afghanistan",
@@ -309,7 +309,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 50.9688311215
+    "mean_yearly_exposure_pollution": 50.968831121499996
   },
   {
     "country": "Afghanistan",
@@ -335,7 +335,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 62.0802341527
+    "mean_yearly_exposure_pollution": 62.08023415270001
   },
   {
     "country": "Afghanistan",
@@ -429,6 +429,45 @@ module.exports = [
     "mean_yearly_exposure_pollution": 0
   },
   {
+    "country": "Afghanistan",
+    "year": 2023,
+    "forest_propotion_to_land": 2.07,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Afghanistan",
+    "year": 2024,
+    "forest_propotion_to_land": 2.07,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Afghanistan",
+    "year": 2025,
+    "forest_propotion_to_land": 2.07,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
     "country": "Albania",
     "year": 1990,
     "forest_propotion_to_land": 28.79,
@@ -504,7 +543,7 @@ module.exports = [
     "country_land_area_km": 27400,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 15.0726038393
+    "mean_yearly_exposure_pollution": 15.072603839300001
   },
   {
     "country": "Albania",
@@ -712,7 +751,7 @@ module.exports = [
     "country_land_area_km": 27400,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 14.6461352462
+    "mean_yearly_exposure_pollution": 14.646135246199998
   },
   {
     "country": "Albania",
@@ -738,7 +777,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 15.6359167041
+    "mean_yearly_exposure_pollution": 15.635916704100001
   },
   {
     "country": "Albania",
@@ -751,7 +790,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 16.7488618337
+    "mean_yearly_exposure_pollution": 16.748861833699998
   },
   {
     "country": "Albania",
@@ -764,12 +803,12 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 14.7365481994
+    "mean_yearly_exposure_pollution": 14.736548199400001
   },
   {
     "country": "Albania",
     "year": 2016,
-    "forest_propotion_to_land": 28.1348001284,
+    "forest_propotion_to_land": 28.1348009066,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -782,7 +821,7 @@ module.exports = [
   {
     "country": "Albania",
     "year": 2017,
-    "forest_propotion_to_land": 28.109599629,
+    "forest_propotion_to_land": 28.1096015097,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -795,7 +834,7 @@ module.exports = [
   {
     "country": "Albania",
     "year": 2018,
-    "forest_propotion_to_land": 28.0843992864,
+    "forest_propotion_to_land": 28.084402148899997,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -808,7 +847,7 @@ module.exports = [
   {
     "country": "Albania",
     "year": 2019,
-    "forest_propotion_to_land": 28.0591989439,
+    "forest_propotion_to_land": 28.059202788,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -821,7 +860,7 @@ module.exports = [
   {
     "country": "Albania",
     "year": 2020,
-    "forest_propotion_to_land": 28.0339986013,
+    "forest_propotion_to_land": 28.0340034272,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -834,7 +873,7 @@ module.exports = [
   {
     "country": "Albania",
     "year": 2021,
-    "forest_propotion_to_land": 28.0087982587,
+    "forest_propotion_to_land": 28.0088040663,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -847,7 +886,46 @@ module.exports = [
   {
     "country": "Albania",
     "year": 2022,
-    "forest_propotion_to_land": 27.9835979162,
+    "forest_propotion_to_land": 27.983604705500003,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Albania",
+    "year": 2023,
+    "forest_propotion_to_land": 27.958405344699997,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Albania",
+    "year": 2024,
+    "forest_propotion_to_land": 27.9332059838,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Albania",
+    "year": 2025,
+    "forest_propotion_to_land": 27.908006623000002,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -1063,7 +1141,7 @@ module.exports = [
     "country_land_area_km": 2381740,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 28.4344309747
+    "mean_yearly_exposure_pollution": 28.434430974699996
   },
   {
     "country": "Algeria",
@@ -1128,7 +1206,7 @@ module.exports = [
     "country_land_area_km": 2381740,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 26.7093490953
+    "mean_yearly_exposure_pollution": 26.709349095300002
   },
   {
     "country": "Algeria",
@@ -1141,7 +1219,7 @@ module.exports = [
     "country_land_area_km": 2381740,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 27.4970747701
+    "mean_yearly_exposure_pollution": 27.497074770100003
   },
   {
     "country": "Algeria",
@@ -1198,7 +1276,7 @@ module.exports = [
   {
     "country": "Algeria",
     "year": 2016,
-    "forest_propotion_to_land": 0.8274626451,
+    "forest_propotion_to_land": 0.8274691378,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -1211,7 +1289,7 @@ module.exports = [
   {
     "country": "Algeria",
     "year": 2017,
-    "forest_propotion_to_land": 0.83501016,
+    "forest_propotion_to_land": 0.8350228040000001,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -1224,7 +1302,7 @@ module.exports = [
   {
     "country": "Algeria",
     "year": 2018,
-    "forest_propotion_to_land": 0.8425540775,
+    "forest_propotion_to_land": 0.8425728928,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -1237,7 +1315,7 @@ module.exports = [
   {
     "country": "Algeria",
     "year": 2019,
-    "forest_propotion_to_land": 0.8500981398,
+    "forest_propotion_to_land": 0.8501231254,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -1250,7 +1328,7 @@ module.exports = [
   {
     "country": "Algeria",
     "year": 2020,
-    "forest_propotion_to_land": 0.8576421961,
+    "forest_propotion_to_land": 0.857673352,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -1263,7 +1341,7 @@ module.exports = [
   {
     "country": "Algeria",
     "year": 2021,
-    "forest_propotion_to_land": 0.8651862527,
+    "forest_propotion_to_land": 0.8652235789,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -1276,7 +1354,46 @@ module.exports = [
   {
     "country": "Algeria",
     "year": 2022,
-    "forest_propotion_to_land": 0.8727303093,
+    "forest_propotion_to_land": 0.8727738058,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Algeria",
+    "year": 2023,
+    "forest_propotion_to_land": 0.8803240326999999,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Algeria",
+    "year": 2024,
+    "forest_propotion_to_land": 0.8878742595999999,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Algeria",
+    "year": 2025,
+    "forest_propotion_to_land": 0.8954244865000001,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -1627,7 +1744,7 @@ module.exports = [
   {
     "country": "American Samoa",
     "year": 2016,
-    "forest_propotion_to_land": 87.6548194234,
+    "forest_propotion_to_land": 87.6548192491,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -1640,7 +1757,7 @@ module.exports = [
   {
     "country": "American Samoa",
     "year": 2017,
-    "forest_propotion_to_land": 87.4688209276,
+    "forest_propotion_to_land": 87.4688207969,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -1653,7 +1770,7 @@ module.exports = [
   {
     "country": "American Samoa",
     "year": 2018,
-    "forest_propotion_to_land": 87.2995023155,
+    "forest_propotion_to_land": 87.2995021677,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -1666,7 +1783,7 @@ module.exports = [
   {
     "country": "American Samoa",
     "year": 2019,
-    "forest_propotion_to_land": 87.1279273545,
+    "forest_propotion_to_land": 87.1279272022,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -1679,7 +1796,7 @@ module.exports = [
   {
     "country": "American Samoa",
     "year": 2020,
-    "forest_propotion_to_land": 86.9566564899,
+    "forest_propotion_to_land": 86.9566563308,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -1692,7 +1809,7 @@ module.exports = [
   {
     "country": "American Samoa",
     "year": 2021,
-    "forest_propotion_to_land": 86.7853446691,
+    "forest_propotion_to_land": 86.7853445036,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -1705,7 +1822,46 @@ module.exports = [
   {
     "country": "American Samoa",
     "year": 2022,
-    "forest_propotion_to_land": 86.6140383636,
+    "forest_propotion_to_land": 86.6140381916,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "American Samoa",
+    "year": 2023,
+    "forest_propotion_to_land": 86.44273113700001,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "American Samoa",
+    "year": 2024,
+    "forest_propotion_to_land": 86.2714241824,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "American Samoa",
+    "year": 2025,
+    "forest_propotion_to_land": 86.1001172143,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -1726,7 +1882,7 @@ module.exports = [
     "country_land_area_km": 470,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 11.5762452471
+    "mean_yearly_exposure_pollution": 11.576245247100001
   },
   {
     "country": "Andorra",
@@ -2025,7 +2181,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 10.9426841671
+    "mean_yearly_exposure_pollution": 10.942684167100001
   },
   {
     "country": "Andorra",
@@ -2134,6 +2290,45 @@ module.exports = [
   {
     "country": "Andorra",
     "year": 2022,
+    "forest_propotion_to_land": 34.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Andorra",
+    "year": 2023,
+    "forest_propotion_to_land": 34.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Andorra",
+    "year": 2024,
+    "forest_propotion_to_land": 34.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Andorra",
+    "year": 2025,
     "forest_propotion_to_land": 34.04,
     "country_population": 0,
     "wood_removal": 0,
@@ -2415,7 +2610,7 @@ module.exports = [
     "country_land_area_km": 1246700,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 30.921715863
+    "mean_yearly_exposure_pollution": 30.921715863000003
   },
   {
     "country": "Angola",
@@ -2485,7 +2680,7 @@ module.exports = [
   {
     "country": "Angola",
     "year": 2016,
-    "forest_propotion_to_land": 46.3715866021,
+    "forest_propotion_to_land": 46.3715869296,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -2498,7 +2693,7 @@ module.exports = [
   {
     "country": "Angola",
     "year": 2017,
-    "forest_propotion_to_land": 46.2610874342,
+    "forest_propotion_to_land": 46.261087742200004,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -2511,7 +2706,7 @@ module.exports = [
   {
     "country": "Angola",
     "year": 2018,
-    "forest_propotion_to_land": 46.1609400344,
+    "forest_propotion_to_land": 46.1609403257,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -2524,7 +2719,7 @@ module.exports = [
   {
     "country": "Angola",
     "year": 2019,
-    "forest_propotion_to_land": 46.059319785,
+    "forest_propotion_to_land": 46.0593200689,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -2537,7 +2732,7 @@ module.exports = [
   {
     "country": "Angola",
     "year": 2020,
-    "forest_propotion_to_land": 45.9579088674,
+    "forest_propotion_to_land": 45.957909141,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -2550,7 +2745,7 @@ module.exports = [
   {
     "country": "Angola",
     "year": 2021,
-    "forest_propotion_to_land": 45.8564682017,
+    "forest_propotion_to_land": 45.8564684657,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -2563,7 +2758,46 @@ module.exports = [
   {
     "country": "Angola",
     "year": 2022,
-    "forest_propotion_to_land": 45.7550317635,
+    "forest_propotion_to_land": 45.7550320177,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Angola",
+    "year": 2023,
+    "forest_propotion_to_land": 45.653594969,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Angola",
+    "year": 2024,
+    "forest_propotion_to_land": 45.552158005699994,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Angola",
+    "year": 2025,
+    "forest_propotion_to_land": 45.45072103020001,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -2844,7 +3078,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 13.3742182937
+    "mean_yearly_exposure_pollution": 13.374218293699998
   },
   {
     "country": "Antigua and Barbuda",
@@ -2857,7 +3091,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 13.6134418719
+    "mean_yearly_exposure_pollution": 13.613441871900001
   },
   {
     "country": "Antigua and Barbuda",
@@ -2914,7 +3148,7 @@ module.exports = [
   {
     "country": "Antigua and Barbuda",
     "year": 2016,
-    "forest_propotion_to_land": 22.2185390185,
+    "forest_propotion_to_land": 22.2185386313,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -2927,7 +3161,7 @@ module.exports = [
   {
     "country": "Antigua and Barbuda",
     "year": 2017,
-    "forest_propotion_to_land": 22.1714741769,
+    "forest_propotion_to_land": 22.171473851,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -2940,7 +3174,7 @@ module.exports = [
   {
     "country": "Antigua and Barbuda",
     "year": 2018,
-    "forest_propotion_to_land": 22.1239795905,
+    "forest_propotion_to_land": 22.1239792519,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -2953,7 +3187,7 @@ module.exports = [
   {
     "country": "Antigua and Barbuda",
     "year": 2019,
-    "forest_propotion_to_land": 22.0765263457,
+    "forest_propotion_to_land": 22.0765260046,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -2966,7 +3200,7 @@ module.exports = [
   {
     "country": "Antigua and Barbuda",
     "year": 2020,
-    "forest_propotion_to_land": 22.0290691167,
+    "forest_propotion_to_land": 22.0290687718,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -2979,7 +3213,7 @@ module.exports = [
   {
     "country": "Antigua and Barbuda",
     "year": 2021,
-    "forest_propotion_to_land": 21.9816122715,
+    "forest_propotion_to_land": 21.981611923000003,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -2992,7 +3226,46 @@ module.exports = [
   {
     "country": "Antigua and Barbuda",
     "year": 2022,
-    "forest_propotion_to_land": 21.9341553894,
+    "forest_propotion_to_land": 21.934155037199996,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "year": 2023,
+    "forest_propotion_to_land": 21.886698155,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "year": 2024,
+    "forest_propotion_to_land": 21.8392412724,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "year": 2025,
+    "forest_propotion_to_land": 21.7917843899,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -3208,7 +3481,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 52.7630046665
+    "mean_yearly_exposure_pollution": 52.763004666499995
   },
   {
     "country": "Arab World",
@@ -3273,7 +3546,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 63.7917252177
+    "mean_yearly_exposure_pollution": 63.791725217700005
   },
   {
     "country": "Arab World",
@@ -3312,7 +3585,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 63.3915413153
+    "mean_yearly_exposure_pollution": 63.391541315299996
   },
   {
     "country": "Arab World",
@@ -3421,6 +3694,45 @@ module.exports = [
   {
     "country": "Arab World",
     "year": 2022,
+    "forest_propotion_to_land": 22.27,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Arab World",
+    "year": 2023,
+    "forest_propotion_to_land": 22.27,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Arab World",
+    "year": 2024,
+    "forest_propotion_to_land": 22.27,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Arab World",
+    "year": 2025,
     "forest_propotion_to_land": 22.27,
     "country_population": 0,
     "wood_removal": 0,
@@ -3728,7 +4040,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 14.0758542794
+    "mean_yearly_exposure_pollution": 14.075854279400001
   },
   {
     "country": "Argentina",
@@ -3767,12 +4079,12 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 14.1172029719
+    "mean_yearly_exposure_pollution": 14.117202971900001
   },
   {
     "country": "Argentina",
     "year": 2016,
-    "forest_propotion_to_land": 9.8657332228,
+    "forest_propotion_to_land": 9.865737560800001,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -3785,7 +4097,7 @@ module.exports = [
   {
     "country": "Argentina",
     "year": 2017,
-    "forest_propotion_to_land": 9.7418728152,
+    "forest_propotion_to_land": 9.7418761984,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -3798,7 +4110,7 @@ module.exports = [
   {
     "country": "Argentina",
     "year": 2018,
-    "forest_propotion_to_land": 9.6296787638,
+    "forest_propotion_to_land": 9.629682430099999,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -3811,7 +4123,7 @@ module.exports = [
   {
     "country": "Argentina",
     "year": 2019,
-    "forest_propotion_to_land": 9.5157935903,
+    "forest_propotion_to_land": 9.5157973013,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -3824,7 +4136,7 @@ module.exports = [
   {
     "country": "Argentina",
     "year": 2020,
-    "forest_propotion_to_land": 9.4021532069,
+    "forest_propotion_to_land": 9.4021570054,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -3837,7 +4149,7 @@ module.exports = [
   {
     "country": "Argentina",
     "year": 2021,
-    "forest_propotion_to_land": 9.2884773967,
+    "forest_propotion_to_land": 9.2884812753,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -3850,7 +4162,46 @@ module.exports = [
   {
     "country": "Argentina",
     "year": 2022,
-    "forest_propotion_to_land": 9.1748067134,
+    "forest_propotion_to_land": 9.1748106734,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Argentina",
+    "year": 2023,
+    "forest_propotion_to_land": 9.0611393293,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Argentina",
+    "year": 2024,
+    "forest_propotion_to_land": 8.9474680927,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Argentina",
+    "year": 2025,
+    "forest_propotion_to_land": 8.8337968405,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -3871,7 +4222,7 @@ module.exports = [
     "country_land_area_km": 28470,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 20.7321876682
+    "mean_yearly_exposure_pollution": 20.732187668199998
   },
   {
     "country": "Armenia",
@@ -4066,7 +4417,7 @@ module.exports = [
     "country_land_area_km": 28470,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 21.3093617783
+    "mean_yearly_exposure_pollution": 21.309361778299998
   },
   {
     "country": "Armenia",
@@ -4131,7 +4482,7 @@ module.exports = [
     "country_land_area_km": 28470,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 25.7208275539
+    "mean_yearly_exposure_pollution": 25.720827553899998
   },
   {
     "country": "Armenia",
@@ -4144,7 +4495,7 @@ module.exports = [
     "country_land_area_km": 28470,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 25.8609024011
+    "mean_yearly_exposure_pollution": 25.860902401100002
   },
   {
     "country": "Armenia",
@@ -4157,7 +4508,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 24.0359165395
+    "mean_yearly_exposure_pollution": 24.035916539499997
   },
   {
     "country": "Armenia",
@@ -4170,7 +4521,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 24.6651848659
+    "mean_yearly_exposure_pollution": 24.665184865900002
   },
   {
     "country": "Armenia",
@@ -4196,12 +4547,12 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 27.1320370732
+    "mean_yearly_exposure_pollution": 27.132037073200003
   },
   {
     "country": "Armenia",
     "year": 2016,
-    "forest_propotion_to_land": 11.7619351695,
+    "forest_propotion_to_land": 11.7619227637,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -4214,7 +4565,7 @@ module.exports = [
   {
     "country": "Armenia",
     "year": 2017,
-    "forest_propotion_to_land": 11.7575790511,
+    "forest_propotion_to_land": 11.7575684509,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -4227,7 +4578,7 @@ module.exports = [
   {
     "country": "Armenia",
     "year": 2018,
-    "forest_propotion_to_land": 11.75285259,
+    "forest_propotion_to_land": 11.752841236400002,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -4240,7 +4591,7 @@ module.exports = [
   {
     "country": "Armenia",
     "year": 2019,
-    "forest_propotion_to_land": 11.7481630867,
+    "forest_propotion_to_land": 11.7481513501,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -4253,7 +4604,7 @@ module.exports = [
   {
     "country": "Armenia",
     "year": 2020,
-    "forest_propotion_to_land": 11.7434698952,
+    "forest_propotion_to_land": 11.743457727100001,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -4266,7 +4617,7 @@ module.exports = [
   {
     "country": "Armenia",
     "year": 2021,
-    "forest_propotion_to_land": 11.7387770718,
+    "forest_propotion_to_land": 11.7387644781,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -4279,7 +4630,46 @@ module.exports = [
   {
     "country": "Armenia",
     "year": 2022,
-    "forest_propotion_to_land": 11.7340842116,
+    "forest_propotion_to_land": 11.7340711917,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Armenia",
+    "year": 2023,
+    "forest_propotion_to_land": 11.729377909,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Armenia",
+    "year": 2024,
+    "forest_propotion_to_land": 11.724684625999998,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Armenia",
+    "year": 2025,
+    "forest_propotion_to_land": 11.719991343,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -4719,6 +5109,45 @@ module.exports = [
     "mean_yearly_exposure_pollution": 0
   },
   {
+    "country": "Aruba",
+    "year": 2023,
+    "forest_propotion_to_land": 2.33,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Aruba",
+    "year": 2024,
+    "forest_propotion_to_land": 2.33,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Aruba",
+    "year": 2025,
+    "forest_propotion_to_land": 2.33,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
     "country": "Australia",
     "year": 1990,
     "forest_propotion_to_land": 16.73,
@@ -4794,7 +5223,7 @@ module.exports = [
     "country_land_area_km": 7682300,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 6.7440107168
+    "mean_yearly_exposure_pollution": 6.744010716799999
   },
   {
     "country": "Australia",
@@ -4859,7 +5288,7 @@ module.exports = [
     "country_land_area_km": 7682300,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 6.8023412958
+    "mean_yearly_exposure_pollution": 6.802341295800001
   },
   {
     "country": "Australia",
@@ -5015,7 +5444,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 5.9817761571
+    "mean_yearly_exposure_pollution": 5.9817761571000005
   },
   {
     "country": "Australia",
@@ -5059,7 +5488,7 @@ module.exports = [
   {
     "country": "Australia",
     "year": 2016,
-    "forest_propotion_to_land": 16.2118530998,
+    "forest_propotion_to_land": 16.2118615991,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -5072,7 +5501,7 @@ module.exports = [
   {
     "country": "Australia",
     "year": 2017,
-    "forest_propotion_to_land": 16.1916335478,
+    "forest_propotion_to_land": 16.191641738199998,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -5085,7 +5514,7 @@ module.exports = [
   {
     "country": "Australia",
     "year": 2018,
-    "forest_propotion_to_land": 16.1709598831,
+    "forest_propotion_to_land": 16.170968429400002,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -5098,7 +5527,7 @@ module.exports = [
   {
     "country": "Australia",
     "year": 2019,
-    "forest_propotion_to_land": 16.1503080788,
+    "forest_propotion_to_land": 16.1503169322,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -5111,7 +5540,7 @@ module.exports = [
   {
     "country": "Australia",
     "year": 2020,
-    "forest_propotion_to_land": 16.1296551636,
+    "forest_propotion_to_land": 16.1296643272,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -5124,7 +5553,7 @@ module.exports = [
   {
     "country": "Australia",
     "year": 2021,
-    "forest_propotion_to_land": 16.1090023038,
+    "forest_propotion_to_land": 16.1090117775,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -5137,7 +5566,46 @@ module.exports = [
   {
     "country": "Australia",
     "year": 2022,
-    "forest_propotion_to_land": 16.0883494413,
+    "forest_propotion_to_land": 16.088359225,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Australia",
+    "year": 2023,
+    "forest_propotion_to_land": 16.067706672699998,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Australia",
+    "year": 2024,
+    "forest_propotion_to_land": 16.0470541204,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Australia",
+    "year": 2025,
+    "forest_propotion_to_land": 16.026401568,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -5288,7 +5756,7 @@ module.exports = [
     "country_land_area_km": 82580,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 15.2687951059
+    "mean_yearly_exposure_pollution": 15.268795105899999
   },
   {
     "country": "Austria",
@@ -5418,7 +5886,7 @@ module.exports = [
     "country_land_area_km": 82570.99609375,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 15.1477554985
+    "mean_yearly_exposure_pollution": 15.147755498499999
   },
   {
     "country": "Austria",
@@ -5431,7 +5899,7 @@ module.exports = [
     "country_land_area_km": 82560.99609375,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 14.9339580745
+    "mean_yearly_exposure_pollution": 14.933958074500001
   },
   {
     "country": "Austria",
@@ -5444,7 +5912,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 15.247447324
+    "mean_yearly_exposure_pollution": 15.247447324000001
   },
   {
     "country": "Austria",
@@ -5470,7 +5938,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 16.4660670312
+    "mean_yearly_exposure_pollution": 16.466067031199998
   },
   {
     "country": "Austria",
@@ -5488,7 +5956,7 @@ module.exports = [
   {
     "country": "Austria",
     "year": 2016,
-    "forest_propotion_to_land": 46.9709496846,
+    "forest_propotion_to_land": 46.9709494062,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -5501,7 +5969,7 @@ module.exports = [
   {
     "country": "Austria",
     "year": 2017,
-    "forest_propotion_to_land": 47.0177351496,
+    "forest_propotion_to_land": 47.0177349003,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -5514,7 +5982,7 @@ module.exports = [
   {
     "country": "Austria",
     "year": 2018,
-    "forest_propotion_to_land": 47.0639663829,
+    "forest_propotion_to_land": 47.0639661135,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -5527,7 +5995,7 @@ module.exports = [
   {
     "country": "Austria",
     "year": 2019,
-    "forest_propotion_to_land": 47.1102495149,
+    "forest_propotion_to_land": 47.110249232,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -5540,7 +6008,7 @@ module.exports = [
   {
     "country": "Austria",
     "year": 2020,
-    "forest_propotion_to_land": 47.1565277792,
+    "forest_propotion_to_land": 47.156527482,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -5553,7 +6021,7 @@ module.exports = [
   {
     "country": "Austria",
     "year": 2021,
-    "forest_propotion_to_land": 47.2028065,
+    "forest_propotion_to_land": 47.202806188500006,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -5566,7 +6034,46 @@ module.exports = [
   {
     "country": "Austria",
     "year": 2022,
-    "forest_propotion_to_land": 47.2490851779,
+    "forest_propotion_to_land": 47.249084852299994,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Austria",
+    "year": 2023,
+    "forest_propotion_to_land": 47.29536352,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Austria",
+    "year": 2024,
+    "forest_propotion_to_land": 47.3416421874,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Austria",
+    "year": 2025,
+    "forest_propotion_to_land": 47.387920854799994,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -5917,7 +6424,7 @@ module.exports = [
   {
     "country": "Azerbaijan",
     "year": 2016,
-    "forest_propotion_to_land": 13.8558647755,
+    "forest_propotion_to_land": 13.855859169,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -5930,7 +6437,7 @@ module.exports = [
   {
     "country": "Azerbaijan",
     "year": 2017,
-    "forest_propotion_to_land": 14.240078337,
+    "forest_propotion_to_land": 14.240075282000001,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -5943,7 +6450,7 @@ module.exports = [
   {
     "country": "Azerbaijan",
     "year": 2018,
-    "forest_propotion_to_land": 14.5649146801,
+    "forest_propotion_to_land": 14.564911068599999,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -5956,7 +6463,7 @@ module.exports = [
   {
     "country": "Azerbaijan",
     "year": 2019,
-    "forest_propotion_to_land": 14.9011242332,
+    "forest_propotion_to_land": 14.901120960999998,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -5969,7 +6476,7 @@ module.exports = [
   {
     "country": "Azerbaijan",
     "year": 2020,
-    "forest_propotion_to_land": 15.2351563683,
+    "forest_propotion_to_land": 15.2351532061,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -5982,7 +6489,7 @@ module.exports = [
   {
     "country": "Azerbaijan",
     "year": 2021,
-    "forest_propotion_to_land": 15.5696053559,
+    "forest_propotion_to_land": 15.5696023587,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -5995,7 +6502,46 @@ module.exports = [
   {
     "country": "Azerbaijan",
     "year": 2022,
-    "forest_propotion_to_land": 15.9039745401,
+    "forest_propotion_to_land": 15.9039716953,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Azerbaijan",
+    "year": 2023,
+    "forest_propotion_to_land": 16.2383563125,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Azerbaijan",
+    "year": 2024,
+    "forest_propotion_to_land": 16.5727380042,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Azerbaijan",
+    "year": 2025,
+    "forest_propotion_to_land": 16.907120256,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -6016,7 +6562,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 19.4703506093
+    "mean_yearly_exposure_pollution": 19.470350609300002
   },
   {
     "country": "Bahamas",
@@ -6435,6 +6981,45 @@ module.exports = [
     "mean_yearly_exposure_pollution": 0
   },
   {
+    "country": "Bahamas",
+    "year": 2023,
+    "forest_propotion_to_land": 51.45,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Bahamas",
+    "year": 2024,
+    "forest_propotion_to_land": 51.45,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Bahamas",
+    "year": 2025,
+    "forest_propotion_to_land": 51.45,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
     "country": "Bahrain",
     "year": 1990,
     "forest_propotion_to_land": 0.28,
@@ -6575,7 +7160,7 @@ module.exports = [
     "country_land_area_km": 710,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 62.5534595111
+    "mean_yearly_exposure_pollution": 62.553459511099994
   },
   {
     "country": "Bahrain",
@@ -6640,7 +7225,7 @@ module.exports = [
     "country_land_area_km": 740,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 52.9329948398
+    "mean_yearly_exposure_pollution": 52.932994839799996
   },
   {
     "country": "Bahrain",
@@ -6757,7 +7342,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 60.3566127218
+    "mean_yearly_exposure_pollution": 60.356612721800005
   },
   {
     "country": "Bahrain",
@@ -6775,7 +7360,7 @@ module.exports = [
   {
     "country": "Bahrain",
     "year": 2016,
-    "forest_propotion_to_land": 0.7985547119,
+    "forest_propotion_to_land": 0.7985568276,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -6788,7 +7373,7 @@ module.exports = [
   {
     "country": "Bahrain",
     "year": 2017,
-    "forest_propotion_to_land": 0.8210613423,
+    "forest_propotion_to_land": 0.8210628654000001,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -6801,7 +7386,7 @@ module.exports = [
   {
     "country": "Bahrain",
     "year": 2018,
-    "forest_propotion_to_land": 0.8414987332,
+    "forest_propotion_to_land": 0.8415005184000001,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -6814,7 +7399,7 @@ module.exports = [
   {
     "country": "Bahrain",
     "year": 2019,
-    "forest_propotion_to_land": 0.8622427138,
+    "forest_propotion_to_land": 0.8622445662,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -6827,7 +7412,7 @@ module.exports = [
   {
     "country": "Bahrain",
     "year": 2020,
-    "forest_propotion_to_land": 0.8829412701,
+    "forest_propotion_to_land": 0.8829432287000001,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -6840,7 +7425,7 @@ module.exports = [
   {
     "country": "Bahrain",
     "year": 2021,
-    "forest_propotion_to_land": 0.9036465564,
+    "forest_propotion_to_land": 0.9036486139,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -6853,7 +7438,46 @@ module.exports = [
   {
     "country": "Bahrain",
     "year": 2022,
-    "forest_propotion_to_land": 0.9243508455,
+    "forest_propotion_to_land": 0.9243530034,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Bahrain",
+    "year": 2023,
+    "forest_propotion_to_land": 0.9450575403,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Bahrain",
+    "year": 2024,
+    "forest_propotion_to_land": 0.9657620554,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Bahrain",
+    "year": 2025,
+    "forest_propotion_to_land": 0.9864665737,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -7160,7 +7784,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 82.9398342981
+    "mean_yearly_exposure_pollution": 82.93983429810001
   },
   {
     "country": "Bangladesh",
@@ -7173,7 +7797,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 88.5264261159
+    "mean_yearly_exposure_pollution": 88.52642611590002
   },
   {
     "country": "Bangladesh",
@@ -7204,7 +7828,7 @@ module.exports = [
   {
     "country": "Bangladesh",
     "year": 2016,
-    "forest_propotion_to_land": 10.9722350529,
+    "forest_propotion_to_land": 10.972222305499999,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -7217,7 +7841,7 @@ module.exports = [
   {
     "country": "Bangladesh",
     "year": 2017,
-    "forest_propotion_to_land": 10.9500569478,
+    "forest_propotion_to_land": 10.950047207899999,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -7230,7 +7854,7 @@ module.exports = [
   {
     "country": "Bangladesh",
     "year": 2018,
-    "forest_propotion_to_land": 10.9300694793,
+    "forest_propotion_to_land": 10.930058643399999,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -7243,7 +7867,7 @@ module.exports = [
   {
     "country": "Bangladesh",
     "year": 2019,
-    "forest_propotion_to_land": 10.9097493763,
+    "forest_propotion_to_land": 10.909738322699999,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -7256,7 +7880,7 @@ module.exports = [
   {
     "country": "Bangladesh",
     "year": 2020,
-    "forest_propotion_to_land": 10.88947978,
+    "forest_propotion_to_land": 10.8894683368,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -7269,7 +7893,7 @@ module.exports = [
   {
     "country": "Bangladesh",
     "year": 2021,
-    "forest_propotion_to_land": 10.8692025149,
+    "forest_propotion_to_land": 10.869190713900002,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -7282,7 +7906,46 @@ module.exports = [
   {
     "country": "Bangladesh",
     "year": 2022,
-    "forest_propotion_to_land": 10.8489264143,
+    "forest_propotion_to_land": 10.8489142498,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2023,
+    "forest_propotion_to_land": 10.8286376098,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2024,
+    "forest_propotion_to_land": 10.808360996500001,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2025,
+    "forest_propotion_to_land": 10.7880843792,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -7368,7 +8031,7 @@ module.exports = [
     "country_land_area_km": 430,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 20.7831484856
+    "mean_yearly_exposure_pollution": 20.783148485599998
   },
   {
     "country": "Barbados",
@@ -7563,7 +8226,7 @@ module.exports = [
     "country_land_area_km": 430,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 14.7697102721
+    "mean_yearly_exposure_pollution": 14.769710272100001
   },
   {
     "country": "Barbados",
@@ -7576,7 +8239,7 @@ module.exports = [
     "country_land_area_km": 430,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 14.8820379933
+    "mean_yearly_exposure_pollution": 14.882037993299999
   },
   {
     "country": "Barbados",
@@ -7722,6 +8385,45 @@ module.exports = [
     "mean_yearly_exposure_pollution": 0
   },
   {
+    "country": "Barbados",
+    "year": 2023,
+    "forest_propotion_to_land": 14.65,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Barbados",
+    "year": 2024,
+    "forest_propotion_to_land": 14.65,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Barbados",
+    "year": 2025,
+    "forest_propotion_to_land": 14.65,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
     "country": "Belarus",
     "year": 1990,
     "forest_propotion_to_land": 37.5,
@@ -7732,7 +8434,7 @@ module.exports = [
     "country_land_area_km": 202840,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 33.439092477
+    "mean_yearly_exposure_pollution": 33.439092476999996
   },
   {
     "country": "Belarus",
@@ -8031,7 +8733,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 19.5154632083
+    "mean_yearly_exposure_pollution": 19.515463208299998
   },
   {
     "country": "Belarus",
@@ -8057,12 +8759,12 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 19.7445253033
+    "mean_yearly_exposure_pollution": 19.744525303299998
   },
   {
     "country": "Belarus",
     "year": 2016,
-    "forest_propotion_to_land": 41.7470119993,
+    "forest_propotion_to_land": 41.7470121497,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -8075,7 +8777,7 @@ module.exports = [
   {
     "country": "Belarus",
     "year": 2017,
-    "forest_propotion_to_land": 41.9200432586,
+    "forest_propotion_to_land": 41.9200433888,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -8088,7 +8790,7 @@ module.exports = [
   {
     "country": "Belarus",
     "year": 2018,
-    "forest_propotion_to_land": 42.0887867635,
+    "forest_propotion_to_land": 42.0887869034,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -8101,7 +8803,7 @@ module.exports = [
   {
     "country": "Belarus",
     "year": 2019,
-    "forest_propotion_to_land": 42.2580323802,
+    "forest_propotion_to_land": 42.258032524899996,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -8114,7 +8816,7 @@ module.exports = [
   {
     "country": "Belarus",
     "year": 2020,
-    "forest_propotion_to_land": 42.4272190774,
+    "forest_propotion_to_land": 42.4272192275,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -8127,7 +8829,7 @@ module.exports = [
   {
     "country": "Belarus",
     "year": 2021,
-    "forest_propotion_to_land": 42.5964126866,
+    "forest_propotion_to_land": 42.596412842199996,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -8140,7 +8842,46 @@ module.exports = [
   {
     "country": "Belarus",
     "year": 2022,
-    "forest_propotion_to_land": 42.7656054848,
+    "forest_propotion_to_land": 42.7656056459,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Belarus",
+    "year": 2023,
+    "forest_propotion_to_land": 42.9347985447,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Belarus",
+    "year": 2024,
+    "forest_propotion_to_land": 43.1039914324,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Belarus",
+    "year": 2025,
+    "forest_propotion_to_land": 43.2731843214,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -8161,7 +8902,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 19.8198004784
+    "mean_yearly_exposure_pollution": 19.819800478399998
   },
   {
     "country": "Belgium",
@@ -8491,7 +9232,7 @@ module.exports = [
   {
     "country": "Belgium",
     "year": 2016,
-    "forest_propotion_to_land": 22.5859710261,
+    "forest_propotion_to_land": 22.5827298835,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -8504,7 +9245,7 @@ module.exports = [
   {
     "country": "Belgium",
     "year": 2017,
-    "forest_propotion_to_land": 22.601942454,
+    "forest_propotion_to_land": 22.5954602946,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -8517,7 +9258,7 @@ module.exports = [
   {
     "country": "Belgium",
     "year": 2018,
-    "forest_propotion_to_land": 22.6179138024,
+    "forest_propotion_to_land": 22.608190655799998,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -8530,7 +9271,7 @@ module.exports = [
   {
     "country": "Belgium",
     "year": 2019,
-    "forest_propotion_to_land": 22.6338851507,
+    "forest_propotion_to_land": 22.620921016900002,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -8543,7 +9284,7 @@ module.exports = [
   {
     "country": "Belgium",
     "year": 2020,
-    "forest_propotion_to_land": 22.6498564991,
+    "forest_propotion_to_land": 22.633651378099998,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -8556,7 +9297,7 @@ module.exports = [
   {
     "country": "Belgium",
     "year": 2021,
-    "forest_propotion_to_land": 22.6658278474,
+    "forest_propotion_to_land": 22.646381739200002,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -8569,7 +9310,46 @@ module.exports = [
   {
     "country": "Belgium",
     "year": 2022,
-    "forest_propotion_to_land": 22.6817991958,
+    "forest_propotion_to_land": 22.659112100399998,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Belgium",
+    "year": 2023,
+    "forest_propotion_to_land": 22.671842461599997,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Belgium",
+    "year": 2024,
+    "forest_propotion_to_land": 22.684572822699998,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Belgium",
+    "year": 2025,
+    "forest_propotion_to_land": 22.697303183899997,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -8720,7 +9500,7 @@ module.exports = [
     "country_land_area_km": 22810,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 29.4874820334
+    "mean_yearly_exposure_pollution": 29.487482033400003
   },
   {
     "country": "Belize",
@@ -8785,7 +9565,7 @@ module.exports = [
     "country_land_area_km": 22810,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 25.8896910618
+    "mean_yearly_exposure_pollution": 25.889691061799997
   },
   {
     "country": "Belize",
@@ -8889,7 +9669,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 24.4247433878
+    "mean_yearly_exposure_pollution": 24.424743387800003
   },
   {
     "country": "Belize",
@@ -8920,7 +9700,7 @@ module.exports = [
   {
     "country": "Belize",
     "year": 2016,
-    "forest_propotion_to_land": 59.50691737,
+    "forest_propotion_to_land": 59.5069173741,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -8933,7 +9713,7 @@ module.exports = [
   {
     "country": "Belize",
     "year": 2017,
-    "forest_propotion_to_land": 59.0481570306,
+    "forest_propotion_to_land": 59.0481570334,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -8946,7 +9726,7 @@ module.exports = [
   {
     "country": "Belize",
     "year": 2018,
-    "forest_propotion_to_land": 58.598003435,
+    "forest_propotion_to_land": 58.5980034385,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -8959,7 +9739,7 @@ module.exports = [
   {
     "country": "Belize",
     "year": 2019,
-    "forest_propotion_to_land": 58.1468336403,
+    "forest_propotion_to_land": 58.1468336442,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -8972,7 +9752,7 @@ module.exports = [
   {
     "country": "Belize",
     "year": 2020,
-    "forest_propotion_to_land": 57.6957873581,
+    "forest_propotion_to_land": 57.6957873625,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -8985,7 +9765,7 @@ module.exports = [
   {
     "country": "Belize",
     "year": 2021,
-    "forest_propotion_to_land": 57.2447261875,
+    "forest_propotion_to_land": 57.244726192399995,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -8998,7 +9778,46 @@ module.exports = [
   {
     "country": "Belize",
     "year": 2022,
-    "forest_propotion_to_land": 56.7936668159,
+    "forest_propotion_to_land": 56.7936668211,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Belize",
+    "year": 2023,
+    "forest_propotion_to_land": 56.342607232700004,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Belize",
+    "year": 2024,
+    "forest_propotion_to_land": 55.8915476705,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Belize",
+    "year": 2025,
+    "forest_propotion_to_land": 55.440488105200004,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -9344,12 +10163,12 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 90.4663482498
+    "mean_yearly_exposure_pollution": 90.46634824979999
   },
   {
     "country": "Benin",
     "year": 2016,
-    "forest_propotion_to_land": 38.6659032236,
+    "forest_propotion_to_land": 38.6659033611,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -9362,7 +10181,7 @@ module.exports = [
   {
     "country": "Benin",
     "year": 2017,
-    "forest_propotion_to_land": 38.1060968077,
+    "forest_propotion_to_land": 38.106096922,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -9375,7 +10194,7 @@ module.exports = [
   {
     "country": "Benin",
     "year": 2018,
-    "forest_propotion_to_land": 37.5720335184,
+    "forest_propotion_to_land": 37.5720336417,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -9388,7 +10207,7 @@ module.exports = [
   {
     "country": "Benin",
     "year": 2019,
-    "forest_propotion_to_land": 37.0356508345,
+    "forest_propotion_to_land": 37.0356509625,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -9401,7 +10220,7 @@ module.exports = [
   {
     "country": "Benin",
     "year": 2020,
-    "forest_propotion_to_land": 36.499464602,
+    "forest_propotion_to_land": 36.499464735,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -9414,7 +10233,7 @@ module.exports = [
   {
     "country": "Benin",
     "year": 2021,
-    "forest_propotion_to_land": 35.9632623735,
+    "forest_propotion_to_land": 35.9632625116,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -9427,7 +10246,46 @@ module.exports = [
   {
     "country": "Benin",
     "year": 2022,
-    "forest_propotion_to_land": 35.4270614124,
+    "forest_propotion_to_land": 35.4270615554,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Benin",
+    "year": 2023,
+    "forest_propotion_to_land": 34.890860500900004,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Benin",
+    "year": 2024,
+    "forest_propotion_to_land": 34.3546594539,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Benin",
+    "year": 2025,
+    "forest_propotion_to_land": 33.8184584063,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -9448,7 +10306,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 12.0921222741
+    "mean_yearly_exposure_pollution": 12.092122274100001
   },
   {
     "country": "Bermuda",
@@ -9513,7 +10371,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 11.6011057531
+    "mean_yearly_exposure_pollution": 11.601105753099999
   },
   {
     "country": "Bermuda",
@@ -9578,7 +10436,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 11.373699634
+    "mean_yearly_exposure_pollution": 11.373699634000001
   },
   {
     "country": "Bermuda",
@@ -9643,7 +10501,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 11.685538792
+    "mean_yearly_exposure_pollution": 11.685538792000001
   },
   {
     "country": "Bermuda",
@@ -9867,6 +10725,45 @@ module.exports = [
     "mean_yearly_exposure_pollution": 0
   },
   {
+    "country": "Bermuda",
+    "year": 2023,
+    "forest_propotion_to_land": 20,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Bermuda",
+    "year": 2024,
+    "forest_propotion_to_land": 20,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Bermuda",
+    "year": 2025,
+    "forest_propotion_to_land": 20,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
     "country": "Bhutan",
     "year": 1990,
     "forest_propotion_to_land": 65.76,
@@ -10007,7 +10904,7 @@ module.exports = [
     "country_land_area_km": 39800,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 41.024290677
+    "mean_yearly_exposure_pollution": 41.024290676999996
   },
   {
     "country": "Bhutan",
@@ -10163,7 +11060,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 49.9833550848
+    "mean_yearly_exposure_pollution": 49.983355084799996
   },
   {
     "country": "Bhutan",
@@ -10202,12 +11099,12 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 55.806543957
+    "mean_yearly_exposure_pollution": 55.806543956999995
   },
   {
     "country": "Bhutan",
     "year": 2016,
-    "forest_propotion_to_land": 72.368768803,
+    "forest_propotion_to_land": 72.3687685421,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -10220,7 +11117,7 @@ module.exports = [
   {
     "country": "Bhutan",
     "year": 2017,
-    "forest_propotion_to_land": 72.6550332901,
+    "forest_propotion_to_land": 72.6550331029,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -10233,7 +11130,7 @@ module.exports = [
   {
     "country": "Bhutan",
     "year": 2018,
-    "forest_propotion_to_land": 72.9166507932,
+    "forest_propotion_to_land": 72.9166505741,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -10246,7 +11143,7 @@ module.exports = [
   {
     "country": "Bhutan",
     "year": 2019,
-    "forest_propotion_to_land": 73.1813713415,
+    "forest_propotion_to_land": 73.1813711131,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -10259,7 +11156,7 @@ module.exports = [
   {
     "country": "Bhutan",
     "year": 2020,
-    "forest_propotion_to_land": 73.4457060353,
+    "forest_propotion_to_land": 73.44570579350001,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -10272,7 +11169,7 @@ module.exports = [
   {
     "country": "Bhutan",
     "year": 2021,
-    "forest_propotion_to_land": 73.710088532,
+    "forest_propotion_to_land": 73.7100882775,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -10285,7 +11182,46 @@ module.exports = [
   {
     "country": "Bhutan",
     "year": 2022,
-    "forest_propotion_to_land": 73.974465113,
+    "forest_propotion_to_land": 73.9744648457,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Bhutan",
+    "year": 2023,
+    "forest_propotion_to_land": 74.23884214569999,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Bhutan",
+    "year": 2024,
+    "forest_propotion_to_land": 74.5032193552,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Bhutan",
+    "year": 2025,
+    "forest_propotion_to_land": 74.7675965759,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -10592,7 +11528,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 27.0171889022
+    "mean_yearly_exposure_pollution": 27.017188902199997
   },
   {
     "country": "Bolivia",
@@ -10636,7 +11572,7 @@ module.exports = [
   {
     "country": "Bolivia",
     "year": 2016,
-    "forest_propotion_to_land": 50.4186847019,
+    "forest_propotion_to_land": 50.418684543199994,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -10649,7 +11585,7 @@ module.exports = [
   {
     "country": "Bolivia",
     "year": 2017,
-    "forest_propotion_to_land": 50.0938151668,
+    "forest_propotion_to_land": 50.0938150367,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -10662,7 +11598,7 @@ module.exports = [
   {
     "country": "Bolivia",
     "year": 2018,
-    "forest_propotion_to_land": 49.7946106682,
+    "forest_propotion_to_land": 49.794610534200004,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -10675,7 +11611,7 @@ module.exports = [
   {
     "country": "Bolivia",
     "year": 2019,
-    "forest_propotion_to_land": 49.4921814775,
+    "forest_propotion_to_land": 49.492181343599995,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -10688,7 +11624,7 @@ module.exports = [
   {
     "country": "Bolivia",
     "year": 2020,
-    "forest_propotion_to_land": 49.1901502384,
+    "forest_propotion_to_land": 49.1901501041,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -10701,7 +11637,7 @@ module.exports = [
   {
     "country": "Bolivia",
     "year": 2021,
-    "forest_propotion_to_land": 48.8880701969,
+    "forest_propotion_to_land": 48.8880700624,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -10714,7 +11650,46 @@ module.exports = [
   {
     "country": "Bolivia",
     "year": 2022,
-    "forest_propotion_to_land": 48.5859961269,
+    "forest_propotion_to_land": 48.5859959921,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Bolivia",
+    "year": 2023,
+    "forest_propotion_to_land": 48.2839211917,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Bolivia",
+    "year": 2024,
+    "forest_propotion_to_land": 47.9818464805,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Bolivia",
+    "year": 2025,
+    "forest_propotion_to_land": 47.6797717584,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -10995,7 +11970,7 @@ module.exports = [
     "country_land_area_km": 51200,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 38.1155256103
+    "mean_yearly_exposure_pollution": 38.115525610300004
   },
   {
     "country": "Bosnia and Herzegovina",
@@ -11034,7 +12009,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 41.6115655251
+    "mean_yearly_exposure_pollution": 41.611565525100005
   },
   {
     "country": "Bosnia and Herzegovina",
@@ -11065,7 +12040,7 @@ module.exports = [
   {
     "country": "Bosnia and Herzegovina",
     "year": 2016,
-    "forest_propotion_to_land": 42.8204175334,
+    "forest_propotion_to_land": 42.8188361925,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -11078,7 +12053,7 @@ module.exports = [
   {
     "country": "Bosnia and Herzegovina",
     "year": 2017,
-    "forest_propotion_to_land": 42.8008351664,
+    "forest_propotion_to_land": 42.798488246,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -11091,7 +12066,7 @@ module.exports = [
   {
     "country": "Bosnia and Herzegovina",
     "year": 2018,
-    "forest_propotion_to_land": 42.7812527395,
+    "forest_propotion_to_land": 42.778093871399996,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -11104,7 +12079,7 @@ module.exports = [
   {
     "country": "Bosnia and Herzegovina",
     "year": 2019,
-    "forest_propotion_to_land": 42.7616703126,
+    "forest_propotion_to_land": 42.757701863899996,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -11117,7 +12092,7 @@ module.exports = [
   {
     "country": "Bosnia and Herzegovina",
     "year": 2020,
-    "forest_propotion_to_land": 42.7420878857,
+    "forest_propotion_to_land": 42.7373097323,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -11130,7 +12105,7 @@ module.exports = [
   {
     "country": "Bosnia and Herzegovina",
     "year": 2021,
-    "forest_propotion_to_land": 42.7225054588,
+    "forest_propotion_to_land": 42.7169176071,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -11143,7 +12118,46 @@ module.exports = [
   {
     "country": "Bosnia and Herzegovina",
     "year": 2022,
-    "forest_propotion_to_land": 42.7029230318,
+    "forest_propotion_to_land": 42.6965254816,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "year": 2023,
+    "forest_propotion_to_land": 42.6761333561,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "year": 2024,
+    "forest_propotion_to_land": 42.6557412307,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "year": 2025,
+    "forest_propotion_to_land": 42.6353491052,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -11164,7 +12178,7 @@ module.exports = [
     "country_land_area_km": 566730,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 21.6725617776
+    "mean_yearly_exposure_pollution": 21.672561777600002
   },
   {
     "country": "Botswana",
@@ -11494,7 +12508,7 @@ module.exports = [
   {
     "country": "Botswana",
     "year": 2016,
-    "forest_propotion_to_land": 19.0301641828,
+    "forest_propotion_to_land": 19.0301652279,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -11507,7 +12521,7 @@ module.exports = [
   {
     "country": "Botswana",
     "year": 2017,
-    "forest_propotion_to_land": 18.8090284539,
+    "forest_propotion_to_land": 18.8090295874,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -11520,7 +12534,7 @@ module.exports = [
   {
     "country": "Botswana",
     "year": 2018,
-    "forest_propotion_to_land": 18.6037989461,
+    "forest_propotion_to_land": 18.603799882,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -11533,7 +12547,7 @@ module.exports = [
   {
     "country": "Botswana",
     "year": 2019,
-    "forest_propotion_to_land": 18.3965448639,
+    "forest_propotion_to_land": 18.3965457203,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -11546,7 +12560,7 @@ module.exports = [
   {
     "country": "Botswana",
     "year": 2020,
-    "forest_propotion_to_land": 18.1895467272,
+    "forest_propotion_to_land": 18.1895474776,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -11559,7 +12573,7 @@ module.exports = [
   {
     "country": "Botswana",
     "year": 2021,
-    "forest_propotion_to_land": 17.9825162854,
+    "forest_propotion_to_land": 17.9825169346,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -11572,7 +12586,46 @@ module.exports = [
   {
     "country": "Botswana",
     "year": 2022,
-    "forest_propotion_to_land": 17.7754899196,
+    "forest_propotion_to_land": 17.7754904668,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Botswana",
+    "year": 2023,
+    "forest_propotion_to_land": 17.5684634849,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Botswana",
+    "year": 2024,
+    "forest_propotion_to_land": 17.3614365678,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Botswana",
+    "year": 2025,
+    "forest_propotion_to_land": 17.1544096426,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -11593,7 +12646,7 @@ module.exports = [
     "country_land_area_km": 8358140,
     "total_land_usage": 243324544,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 14.7814370633
+    "mean_yearly_exposure_pollution": 14.781437063299999
   },
   {
     "country": "Brazil",
@@ -11923,7 +12976,7 @@ module.exports = [
   {
     "country": "Brazil",
     "year": 2016,
-    "forest_propotion_to_land": 58.8299349092,
+    "forest_propotion_to_land": 58.8299348944,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -11936,7 +12989,7 @@ module.exports = [
   {
     "country": "Brazil",
     "year": 2017,
-    "forest_propotion_to_land": 58.5627070263,
+    "forest_propotion_to_land": 58.5627070131,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -11949,7 +13002,7 @@ module.exports = [
   {
     "country": "Brazil",
     "year": 2018,
-    "forest_propotion_to_land": 58.3005731528,
+    "forest_propotion_to_land": 58.300573141099996,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -11962,7 +13015,7 @@ module.exports = [
   {
     "country": "Brazil",
     "year": 2019,
-    "forest_propotion_to_land": 58.0379115455,
+    "forest_propotion_to_land": 58.0379115349,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -11975,7 +13028,7 @@ module.exports = [
   {
     "country": "Brazil",
     "year": 2020,
-    "forest_propotion_to_land": 57.7753039624,
+    "forest_propotion_to_land": 57.77530395310001,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -11988,7 +13041,7 @@ module.exports = [
   {
     "country": "Brazil",
     "year": 2021,
-    "forest_propotion_to_land": 57.5126908684,
+    "forest_propotion_to_land": 57.5126908602,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -12001,7 +13054,46 @@ module.exports = [
   {
     "country": "Brazil",
     "year": 2022,
-    "forest_propotion_to_land": 57.2500783359,
+    "forest_propotion_to_land": 57.250078329,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Brazil",
+    "year": 2023,
+    "forest_propotion_to_land": 56.9874657405,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Brazil",
+    "year": 2024,
+    "forest_propotion_to_land": 56.7248531579,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Brazil",
+    "year": 2025,
+    "forest_propotion_to_land": 56.462240574700004,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -12352,7 +13444,7 @@ module.exports = [
   {
     "country": "British Virgin Islands",
     "year": 2016,
-    "forest_propotion_to_land": 24.1223180041,
+    "forest_propotion_to_land": 24.1223097414,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -12365,7 +13457,7 @@ module.exports = [
   {
     "country": "British Virgin Islands",
     "year": 2017,
-    "forest_propotion_to_land": 24.0957420111,
+    "forest_propotion_to_land": 24.0957356443,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -12378,7 +13470,7 @@ module.exports = [
   {
     "country": "British Virgin Islands",
     "year": 2018,
-    "forest_propotion_to_land": 24.0717844402,
+    "forest_propotion_to_land": 24.0717773152,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -12391,7 +13483,7 @@ module.exports = [
   {
     "country": "British Virgin Islands",
     "year": 2019,
-    "forest_propotion_to_land": 24.0474643897,
+    "forest_propotion_to_land": 24.047457046199998,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -12404,7 +13496,7 @@ module.exports = [
   {
     "country": "British Virgin Islands",
     "year": 2020,
-    "forest_propotion_to_land": 24.0231945168,
+    "forest_propotion_to_land": 24.0231868563,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -12417,7 +13509,7 @@ module.exports = [
   {
     "country": "British Virgin Islands",
     "year": 2021,
-    "forest_propotion_to_land": 23.9989176978,
+    "forest_propotion_to_land": 23.998909737399998,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -12430,7 +13522,46 @@ module.exports = [
   {
     "country": "British Virgin Islands",
     "year": 2022,
-    "forest_propotion_to_land": 23.9746418404,
+    "forest_propotion_to_land": 23.9746335772,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "British Virgin Islands",
+    "year": 2023,
+    "forest_propotion_to_land": 23.950357284299997,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "British Virgin Islands",
+    "year": 2024,
+    "forest_propotion_to_land": 23.9260810097,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "British Virgin Islands",
+    "year": 2025,
+    "forest_propotion_to_land": 23.9018047327,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -12451,7 +13582,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 5.888169582
+    "mean_yearly_exposure_pollution": 5.888169582000001
   },
   {
     "country": "Brunei",
@@ -12516,7 +13647,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 5.8818269921
+    "mean_yearly_exposure_pollution": 5.881826992100001
   },
   {
     "country": "Brunei",
@@ -12581,7 +13712,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 5.7015222448
+    "mean_yearly_exposure_pollution": 5.7015222448000005
   },
   {
     "country": "Brunei",
@@ -12646,7 +13777,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 7.399093272
+    "mean_yearly_exposure_pollution": 7.399093272000001
   },
   {
     "country": "Brunei",
@@ -12724,7 +13855,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 6.2288950637
+    "mean_yearly_exposure_pollution": 6.2288950637000005
   },
   {
     "country": "Brunei",
@@ -12781,7 +13912,7 @@ module.exports = [
   {
     "country": "Brunei",
     "year": 2016,
-    "forest_propotion_to_land": 71.8136367284,
+    "forest_propotion_to_land": 71.8136367436,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -12794,7 +13925,7 @@ module.exports = [
   {
     "country": "Brunei",
     "year": 2017,
-    "forest_propotion_to_land": 71.5560977633,
+    "forest_propotion_to_land": 71.5560977752,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -12807,7 +13938,7 @@ module.exports = [
   {
     "country": "Brunei",
     "year": 2018,
-    "forest_propotion_to_land": 71.2943554244,
+    "forest_propotion_to_land": 71.2943554371,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -12820,7 +13951,7 @@ module.exports = [
   {
     "country": "Brunei",
     "year": 2019,
-    "forest_propotion_to_land": 71.0330481013,
+    "forest_propotion_to_land": 71.0330481141,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -12833,7 +13964,7 @@ module.exports = [
   {
     "country": "Brunei",
     "year": 2020,
-    "forest_propotion_to_land": 70.7716963096,
+    "forest_propotion_to_land": 70.77169632260001,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -12846,7 +13977,7 @@ module.exports = [
   {
     "country": "Brunei",
     "year": 2021,
-    "forest_propotion_to_land": 70.5103490477,
+    "forest_propotion_to_land": 70.5103490609,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -12859,7 +13990,46 @@ module.exports = [
   {
     "country": "Brunei",
     "year": 2022,
-    "forest_propotion_to_land": 70.2490013249,
+    "forest_propotion_to_land": 70.2490013382,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Brunei",
+    "year": 2023,
+    "forest_propotion_to_land": 69.9876536625,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Brunei",
+    "year": 2024,
+    "forest_propotion_to_land": 69.7263059819,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Brunei",
+    "year": 2025,
+    "forest_propotion_to_land": 69.4649583019,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -13010,7 +14180,7 @@ module.exports = [
     "country_land_area_km": 110630,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 29.1710087424
+    "mean_yearly_exposure_pollution": 29.171008742399998
   },
   {
     "country": "Bulgaria",
@@ -13210,7 +14380,7 @@ module.exports = [
   {
     "country": "Bulgaria",
     "year": 2016,
-    "forest_propotion_to_land": 35.342392832,
+    "forest_propotion_to_land": 35.342392285,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -13223,7 +14393,7 @@ module.exports = [
   {
     "country": "Bulgaria",
     "year": 2017,
-    "forest_propotion_to_land": 35.5373197011,
+    "forest_propotion_to_land": 35.537319233699996,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -13236,7 +14406,7 @@ module.exports = [
   {
     "country": "Bulgaria",
     "year": 2018,
-    "forest_propotion_to_land": 35.7234244009,
+    "forest_propotion_to_land": 35.7234238972,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -13249,7 +14419,7 @@ module.exports = [
   {
     "country": "Bulgaria",
     "year": 2019,
-    "forest_propotion_to_land": 35.9105844651,
+    "forest_propotion_to_land": 35.9105839446,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -13262,7 +14432,7 @@ module.exports = [
   {
     "country": "Bulgaria",
     "year": 2020,
-    "forest_propotion_to_land": 36.0976180204,
+    "forest_propotion_to_land": 36.097617480100006,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -13275,7 +14445,7 @@ module.exports = [
   {
     "country": "Bulgaria",
     "year": 2021,
-    "forest_propotion_to_land": 36.2846667367,
+    "forest_propotion_to_land": 36.284666177,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -13288,7 +14458,46 @@ module.exports = [
   {
     "country": "Bulgaria",
     "year": 2022,
-    "forest_propotion_to_land": 36.4717136361,
+    "forest_propotion_to_land": 36.471713056999995,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Bulgaria",
+    "year": 2023,
+    "forest_propotion_to_land": 36.6587601547,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Bulgaria",
+    "year": 2024,
+    "forest_propotion_to_land": 36.8458072262,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Bulgaria",
+    "year": 2025,
+    "forest_propotion_to_land": 37.032854301,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -13439,7 +14648,7 @@ module.exports = [
     "country_land_area_km": 273600,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 66.8016920759
+    "mean_yearly_exposure_pollution": 66.80169207590001
   },
   {
     "country": "Burkina Faso",
@@ -13595,7 +14804,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 54.9457094608
+    "mean_yearly_exposure_pollution": 54.945709460799996
   },
   {
     "country": "Burkina Faso",
@@ -13608,7 +14817,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 49.5877300403
+    "mean_yearly_exposure_pollution": 49.587730040299995
   },
   {
     "country": "Burkina Faso",
@@ -13621,7 +14830,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 44.1053098227
+    "mean_yearly_exposure_pollution": 44.10530982270001
   },
   {
     "country": "Burkina Faso",
@@ -13639,7 +14848,7 @@ module.exports = [
   {
     "country": "Burkina Faso",
     "year": 2016,
-    "forest_propotion_to_land": 19.4675539066,
+    "forest_propotion_to_land": 19.467553993800003,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -13652,7 +14861,7 @@ module.exports = [
   {
     "country": "Burkina Faso",
     "year": 2017,
-    "forest_propotion_to_land": 19.2261767299,
+    "forest_propotion_to_land": 19.2261768134,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -13665,7 +14874,7 @@ module.exports = [
   {
     "country": "Burkina Faso",
     "year": 2018,
-    "forest_propotion_to_land": 19.0061973138,
+    "forest_propotion_to_land": 19.0061973919,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -13678,7 +14887,7 @@ module.exports = [
   {
     "country": "Burkina Faso",
     "year": 2019,
-    "forest_propotion_to_land": 18.7834258339,
+    "forest_propotion_to_land": 18.7834259101,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -13691,7 +14900,7 @@ module.exports = [
   {
     "country": "Burkina Faso",
     "year": 2020,
-    "forest_propotion_to_land": 18.5610160009,
+    "forest_propotion_to_land": 18.5610160743,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -13704,7 +14913,7 @@ module.exports = [
   {
     "country": "Burkina Faso",
     "year": 2021,
-    "forest_propotion_to_land": 18.3385594079,
+    "forest_propotion_to_land": 18.3385594787,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -13717,7 +14926,46 @@ module.exports = [
   {
     "country": "Burkina Faso",
     "year": 2022,
-    "forest_propotion_to_land": 18.1161088583,
+    "forest_propotion_to_land": 18.1161089265,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Burkina Faso",
+    "year": 2023,
+    "forest_propotion_to_land": 17.8936575932,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Burkina Faso",
+    "year": 2024,
+    "forest_propotion_to_land": 17.671206360899998,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Burkina Faso",
+    "year": 2025,
+    "forest_propotion_to_land": 17.4487551156,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -14050,7 +15298,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 47.0850686131
+    "mean_yearly_exposure_pollution": 47.085068613100006
   },
   {
     "country": "Burundi",
@@ -14068,7 +15316,7 @@ module.exports = [
   {
     "country": "Burundi",
     "year": 2016,
-    "forest_propotion_to_land": 10.8870375868,
+    "forest_propotion_to_land": 10.8869615715,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -14081,7 +15329,7 @@ module.exports = [
   {
     "country": "Burundi",
     "year": 2017,
-    "forest_propotion_to_land": 11.0240844557,
+    "forest_propotion_to_land": 11.0239379182,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -14094,7 +15342,7 @@ module.exports = [
   {
     "country": "Burundi",
     "year": 2018,
-    "forest_propotion_to_land": 11.1611292886,
+    "forest_propotion_to_land": 11.1609100123,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -14107,7 +15355,7 @@ module.exports = [
   {
     "country": "Burundi",
     "year": 2019,
-    "forest_propotion_to_land": 11.2981741216,
+    "forest_propotion_to_land": 11.297882106600001,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -14120,7 +15368,7 @@ module.exports = [
   {
     "country": "Burundi",
     "year": 2020,
-    "forest_propotion_to_land": 11.4352189546,
+    "forest_propotion_to_land": 11.434854200799998,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -14133,7 +15381,7 @@ module.exports = [
   {
     "country": "Burundi",
     "year": 2021,
-    "forest_propotion_to_land": 11.5722637876,
+    "forest_propotion_to_land": 11.571826295,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -14146,7 +15394,46 @@ module.exports = [
   {
     "country": "Burundi",
     "year": 2022,
-    "forest_propotion_to_land": 11.7093086205,
+    "forest_propotion_to_land": 11.7087983893,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Burundi",
+    "year": 2023,
+    "forest_propotion_to_land": 11.845770483499999,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Burundi",
+    "year": 2024,
+    "forest_propotion_to_land": 11.9827425778,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Burundi",
+    "year": 2025,
+    "forest_propotion_to_land": 12.119714672,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -14167,7 +15454,7 @@ module.exports = [
     "country_land_area_km": 176520,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 24.8618126605
+    "mean_yearly_exposure_pollution": 24.861812660500004
   },
   {
     "country": "Cambodia",
@@ -14232,7 +15519,7 @@ module.exports = [
     "country_land_area_km": 176520,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 24.8583561984
+    "mean_yearly_exposure_pollution": 24.858356198400003
   },
   {
     "country": "Cambodia",
@@ -14362,7 +15649,7 @@ module.exports = [
     "country_land_area_km": 176520,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 28.1794177945
+    "mean_yearly_exposure_pollution": 28.179417794499997
   },
   {
     "country": "Cambodia",
@@ -14427,7 +15714,7 @@ module.exports = [
     "country_land_area_km": 176520,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 24.5627715781
+    "mean_yearly_exposure_pollution": 24.562771578099998
   },
   {
     "country": "Cambodia",
@@ -14497,7 +15784,7 @@ module.exports = [
   {
     "country": "Cambodia",
     "year": 2016,
-    "forest_propotion_to_land": 53.2222277923,
+    "forest_propotion_to_land": 53.2222278574,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -14510,7 +15797,7 @@ module.exports = [
   {
     "country": "Cambodia",
     "year": 2017,
-    "forest_propotion_to_land": 52.3618954901,
+    "forest_propotion_to_land": 52.3618955417,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -14523,7 +15810,7 @@ module.exports = [
   {
     "country": "Cambodia",
     "year": 2018,
-    "forest_propotion_to_land": 51.5638390933,
+    "forest_propotion_to_land": 51.5638391496,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -14536,7 +15823,7 @@ module.exports = [
   {
     "country": "Cambodia",
     "year": 2019,
-    "forest_propotion_to_land": 50.7590033869,
+    "forest_propotion_to_land": 50.759003445,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -14549,7 +15836,7 @@ module.exports = [
   {
     "country": "Cambodia",
     "year": 2020,
-    "forest_propotion_to_land": 49.9548617795,
+    "forest_propotion_to_land": 49.9548618399,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -14562,7 +15849,7 @@ module.exports = [
   {
     "country": "Cambodia",
     "year": 2021,
-    "forest_propotion_to_land": 49.1506518382,
+    "forest_propotion_to_land": 49.1506519008,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -14575,7 +15862,46 @@ module.exports = [
   {
     "country": "Cambodia",
     "year": 2022,
-    "forest_propotion_to_land": 48.3464484437,
+    "forest_propotion_to_land": 48.3464485085,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Cambodia",
+    "year": 2023,
+    "forest_propotion_to_land": 47.542244501400006,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Cambodia",
+    "year": 2024,
+    "forest_propotion_to_land": 46.7380405511,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Cambodia",
+    "year": 2025,
+    "forest_propotion_to_land": 45.933836595600006,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -14895,7 +16221,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 73.8489564726
+    "mean_yearly_exposure_pollution": 73.84895647260001
   },
   {
     "country": "Cameroon",
@@ -14926,7 +16252,7 @@ module.exports = [
   {
     "country": "Cameroon",
     "year": 2016,
-    "forest_propotion_to_land": 39.6275678584,
+    "forest_propotion_to_land": 39.6275681827,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -14939,7 +16265,7 @@ module.exports = [
   {
     "country": "Cameroon",
     "year": 2017,
-    "forest_propotion_to_land": 39.1179908974,
+    "forest_propotion_to_land": 39.1179911536,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -14952,7 +16278,7 @@ module.exports = [
   {
     "country": "Cameroon",
     "year": 2018,
-    "forest_propotion_to_land": 38.6491142014,
+    "forest_propotion_to_land": 38.6491144792,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -14965,7 +16291,7 @@ module.exports = [
   {
     "country": "Cameroon",
     "year": 2019,
-    "forest_propotion_to_land": 38.1758364781,
+    "forest_propotion_to_land": 38.1758367632,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -14978,7 +16304,7 @@ module.exports = [
   {
     "country": "Cameroon",
     "year": 2020,
-    "forest_propotion_to_land": 37.7030062954,
+    "forest_propotion_to_land": 37.7030065896,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -14991,7 +16317,7 @@ module.exports = [
   {
     "country": "Cameroon",
     "year": 2021,
-    "forest_propotion_to_land": 37.2301323542,
+    "forest_propotion_to_land": 37.2301326574,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -15004,7 +16330,46 @@ module.exports = [
   {
     "country": "Cameroon",
     "year": 2022,
-    "forest_propotion_to_land": 36.7572625763,
+    "forest_propotion_to_land": 36.7572628886,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Cameroon",
+    "year": 2023,
+    "forest_propotion_to_land": 36.2843927315,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Cameroon",
+    "year": 2024,
+    "forest_propotion_to_land": 35.8115226101,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Cameroon",
+    "year": 2025,
+    "forest_propotion_to_land": 35.3386524854,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -15025,7 +16390,7 @@ module.exports = [
     "country_land_area_km": 9093510,
     "total_land_usage": 67951358,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 7.9159593591
+    "mean_yearly_exposure_pollution": 7.915959359099999
   },
   {
     "country": "Canada",
@@ -15350,12 +16715,12 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 7.514347762
+    "mean_yearly_exposure_pollution": 7.514347762000001
   },
   {
     "country": "Canada",
     "year": 2016,
-    "forest_propotion_to_land": 38.167004688,
+    "forest_propotion_to_land": 38.1670095712,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -15368,7 +16733,7 @@ module.exports = [
   {
     "country": "Canada",
     "year": 2017,
-    "forest_propotion_to_land": 38.1613420497,
+    "forest_propotion_to_land": 38.1613457008,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -15381,7 +16746,7 @@ module.exports = [
   {
     "country": "Canada",
     "year": 2018,
-    "forest_propotion_to_land": 38.1560930709,
+    "forest_propotion_to_land": 38.1560972221,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -15394,7 +16759,7 @@ module.exports = [
   {
     "country": "Canada",
     "year": 2019,
-    "forest_propotion_to_land": 38.1507799504,
+    "forest_propotion_to_land": 38.1507842116,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -15407,7 +16772,7 @@ module.exports = [
   {
     "country": "Canada",
     "year": 2020,
-    "forest_propotion_to_land": 38.1454767756,
+    "forest_propotion_to_land": 38.1454812262,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -15420,7 +16785,7 @@ module.exports = [
   {
     "country": "Canada",
     "year": 2021,
-    "forest_propotion_to_land": 38.1401720587,
+    "forest_propotion_to_land": 38.1401766834,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -15433,7 +16798,46 @@ module.exports = [
   {
     "country": "Canada",
     "year": 2022,
-    "forest_propotion_to_land": 38.1348675809,
+    "forest_propotion_to_land": 38.1348723825,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Canada",
+    "year": 2023,
+    "forest_propotion_to_land": 38.129568044,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Canada",
+    "year": 2024,
+    "forest_propotion_to_land": 38.1242637114,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Canada",
+    "year": 2025,
+    "forest_propotion_to_land": 38.1189593779,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -15519,7 +16923,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 54.2721356807
+    "mean_yearly_exposure_pollution": 54.272135680699996
   },
   {
     "country": "Cape Verde",
@@ -15714,7 +17118,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 34.5617685022
+    "mean_yearly_exposure_pollution": 34.561768502199996
   },
   {
     "country": "Cape Verde",
@@ -15784,7 +17188,7 @@ module.exports = [
   {
     "country": "Cape Verde",
     "year": 2016,
-    "forest_propotion_to_land": 22.5964437382,
+    "forest_propotion_to_land": 22.596444444499998,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -15797,7 +17201,7 @@ module.exports = [
   {
     "country": "Cape Verde",
     "year": 2017,
-    "forest_propotion_to_land": 22.9302987801,
+    "forest_propotion_to_land": 22.9302994147,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -15810,7 +17214,7 @@ module.exports = [
   {
     "country": "Cape Verde",
     "year": 2018,
-    "forest_propotion_to_land": 23.2585349984,
+    "forest_propotion_to_land": 23.2585356603,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -15823,7 +17227,7 @@ module.exports = [
   {
     "country": "Cape Verde",
     "year": 2019,
-    "forest_propotion_to_land": 23.587211336,
+    "forest_propotion_to_land": 23.5872120121,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -15836,7 +17240,7 @@ module.exports = [
   {
     "country": "Cape Verde",
     "year": 2020,
-    "forest_propotion_to_land": 23.9158461312,
+    "forest_propotion_to_land": 23.9158468229,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -15849,7 +17253,7 @@ module.exports = [
   {
     "country": "Cape Verde",
     "year": 2021,
-    "forest_propotion_to_land": 24.2444845127,
+    "forest_propotion_to_land": 24.244485219899996,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -15862,7 +17266,46 @@ module.exports = [
   {
     "country": "Cape Verde",
     "year": 2022,
-    "forest_propotion_to_land": 24.5731225715,
+    "forest_propotion_to_land": 24.5731232941,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Cape Verde",
+    "year": 2023,
+    "forest_propotion_to_land": 24.901761396799998,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Cape Verde",
+    "year": 2024,
+    "forest_propotion_to_land": 25.230399496999997,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Cape Verde",
+    "year": 2025,
+    "forest_propotion_to_land": 25.5590375975,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -16078,7 +17521,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 18.3594261413
+    "mean_yearly_exposure_pollution": 18.359426141300002
   },
   {
     "country": "Caribbean small states",
@@ -16169,7 +17612,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 15.7565585161
+    "mean_yearly_exposure_pollution": 15.756558516099998
   },
   {
     "country": "Caribbean small states",
@@ -16291,6 +17734,45 @@ module.exports = [
   {
     "country": "Caribbean small states",
     "year": 2022,
+    "forest_propotion_to_land": 22.31,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Caribbean small states",
+    "year": 2023,
+    "forest_propotion_to_land": 22.31,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Caribbean small states",
+    "year": 2024,
+    "forest_propotion_to_land": 22.31,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Caribbean small states",
+    "year": 2025,
     "forest_propotion_to_land": 22.31,
     "country_population": 0,
     "wood_removal": 0,
@@ -16731,6 +18213,45 @@ module.exports = [
     "mean_yearly_exposure_pollution": 0
   },
   {
+    "country": "Cayman Islands",
+    "year": 2023,
+    "forest_propotion_to_land": 52.92,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Cayman Islands",
+    "year": 2024,
+    "forest_propotion_to_land": 52.92,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Cayman Islands",
+    "year": 2025,
+    "forest_propotion_to_land": 52.92,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
     "country": "Central African Republic",
     "year": 1990,
     "forest_propotion_to_land": 36.21,
@@ -16806,7 +18327,7 @@ module.exports = [
     "country_land_area_km": 622980,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 49.0801497594
+    "mean_yearly_exposure_pollution": 49.080149759399994
   },
   {
     "country": "Central African Republic",
@@ -16871,7 +18392,7 @@ module.exports = [
     "country_land_area_km": 622980,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 51.8508277269
+    "mean_yearly_exposure_pollution": 51.85082772689999
   },
   {
     "country": "Central African Republic",
@@ -17071,7 +18592,7 @@ module.exports = [
   {
     "country": "Central African Republic",
     "year": 2016,
-    "forest_propotion_to_land": 35.5795856373,
+    "forest_propotion_to_land": 35.5795888175,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -17084,7 +18605,7 @@ module.exports = [
   {
     "country": "Central African Republic",
     "year": 2017,
-    "forest_propotion_to_land": 35.5522010245,
+    "forest_propotion_to_land": 35.5522033055,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -17097,7 +18618,7 @@ module.exports = [
   {
     "country": "Central African Republic",
     "year": 2018,
-    "forest_propotion_to_land": 35.5273608467,
+    "forest_propotion_to_land": 35.5273635278,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -17110,7 +18631,7 @@ module.exports = [
   {
     "country": "Central African Republic",
     "year": 2019,
-    "forest_propotion_to_land": 35.5021396642,
+    "forest_propotion_to_land": 35.5021424462,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -17123,7 +18644,7 @@ module.exports = [
   {
     "country": "Central African Republic",
     "year": 2020,
-    "forest_propotion_to_land": 35.4769755305,
+    "forest_propotion_to_land": 35.4769784738,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -17136,7 +18657,7 @@ module.exports = [
   {
     "country": "Central African Republic",
     "year": 2021,
-    "forest_propotion_to_land": 35.4518028548,
+    "forest_propotion_to_land": 35.451805948,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -17149,7 +18670,46 @@ module.exports = [
   {
     "country": "Central African Republic",
     "year": 2022,
-    "forest_propotion_to_land": 35.426631458,
+    "forest_propotion_to_land": 35.426634703299996,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Central African Republic",
+    "year": 2023,
+    "forest_propotion_to_land": 35.4014632666,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Central African Republic",
+    "year": 2024,
+    "forest_propotion_to_land": 35.3762918588,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Central African Republic",
+    "year": 2025,
+    "forest_propotion_to_land": 35.3511204466,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -17430,7 +18990,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 23.1602760618
+    "mean_yearly_exposure_pollution": 23.160276061799998
   },
   {
     "country": "Central Europe and the Baltics",
@@ -17443,7 +19003,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 22.7136191799
+    "mean_yearly_exposure_pollution": 22.713619179899997
   },
   {
     "country": "Central Europe and the Baltics",
@@ -17482,7 +19042,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 22.2114892259
+    "mean_yearly_exposure_pollution": 22.211489225900003
   },
   {
     "country": "Central Europe and the Baltics",
@@ -17578,6 +19138,45 @@ module.exports = [
   {
     "country": "Central Europe and the Baltics",
     "year": 2022,
+    "forest_propotion_to_land": 35.59,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Central Europe and the Baltics",
+    "year": 2023,
+    "forest_propotion_to_land": 35.59,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Central Europe and the Baltics",
+    "year": 2024,
+    "forest_propotion_to_land": 35.59,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Central Europe and the Baltics",
+    "year": 2025,
     "forest_propotion_to_land": 35.59,
     "country_population": 0,
     "wood_removal": 0,
@@ -17885,7 +19484,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 56.2977302003
+    "mean_yearly_exposure_pollution": 56.297730200299995
   },
   {
     "country": "Chad",
@@ -17929,7 +19528,7 @@ module.exports = [
   {
     "country": "Chad",
     "year": 2016,
-    "forest_propotion_to_land": 3.8641355676,
+    "forest_propotion_to_land": 3.8641405104,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -17942,7 +19541,7 @@ module.exports = [
   {
     "country": "Chad",
     "year": 2017,
-    "forest_propotion_to_land": 3.7540267444,
+    "forest_propotion_to_land": 3.7540299355,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -17955,7 +19554,7 @@ module.exports = [
   {
     "country": "Chad",
     "year": 2018,
-    "forest_propotion_to_land": 3.6651844854,
+    "forest_propotion_to_land": 3.6651885403,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -17968,7 +19567,7 @@ module.exports = [
   {
     "country": "Chad",
     "year": 2019,
-    "forest_propotion_to_land": 3.5720101163,
+    "forest_propotion_to_land": 3.5720142459,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -17981,7 +19580,7 @@ module.exports = [
   {
     "country": "Chad",
     "year": 2020,
-    "forest_propotion_to_land": 3.479718162,
+    "forest_propotion_to_land": 3.4797225792,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -17994,7 +19593,7 @@ module.exports = [
   {
     "country": "Chad",
     "year": 2021,
-    "forest_propotion_to_land": 3.3872464677,
+    "forest_propotion_to_land": 3.3872511185,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -18007,7 +19606,46 @@ module.exports = [
   {
     "country": "Chad",
     "year": 2022,
-    "forest_propotion_to_land": 3.2948113849,
+    "forest_propotion_to_land": 3.2948162825,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Chad",
+    "year": 2023,
+    "forest_propotion_to_land": 3.2023739858,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Chad",
+    "year": 2024,
+    "forest_propotion_to_land": 3.1099332089,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Chad",
+    "year": 2025,
+    "forest_propotion_to_land": 3.0174921225,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -18436,6 +20074,45 @@ module.exports = [
   {
     "country": "Channel Islands",
     "year": 2022,
+    "forest_propotion_to_land": 3.87,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Channel Islands",
+    "year": 2023,
+    "forest_propotion_to_land": 3.87,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Channel Islands",
+    "year": 2024,
+    "forest_propotion_to_land": 3.87,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Channel Islands",
+    "year": 2025,
     "forest_propotion_to_land": 3.87,
     "country_population": 0,
     "wood_removal": 0,
@@ -18587,7 +20264,7 @@ module.exports = [
     "country_land_area_km": 743532.03125,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 21.958007909
+    "mean_yearly_exposure_pollution": 21.958007909000006
   },
   {
     "country": "Chile",
@@ -18652,7 +20329,7 @@ module.exports = [
     "country_land_area_km": 743532.03125,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 22.8701058759
+    "mean_yearly_exposure_pollution": 22.870105875900002
   },
   {
     "country": "Chile",
@@ -18787,7 +20464,7 @@ module.exports = [
   {
     "country": "Chile",
     "year": 2016,
-    "forest_propotion_to_land": 23.6482545345,
+    "forest_propotion_to_land": 23.6482651001,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -18800,7 +20477,7 @@ module.exports = [
   {
     "country": "Chile",
     "year": 2017,
-    "forest_propotion_to_land": 24.0387087343,
+    "forest_propotion_to_land": 24.0387184021,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -18813,7 +20490,7 @@ module.exports = [
   {
     "country": "Chile",
     "year": 2018,
-    "forest_propotion_to_land": 24.2683401512,
+    "forest_propotion_to_land": 24.2683556853,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -18826,7 +20503,7 @@ module.exports = [
   {
     "country": "Chile",
     "year": 2019,
-    "forest_propotion_to_land": 24.5416262635,
+    "forest_propotion_to_land": 24.5416448537,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -18839,7 +20516,7 @@ module.exports = [
   {
     "country": "Chile",
     "year": 2020,
-    "forest_propotion_to_land": 24.8030623567,
+    "forest_propotion_to_land": 24.8030850304,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -18852,7 +20529,7 @@ module.exports = [
   {
     "country": "Chile",
     "year": 2021,
-    "forest_propotion_to_land": 25.0677151237,
+    "forest_propotion_to_land": 25.0677415303,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -18865,7 +20542,46 @@ module.exports = [
   {
     "country": "Chile",
     "year": 2022,
-    "forest_propotion_to_land": 25.3314947284,
+    "forest_propotion_to_land": 25.3315249825,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Chile",
+    "year": 2023,
+    "forest_propotion_to_land": 25.595545417100002,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Chile",
+    "year": 2024,
+    "forest_propotion_to_land": 25.8595015246,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Chile",
+    "year": 2025,
+    "forest_propotion_to_land": 26.123475093200003,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -19081,7 +20797,7 @@ module.exports = [
     "country_land_area_km": 9388211.875,
     "total_land_usage": 643600301,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 56.850929218
+    "mean_yearly_exposure_pollution": 56.85092921800001
   },
   {
     "country": "China",
@@ -19172,7 +20888,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 57.3388039753
+    "mean_yearly_exposure_pollution": 57.338803975299996
   },
   {
     "country": "China",
@@ -19216,7 +20932,7 @@ module.exports = [
   {
     "country": "China",
     "year": 2016,
-    "forest_propotion_to_land": 22.2328789881,
+    "forest_propotion_to_land": 22.2328788419,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -19229,7 +20945,7 @@ module.exports = [
   {
     "country": "China",
     "year": 2017,
-    "forest_propotion_to_land": 22.4663535994,
+    "forest_propotion_to_land": 22.4663534827,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -19242,7 +20958,7 @@ module.exports = [
   {
     "country": "China",
     "year": 2018,
-    "forest_propotion_to_land": 22.6872431678,
+    "forest_propotion_to_land": 22.6872430414,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -19255,7 +20971,7 @@ module.exports = [
   {
     "country": "China",
     "year": 2019,
-    "forest_propotion_to_land": 22.9096519093,
+    "forest_propotion_to_land": 22.90965178,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -19268,7 +20984,7 @@ module.exports = [
   {
     "country": "China",
     "year": 2020,
-    "forest_propotion_to_land": 23.1318789369,
+    "forest_propotion_to_land": 23.131878803600006,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -19281,7 +20997,7 @@ module.exports = [
   {
     "country": "China",
     "year": 2021,
-    "forest_propotion_to_land": 23.3541276477,
+    "forest_propotion_to_land": 23.354127510599998,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -19294,7 +21010,46 @@ module.exports = [
   {
     "country": "China",
     "year": 2022,
-    "forest_propotion_to_land": 23.5763737728,
+    "forest_propotion_to_land": 23.5763736318,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "China",
+    "year": 2023,
+    "forest_propotion_to_land": 23.798620061399998,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "China",
+    "year": 2024,
+    "forest_propotion_to_land": 24.0208664541,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "China",
+    "year": 2025,
+    "forest_propotion_to_land": 24.2431128513,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -19575,7 +21330,7 @@ module.exports = [
     "country_land_area_km": 1109500,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 16.6899105831
+    "mean_yearly_exposure_pollution": 16.689910583099998
   },
   {
     "country": "Colombia",
@@ -19645,7 +21400,7 @@ module.exports = [
   {
     "country": "Colombia",
     "year": 2016,
-    "forest_propotion_to_land": 52.493075053,
+    "forest_propotion_to_land": 52.4930749846,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -19658,7 +21413,7 @@ module.exports = [
   {
     "country": "Colombia",
     "year": 2017,
-    "forest_propotion_to_land": 52.2728900547,
+    "forest_propotion_to_land": 52.272890009099996,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -19671,7 +21426,7 @@ module.exports = [
   {
     "country": "Colombia",
     "year": 2018,
-    "forest_propotion_to_land": 52.0507481694,
+    "forest_propotion_to_land": 52.05074812350001,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -19684,7 +21439,7 @@ module.exports = [
   {
     "country": "Colombia",
     "year": 2019,
-    "forest_propotion_to_land": 51.8288249708,
+    "forest_propotion_to_land": 51.828824928900005,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -19697,7 +21452,7 @@ module.exports = [
   {
     "country": "Colombia",
     "year": 2020,
-    "forest_propotion_to_land": 51.606877616,
+    "forest_propotion_to_land": 51.6068775773,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -19710,7 +21465,7 @@ module.exports = [
   {
     "country": "Colombia",
     "year": 2021,
-    "forest_propotion_to_land": 51.3849329212,
+    "forest_propotion_to_land": 51.3849328859,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -19723,7 +21478,46 @@ module.exports = [
   {
     "country": "Colombia",
     "year": 2022,
-    "forest_propotion_to_land": 51.1629879337,
+    "forest_propotion_to_land": 51.1629879018,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Colombia",
+    "year": 2023,
+    "forest_propotion_to_land": 50.941042949899995,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Colombia",
+    "year": 2024,
+    "forest_propotion_to_land": 50.719097994399995,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Colombia",
+    "year": 2025,
+    "forest_propotion_to_land": 50.4971530394,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -19939,7 +21733,7 @@ module.exports = [
     "country_land_area_km": 1861.0000610352,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 20.357940979
+    "mean_yearly_exposure_pollution": 20.357940979000002
   },
   {
     "country": "Comoros",
@@ -20017,7 +21811,7 @@ module.exports = [
     "country_land_area_km": 1861.0000610352,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 17.2803137791
+    "mean_yearly_exposure_pollution": 17.280313779100002
   },
   {
     "country": "Comoros",
@@ -20074,7 +21868,7 @@ module.exports = [
   {
     "country": "Comoros",
     "year": 2016,
-    "forest_propotion_to_land": 19.767101235,
+    "forest_propotion_to_land": 19.7671013589,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -20087,7 +21881,7 @@ module.exports = [
   {
     "country": "Comoros",
     "year": 2017,
-    "forest_propotion_to_land": 19.484318541,
+    "forest_propotion_to_land": 19.4843186338,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -20100,7 +21894,7 @@ module.exports = [
   {
     "country": "Comoros",
     "year": 2018,
-    "forest_propotion_to_land": 19.2240885593,
+    "forest_propotion_to_land": 19.2240886614,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -20113,7 +21907,7 @@ module.exports = [
   {
     "country": "Comoros",
     "year": 2019,
-    "forest_propotion_to_land": 18.9608104844,
+    "forest_propotion_to_land": 18.960810588,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -20126,7 +21920,7 @@ module.exports = [
   {
     "country": "Comoros",
     "year": 2020,
-    "forest_propotion_to_land": 18.6979393223,
+    "forest_propotion_to_land": 18.697939428599998,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -20139,7 +21933,7 @@ module.exports = [
   {
     "country": "Comoros",
     "year": 2021,
-    "forest_propotion_to_land": 18.4350140383,
+    "forest_propotion_to_land": 18.4350141472,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -20152,7 +21946,46 @@ module.exports = [
   {
     "country": "Comoros",
     "year": 2022,
-    "forest_propotion_to_land": 18.1720959448,
+    "forest_propotion_to_land": 18.172096056300003,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Comoros",
+    "year": 2023,
+    "forest_propotion_to_land": 17.9091770104,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Comoros",
+    "year": 2024,
+    "forest_propotion_to_land": 17.6462580914,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Comoros",
+    "year": 2025,
+    "forest_propotion_to_land": 17.3833391555,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -20368,7 +22201,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 57.881181801
+    "mean_yearly_exposure_pollution": 57.881181801000004
   },
   {
     "country": "Congo",
@@ -20446,7 +22279,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 48.757083586
+    "mean_yearly_exposure_pollution": 48.75708358600001
   },
   {
     "country": "Congo",
@@ -20485,7 +22318,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 53.1735557123
+    "mean_yearly_exposure_pollution": 53.173555712299994
   },
   {
     "country": "Congo",
@@ -20498,12 +22331,12 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 56.8663893288
+    "mean_yearly_exposure_pollution": 56.866389328800004
   },
   {
     "country": "Congo",
     "year": 2016,
-    "forest_propotion_to_land": 65.3798453912,
+    "forest_propotion_to_land": 65.37984496840001,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -20516,7 +22349,7 @@ module.exports = [
   {
     "country": "Congo",
     "year": 2017,
-    "forest_propotion_to_land": 65.3294711917,
+    "forest_propotion_to_land": 65.3294709199,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -20529,7 +22362,7 @@ module.exports = [
   {
     "country": "Congo",
     "year": 2018,
-    "forest_propotion_to_land": 65.2832403959,
+    "forest_propotion_to_land": 65.28324005,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -20542,7 +22375,7 @@ module.exports = [
   {
     "country": "Congo",
     "year": 2019,
-    "forest_propotion_to_land": 65.2364432065,
+    "forest_propotion_to_land": 65.2364428386,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -20555,7 +22388,7 @@ module.exports = [
   {
     "country": "Congo",
     "year": 2020,
-    "forest_propotion_to_land": 65.1897234271,
+    "forest_propotion_to_land": 65.1897230271,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -20568,7 +22401,7 @@ module.exports = [
   {
     "country": "Congo",
     "year": 2021,
-    "forest_propotion_to_land": 65.1429930681,
+    "forest_propotion_to_land": 65.14299263779999,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -20581,7 +22414,46 @@ module.exports = [
   {
     "country": "Congo",
     "year": 2022,
-    "forest_propotion_to_land": 65.096264155,
+    "forest_propotion_to_land": 65.0962636941,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Congo",
+    "year": 2023,
+    "forest_propotion_to_land": 65.0495345528,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Congo",
+    "year": 2024,
+    "forest_propotion_to_land": 65.0028054385,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Congo",
+    "year": 2025,
+    "forest_propotion_to_land": 64.9560763205,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -20667,7 +22539,7 @@ module.exports = [
     "country_land_area_km": 51060,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 21.1317822447
+    "mean_yearly_exposure_pollution": 21.131782244700002
   },
   {
     "country": "Costa Rica",
@@ -20732,7 +22604,7 @@ module.exports = [
     "country_land_area_km": 51060,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 22.0323623749
+    "mean_yearly_exposure_pollution": 22.032362374899996
   },
   {
     "country": "Costa Rica",
@@ -20888,7 +22760,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 16.4871776864
+    "mean_yearly_exposure_pollution": 16.487177686400006
   },
   {
     "country": "Costa Rica",
@@ -20901,7 +22773,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 18.5586760111
+    "mean_yearly_exposure_pollution": 18.558676011099998
   },
   {
     "country": "Costa Rica",
@@ -20927,12 +22799,12 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 18.5433603234
+    "mean_yearly_exposure_pollution": 18.543360323399998
   },
   {
     "country": "Costa Rica",
     "year": 2016,
-    "forest_propotion_to_land": 54.3872376351,
+    "forest_propotion_to_land": 54.3872378916,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -20945,7 +22817,7 @@ module.exports = [
   {
     "country": "Costa Rica",
     "year": 2017,
-    "forest_propotion_to_land": 54.9898202136,
+    "forest_propotion_to_land": 54.98982031520001,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -20958,7 +22830,7 @@ module.exports = [
   {
     "country": "Costa Rica",
     "year": 2018,
-    "forest_propotion_to_land": 55.5684268612,
+    "forest_propotion_to_land": 55.568426873,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -20971,7 +22843,7 @@ module.exports = [
   {
     "country": "Costa Rica",
     "year": 2019,
-    "forest_propotion_to_land": 56.1495184112,
+    "forest_propotion_to_land": 56.149518323,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -20984,7 +22856,7 @@ module.exports = [
   {
     "country": "Costa Rica",
     "year": 2020,
-    "forest_propotion_to_land": 56.7303379467,
+    "forest_propotion_to_land": 56.730337759899996,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -20997,7 +22869,7 @@ module.exports = [
   {
     "country": "Costa Rica",
     "year": 2021,
-    "forest_propotion_to_land": 57.3111867167,
+    "forest_propotion_to_land": 57.3111864311,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -21010,7 +22882,46 @@ module.exports = [
   {
     "country": "Costa Rica",
     "year": 2022,
-    "forest_propotion_to_land": 57.8920323256,
+    "forest_propotion_to_land": 57.892031941199996,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Costa Rica",
+    "year": 2023,
+    "forest_propotion_to_land": 58.4728777924,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Costa Rica",
+    "year": 2024,
+    "forest_propotion_to_land": 59.053723606700004,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Costa Rica",
+    "year": 2025,
+    "forest_propotion_to_land": 59.634569425100004,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -21226,7 +23137,7 @@ module.exports = [
     "country_land_area_km": 318000,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 27.7362714172
+    "mean_yearly_exposure_pollution": 27.736271417199998
   },
   {
     "country": "Cote d'Ivoire",
@@ -21291,7 +23202,7 @@ module.exports = [
     "country_land_area_km": 318000,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 28.6425630561
+    "mean_yearly_exposure_pollution": 28.642563056100002
   },
   {
     "country": "Cote d'Ivoire",
@@ -21304,7 +23215,7 @@ module.exports = [
     "country_land_area_km": 318000,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 31.9419434437
+    "mean_yearly_exposure_pollution": 31.941943443699998
   },
   {
     "country": "Cote d'Ivoire",
@@ -21343,7 +23254,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 26.2765496613
+    "mean_yearly_exposure_pollution": 26.276549661300002
   },
   {
     "country": "Cote d'Ivoire",
@@ -21361,7 +23272,7 @@ module.exports = [
   {
     "country": "Cote d'Ivoire",
     "year": 2016,
-    "forest_propotion_to_land": 32.7357007825,
+    "forest_propotion_to_land": 32.7327988695,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -21374,7 +23285,7 @@ module.exports = [
   {
     "country": "Cote d'Ivoire",
     "year": 2017,
-    "forest_propotion_to_land": 32.7592567392,
+    "forest_propotion_to_land": 32.7555974828,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -21387,7 +23298,7 @@ module.exports = [
   {
     "country": "Cote d'Ivoire",
     "year": 2018,
-    "forest_propotion_to_land": 32.7830091521,
+    "forest_propotion_to_land": 32.7783961989,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -21400,7 +23311,7 @@ module.exports = [
   {
     "country": "Cote d'Ivoire",
     "year": 2019,
-    "forest_propotion_to_land": 32.8067437126,
+    "forest_propotion_to_land": 32.801194915,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -21413,7 +23324,7 @@ module.exports = [
   {
     "country": "Cote d'Ivoire",
     "year": 2020,
-    "forest_propotion_to_land": 32.8304798965,
+    "forest_propotion_to_land": 32.8239936311,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -21426,7 +23337,7 @@ module.exports = [
   {
     "country": "Cote d'Ivoire",
     "year": 2021,
-    "forest_propotion_to_land": 32.8542159328,
+    "forest_propotion_to_land": 32.8467923472,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -21439,7 +23350,46 @@ module.exports = [
   {
     "country": "Cote d'Ivoire",
     "year": 2022,
-    "forest_propotion_to_land": 32.8779519825,
+    "forest_propotion_to_land": 32.8695910633,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Cote d'Ivoire",
+    "year": 2023,
+    "forest_propotion_to_land": 32.8923897794,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Cote d'Ivoire",
+    "year": 2024,
+    "forest_propotion_to_land": 32.915188495500004,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Cote d'Ivoire",
+    "year": 2025,
+    "forest_propotion_to_land": 32.937987211599996,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -21785,12 +23735,12 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 19.8443561708
+    "mean_yearly_exposure_pollution": 19.844356170799998
   },
   {
     "country": "Croatia",
     "year": 2016,
-    "forest_propotion_to_land": 34.4054368105,
+    "forest_propotion_to_land": 34.4054365678,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -21803,7 +23753,7 @@ module.exports = [
   {
     "country": "Croatia",
     "year": 2017,
-    "forest_propotion_to_land": 34.4588081511,
+    "forest_propotion_to_land": 34.4588078819,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -21816,7 +23766,7 @@ module.exports = [
   {
     "country": "Croatia",
     "year": 2018,
-    "forest_propotion_to_land": 34.5124329688,
+    "forest_propotion_to_land": 34.5124326483,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -21829,7 +23779,7 @@ module.exports = [
   {
     "country": "Croatia",
     "year": 2019,
-    "forest_propotion_to_land": 34.5660268677,
+    "forest_propotion_to_land": 34.5660264984,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -21842,7 +23792,7 @@ module.exports = [
   {
     "country": "Croatia",
     "year": 2020,
-    "forest_propotion_to_land": 34.6196245364,
+    "forest_propotion_to_land": 34.619624118000004,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -21855,7 +23805,7 @@ module.exports = [
   {
     "country": "Croatia",
     "year": 2021,
-    "forest_propotion_to_land": 34.6732217455,
+    "forest_propotion_to_land": 34.673221278,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -21868,7 +23818,46 @@ module.exports = [
   {
     "country": "Croatia",
     "year": 2022,
-    "forest_propotion_to_land": 34.7268190107,
+    "forest_propotion_to_land": 34.726818494,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Croatia",
+    "year": 2023,
+    "forest_propotion_to_land": 34.7804157032,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Croatia",
+    "year": 2024,
+    "forest_propotion_to_land": 34.8340129133,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Croatia",
+    "year": 2025,
+    "forest_propotion_to_land": 34.8876101232,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -22084,7 +24073,7 @@ module.exports = [
     "country_land_area_km": 106440,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 20.782819109
+    "mean_yearly_exposure_pollution": 20.782819109000002
   },
   {
     "country": "Cuba",
@@ -22149,7 +24138,7 @@ module.exports = [
     "country_land_area_km": 106440,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 15.4762375363
+    "mean_yearly_exposure_pollution": 15.476237536300001
   },
   {
     "country": "Cuba",
@@ -22201,7 +24190,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 18.1456620892
+    "mean_yearly_exposure_pollution": 18.145662089200002
   },
   {
     "country": "Cuba",
@@ -22219,7 +24208,7 @@ module.exports = [
   {
     "country": "Cuba",
     "year": 2016,
-    "forest_propotion_to_land": 30.1115526983,
+    "forest_propotion_to_land": 30.111552918,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -22232,7 +24221,7 @@ module.exports = [
   {
     "country": "Cuba",
     "year": 2017,
-    "forest_propotion_to_land": 30.5982075956,
+    "forest_propotion_to_land": 30.5982077475,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -22245,7 +24234,7 @@ module.exports = [
   {
     "country": "Cuba",
     "year": 2018,
-    "forest_propotion_to_land": 31.0235475032,
+    "forest_propotion_to_land": 31.0235476816,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -22258,7 +24247,7 @@ module.exports = [
   {
     "country": "Cuba",
     "year": 2019,
-    "forest_propotion_to_land": 31.4568373593,
+    "forest_propotion_to_land": 31.456837543000002,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -22271,7 +24260,7 @@ module.exports = [
   {
     "country": "Cuba",
     "year": 2020,
-    "forest_propotion_to_land": 31.8891346209,
+    "forest_propotion_to_land": 31.8891348139,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -22284,7 +24273,7 @@ module.exports = [
   {
     "country": "Cuba",
     "year": 2021,
-    "forest_propotion_to_land": 32.3215535197,
+    "forest_propotion_to_land": 32.3215537213,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -22297,7 +24286,46 @@ module.exports = [
   {
     "country": "Cuba",
     "year": 2022,
-    "forest_propotion_to_land": 32.7539576556,
+    "forest_propotion_to_land": 32.7539578659,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Cuba",
+    "year": 2023,
+    "forest_propotion_to_land": 33.1863637932,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Cuba",
+    "year": 2024,
+    "forest_propotion_to_land": 33.618769505799996,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Cuba",
+    "year": 2025,
+    "forest_propotion_to_land": 34.0511752442,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -22383,7 +24411,7 @@ module.exports = [
     "country_land_area_km": 9240,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 15.0175373835
+    "mean_yearly_exposure_pollution": 15.017537383499999
   },
   {
     "country": "Cyprus",
@@ -22448,7 +24476,7 @@ module.exports = [
     "country_land_area_km": 9240,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 15.1886285341
+    "mean_yearly_exposure_pollution": 15.188628534100001
   },
   {
     "country": "Cyprus",
@@ -22578,7 +24606,7 @@ module.exports = [
     "country_land_area_km": 9240,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 15.3946812895
+    "mean_yearly_exposure_pollution": 15.394681289500001
   },
   {
     "country": "Cyprus",
@@ -22648,7 +24676,7 @@ module.exports = [
   {
     "country": "Cyprus",
     "year": 2016,
-    "forest_propotion_to_land": 18.7452992652,
+    "forest_propotion_to_land": 18.7452994602,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -22661,7 +24689,7 @@ module.exports = [
   {
     "country": "Cyprus",
     "year": 2017,
-    "forest_propotion_to_land": 18.7975063369,
+    "forest_propotion_to_land": 18.7975065721,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -22674,7 +24702,7 @@ module.exports = [
   {
     "country": "Cyprus",
     "year": 2018,
-    "forest_propotion_to_land": 18.8499435792,
+    "forest_propotion_to_land": 18.8499438275,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -22687,7 +24715,7 @@ module.exports = [
   {
     "country": "Cyprus",
     "year": 2019,
-    "forest_propotion_to_land": 18.902365973,
+    "forest_propotion_to_land": 18.9023662368,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -22700,7 +24728,7 @@ module.exports = [
   {
     "country": "Cyprus",
     "year": 2020,
-    "forest_propotion_to_land": 18.9547893643,
+    "forest_propotion_to_land": 18.954789643399998,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -22713,7 +24741,7 @@ module.exports = [
   {
     "country": "Cyprus",
     "year": 2021,
-    "forest_propotion_to_land": 19.0072126894,
+    "forest_propotion_to_land": 19.007212983800002,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -22726,7 +24754,46 @@ module.exports = [
   {
     "country": "Cyprus",
     "year": 2022,
-    "forest_propotion_to_land": 19.059636019,
+    "forest_propotion_to_land": 19.059636328699998,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Cyprus",
+    "year": 2023,
+    "forest_propotion_to_land": 19.1120596732,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Cyprus",
+    "year": 2024,
+    "forest_propotion_to_land": 19.1644830178,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Cyprus",
+    "year": 2025,
+    "forest_propotion_to_land": 19.2169063623,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -23077,7 +25144,7 @@ module.exports = [
   {
     "country": "Czech Republic",
     "year": 2016,
-    "forest_propotion_to_land": 34.5422695848,
+    "forest_propotion_to_land": 34.5422726513,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -23090,7 +25157,7 @@ module.exports = [
   {
     "country": "Czech Republic",
     "year": 2017,
-    "forest_propotion_to_land": 34.5715212547,
+    "forest_propotion_to_land": 34.571518687,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -23103,7 +25170,7 @@ module.exports = [
   {
     "country": "Czech Republic",
     "year": 2018,
-    "forest_propotion_to_land": 34.5951759301,
+    "forest_propotion_to_land": 34.5951717567,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -23116,7 +25183,7 @@ module.exports = [
   {
     "country": "Czech Republic",
     "year": 2019,
-    "forest_propotion_to_land": 34.6199911123,
+    "forest_propotion_to_land": 34.6199840316,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -23129,7 +25196,7 @@ module.exports = [
   {
     "country": "Czech Republic",
     "year": 2020,
-    "forest_propotion_to_land": 34.6445656721,
+    "forest_propotion_to_land": 34.6445560506,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -23142,7 +25209,7 @@ module.exports = [
   {
     "country": "Czech Republic",
     "year": 2021,
-    "forest_propotion_to_land": 34.6691901232,
+    "forest_propotion_to_land": 34.6691778649,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -23155,7 +25222,46 @@ module.exports = [
   {
     "country": "Czech Republic",
     "year": 2022,
-    "forest_propotion_to_land": 34.6938042296,
+    "forest_propotion_to_land": 34.6937893586,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Czech Republic",
+    "year": 2023,
+    "forest_propotion_to_land": 34.7184029914,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Czech Republic",
+    "year": 2024,
+    "forest_propotion_to_land": 34.7430161808,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Czech Republic",
+    "year": 2025,
+    "forest_propotion_to_land": 34.7676294621,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -23371,7 +25477,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 47.0669214027
+    "mean_yearly_exposure_pollution": 47.066921402700004
   },
   {
     "country": "Democratic Republic of Congo",
@@ -23475,7 +25581,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 46.8534451128
+    "mean_yearly_exposure_pollution": 46.853445112799996
   },
   {
     "country": "Democratic Republic of Congo",
@@ -23488,7 +25594,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 46.5745196089
+    "mean_yearly_exposure_pollution": 46.574519608900005
   },
   {
     "country": "Democratic Republic of Congo",
@@ -23501,12 +25607,12 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 55.8983428002
+    "mean_yearly_exposure_pollution": 55.898342800200005
   },
   {
     "country": "Democratic Republic of Congo",
     "year": 2016,
-    "forest_propotion_to_land": 67.247500508,
+    "forest_propotion_to_land": 67.2475008588,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -23519,7 +25625,7 @@ module.exports = [
   {
     "country": "Democratic Republic of Congo",
     "year": 2017,
-    "forest_propotion_to_land": 67.0956607359,
+    "forest_propotion_to_land": 67.0956610021,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -23532,7 +25638,7 @@ module.exports = [
   {
     "country": "Democratic Republic of Congo",
     "year": 2018,
-    "forest_propotion_to_land": 66.9577566263,
+    "forest_propotion_to_land": 66.9577569243,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -23545,7 +25651,7 @@ module.exports = [
   {
     "country": "Democratic Republic of Congo",
     "year": 2019,
-    "forest_propotion_to_land": 66.8179264707,
+    "forest_propotion_to_land": 66.81792677680001,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -23558,7 +25664,7 @@ module.exports = [
   {
     "country": "Democratic Republic of Congo",
     "year": 2020,
-    "forest_propotion_to_land": 66.6783619139,
+    "forest_propotion_to_land": 66.67836223229999,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -23571,7 +25677,7 @@ module.exports = [
   {
     "country": "Democratic Republic of Congo",
     "year": 2021,
-    "forest_propotion_to_land": 66.538760744,
+    "forest_propotion_to_land": 66.5387610741,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -23584,7 +25690,46 @@ module.exports = [
   {
     "country": "Democratic Republic of Congo",
     "year": 2022,
-    "forest_propotion_to_land": 66.399164621,
+    "forest_propotion_to_land": 66.3991649629,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Democratic Republic of Congo",
+    "year": 2023,
+    "forest_propotion_to_land": 66.259568156,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Democratic Republic of Congo",
+    "year": 2024,
+    "forest_propotion_to_land": 66.1199714449,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Democratic Republic of Congo",
+    "year": 2025,
+    "forest_propotion_to_land": 65.9803747207,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -23605,7 +25750,7 @@ module.exports = [
     "country_land_area_km": 42390,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 12.8554360607
+    "mean_yearly_exposure_pollution": 12.855436060699999
   },
   {
     "country": "Denmark",
@@ -23935,7 +26080,7 @@ module.exports = [
   {
     "country": "Denmark",
     "year": 2016,
-    "forest_propotion_to_land": 14.4951978797,
+    "forest_propotion_to_land": 14.4951979498,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -23948,7 +26093,7 @@ module.exports = [
   {
     "country": "Denmark",
     "year": 2017,
-    "forest_propotion_to_land": 14.5604001597,
+    "forest_propotion_to_land": 14.5604000448,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -23961,7 +26106,7 @@ module.exports = [
   {
     "country": "Denmark",
     "year": 2018,
-    "forest_propotion_to_land": 14.6256021208,
+    "forest_propotion_to_land": 14.6256020282,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -23974,7 +26119,7 @@ module.exports = [
   {
     "country": "Denmark",
     "year": 2019,
-    "forest_propotion_to_land": 14.690804082,
+    "forest_propotion_to_land": 14.690804011500001,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -23987,7 +26132,7 @@ module.exports = [
   {
     "country": "Denmark",
     "year": 2020,
-    "forest_propotion_to_land": 14.7560060432,
+    "forest_propotion_to_land": 14.7560059948,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -24000,7 +26145,7 @@ module.exports = [
   {
     "country": "Denmark",
     "year": 2021,
-    "forest_propotion_to_land": 14.8212080043,
+    "forest_propotion_to_land": 14.821207978199999,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -24013,7 +26158,46 @@ module.exports = [
   {
     "country": "Denmark",
     "year": 2022,
-    "forest_propotion_to_land": 14.8864099655,
+    "forest_propotion_to_land": 14.886409961500002,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Denmark",
+    "year": 2023,
+    "forest_propotion_to_land": 14.9516119448,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Denmark",
+    "year": 2024,
+    "forest_propotion_to_land": 15.0168139282,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Denmark",
+    "year": 2025,
+    "forest_propotion_to_land": 15.082015911500001,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -24034,7 +26218,7 @@ module.exports = [
     "country_land_area_km": 23180,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 46.477486076
+    "mean_yearly_exposure_pollution": 46.477486076000005
   },
   {
     "country": "Djibouti",
@@ -24099,7 +26283,7 @@ module.exports = [
     "country_land_area_km": 23180,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 46.8220874511
+    "mean_yearly_exposure_pollution": 46.822087451099996
   },
   {
     "country": "Djibouti",
@@ -24164,7 +26348,7 @@ module.exports = [
     "country_land_area_km": 23180,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 49.8395891469
+    "mean_yearly_exposure_pollution": 49.839589146899996
   },
   {
     "country": "Djibouti",
@@ -24320,7 +26504,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 52.3192236185
+    "mean_yearly_exposure_pollution": 52.319223618500004
   },
   {
     "country": "Djibouti",
@@ -24333,7 +26517,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 51.2265068561
+    "mean_yearly_exposure_pollution": 51.226506856099995
   },
   {
     "country": "Djibouti",
@@ -24359,7 +26543,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 71.0906143022
+    "mean_yearly_exposure_pollution": 71.09061430220001
   },
   {
     "country": "Djibouti",
@@ -24442,6 +26626,45 @@ module.exports = [
   {
     "country": "Djibouti",
     "year": 2022,
+    "forest_propotion_to_land": 0.24,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Djibouti",
+    "year": 2023,
+    "forest_propotion_to_land": 0.24,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Djibouti",
+    "year": 2024,
+    "forest_propotion_to_land": 0.24,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Djibouti",
+    "year": 2025,
     "forest_propotion_to_land": 0.24,
     "country_population": 0,
     "wood_removal": 0,
@@ -24749,7 +26972,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 14.2272961905
+    "mean_yearly_exposure_pollution": 14.227296190499999
   },
   {
     "country": "Dominica",
@@ -24793,7 +27016,7 @@ module.exports = [
   {
     "country": "Dominica",
     "year": 2016,
-    "forest_propotion_to_land": 57.6362512449,
+    "forest_propotion_to_land": 57.63625097,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -24806,7 +27029,7 @@ module.exports = [
   {
     "country": "Dominica",
     "year": 2017,
-    "forest_propotion_to_land": 57.2458523931,
+    "forest_propotion_to_land": 57.245852181400004,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -24819,7 +27042,7 @@ module.exports = [
   {
     "country": "Dominica",
     "year": 2018,
-    "forest_propotion_to_land": 56.8877567543,
+    "forest_propotion_to_land": 56.887756520299995,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -24832,7 +27055,7 @@ module.exports = [
   {
     "country": "Dominica",
     "year": 2019,
-    "forest_propotion_to_land": 56.5258737403,
+    "forest_propotion_to_land": 56.5258734995,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -24845,7 +27068,7 @@ module.exports = [
   {
     "country": "Dominica",
     "year": 2020,
-    "forest_propotion_to_land": 56.1644223157,
+    "forest_propotion_to_land": 56.16442206560001,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -24858,7 +27081,7 @@ module.exports = [
   {
     "country": "Dominica",
     "year": 2021,
-    "forest_propotion_to_land": 55.802922308,
+    "forest_propotion_to_land": 55.8029220489,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -24871,7 +27094,46 @@ module.exports = [
   {
     "country": "Dominica",
     "year": 2022,
-    "forest_propotion_to_land": 55.4414277395,
+    "forest_propotion_to_land": 55.4414274716,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Dominica",
+    "year": 2023,
+    "forest_propotion_to_land": 55.0799322867,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Dominica",
+    "year": 2024,
+    "forest_propotion_to_land": 54.7184371695,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Dominica",
+    "year": 2025,
+    "forest_propotion_to_land": 54.356942044899995,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -25165,7 +27427,7 @@ module.exports = [
     "country_land_area_km": 48310,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 16.9194476944
+    "mean_yearly_exposure_pollution": 16.919447694400002
   },
   {
     "country": "Dominican Republic",
@@ -25204,7 +27466,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 17.8165655589
+    "mean_yearly_exposure_pollution": 17.816565558900002
   },
   {
     "country": "Dominican Republic",
@@ -25222,7 +27484,7 @@ module.exports = [
   {
     "country": "Dominican Republic",
     "year": 2016,
-    "forest_propotion_to_land": 41.3675265537,
+    "forest_propotion_to_land": 41.367526453800004,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -25235,7 +27497,7 @@ module.exports = [
   {
     "country": "Dominican Republic",
     "year": 2017,
-    "forest_propotion_to_land": 42.1548955685,
+    "forest_propotion_to_land": 42.1548954876,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -25248,7 +27510,7 @@ module.exports = [
   {
     "country": "Dominican Republic",
     "year": 2018,
-    "forest_propotion_to_land": 42.8898318447,
+    "forest_propotion_to_land": 42.8898317569,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -25261,7 +27523,7 @@ module.exports = [
   {
     "country": "Dominican Republic",
     "year": 2019,
-    "forest_propotion_to_land": 43.6301218296,
+    "forest_propotion_to_land": 43.6301217389,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -25274,7 +27536,7 @@ module.exports = [
   {
     "country": "Dominican Republic",
     "year": 2020,
-    "forest_propotion_to_land": 44.3698977943,
+    "forest_propotion_to_land": 44.369897700200006,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -25287,7 +27549,7 @@ module.exports = [
   {
     "country": "Dominican Republic",
     "year": 2021,
-    "forest_propotion_to_land": 45.1097212087,
+    "forest_propotion_to_land": 45.109721111199995,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -25300,7 +27562,46 @@ module.exports = [
   {
     "country": "Dominican Republic",
     "year": 2022,
-    "forest_propotion_to_land": 45.8495403609,
+    "forest_propotion_to_land": 45.8495402601,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Dominican Republic",
+    "year": 2023,
+    "forest_propotion_to_land": 46.5893597841,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Dominican Republic",
+    "year": 2024,
+    "forest_propotion_to_land": 47.3291792757,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Dominican Republic",
+    "year": 2025,
+    "forest_propotion_to_land": 48.06899877,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -25516,7 +27817,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 51.3069570785
+    "mean_yearly_exposure_pollution": 51.306957078500005
   },
   {
     "country": "Early-demographic dividend",
@@ -25594,7 +27895,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 50.9695603493
+    "mean_yearly_exposure_pollution": 50.969560349300004
   },
   {
     "country": "Early-demographic dividend",
@@ -25620,7 +27921,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 53.9755954449
+    "mean_yearly_exposure_pollution": 53.975595444899994
   },
   {
     "country": "Early-demographic dividend",
@@ -25633,7 +27934,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 55.0065163814
+    "mean_yearly_exposure_pollution": 55.006516381400004
   },
   {
     "country": "Early-demographic dividend",
@@ -25729,6 +28030,45 @@ module.exports = [
   {
     "country": "Early-demographic dividend",
     "year": 2022,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Early-demographic dividend",
+    "year": 2023,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Early-demographic dividend",
+    "year": 2024,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Early-demographic dividend",
+    "year": 2025,
     "forest_propotion_to_land": 41.04,
     "country_population": 0,
     "wood_removal": 0,
@@ -25880,7 +28220,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 40.0389195997
+    "mean_yearly_exposure_pollution": 40.038919599699994
   },
   {
     "country": "East Asia & Pacific",
@@ -26062,7 +28402,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 43.5842733281
+    "mean_yearly_exposure_pollution": 43.584273328100004
   },
   {
     "country": "East Asia & Pacific",
@@ -26158,6 +28498,513 @@ module.exports = [
   {
     "country": "East Asia & Pacific",
     "year": 2022,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "East Asia & Pacific",
+    "year": 2023,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "East Asia & Pacific",
+    "year": 2024,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "East Asia & Pacific",
+    "year": 2025,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "East Asia & Pacific (IDA & IBRD)",
+    "year": 1990,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 41.1913927055
+  },
+  {
+    "country": "East Asia & Pacific (IDA & IBRD)",
+    "year": 1991,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "East Asia & Pacific (IDA & IBRD)",
+    "year": 1992,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "East Asia & Pacific (IDA & IBRD)",
+    "year": 1993,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "East Asia & Pacific (IDA & IBRD)",
+    "year": 1994,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "East Asia & Pacific (IDA & IBRD)",
+    "year": 1995,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 41.8277625629
+  },
+  {
+    "country": "East Asia & Pacific (IDA & IBRD)",
+    "year": 1996,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "East Asia & Pacific (IDA & IBRD)",
+    "year": 1997,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "East Asia & Pacific (IDA & IBRD)",
+    "year": 1998,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "East Asia & Pacific (IDA & IBRD)",
+    "year": 1999,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "East Asia & Pacific (IDA & IBRD)",
+    "year": 2000,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 43.0948403243
+  },
+  {
+    "country": "East Asia & Pacific (IDA & IBRD)",
+    "year": 2001,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "East Asia & Pacific (IDA & IBRD)",
+    "year": 2002,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "East Asia & Pacific (IDA & IBRD)",
+    "year": 2003,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "East Asia & Pacific (IDA & IBRD)",
+    "year": 2004,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "East Asia & Pacific (IDA & IBRD)",
+    "year": 2005,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 47.050222660699994
+  },
+  {
+    "country": "East Asia & Pacific (IDA & IBRD)",
+    "year": 2006,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "East Asia & Pacific (IDA & IBRD)",
+    "year": 2007,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "East Asia & Pacific (IDA & IBRD)",
+    "year": 2008,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "East Asia & Pacific (IDA & IBRD)",
+    "year": 2009,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "East Asia & Pacific (IDA & IBRD)",
+    "year": 2010,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 46.7907085396
+  },
+  {
+    "country": "East Asia & Pacific (IDA & IBRD)",
+    "year": 2011,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 46.0926361675
+  },
+  {
+    "country": "East Asia & Pacific (IDA & IBRD)",
+    "year": 2012,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 46.303382922299996
+  },
+  {
+    "country": "East Asia & Pacific (IDA & IBRD)",
+    "year": 2013,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 46.153069522799996
+  },
+  {
+    "country": "East Asia & Pacific (IDA & IBRD)",
+    "year": 2014,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 46.8496552774
+  },
+  {
+    "country": "East Asia & Pacific (IDA & IBRD)",
+    "year": 2015,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 45.702404280799996
+  },
+  {
+    "country": "East Asia & Pacific (IDA & IBRD)",
+    "year": 2016,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "East Asia & Pacific (IDA & IBRD)",
+    "year": 2017,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "East Asia & Pacific (IDA & IBRD)",
+    "year": 2018,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "East Asia & Pacific (IDA & IBRD)",
+    "year": 2019,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "East Asia & Pacific (IDA & IBRD)",
+    "year": 2020,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "East Asia & Pacific (IDA & IBRD)",
+    "year": 2021,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "East Asia & Pacific (IDA & IBRD)",
+    "year": 2022,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "East Asia & Pacific (IDA & IBRD)",
+    "year": 2023,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "East Asia & Pacific (IDA & IBRD)",
+    "year": 2024,
+    "forest_propotion_to_land": 41.04,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "East Asia & Pacific (IDA & IBRD)",
+    "year": 2025,
     "forest_propotion_to_land": 41.04,
     "country_population": 0,
     "wood_removal": 0,
@@ -26439,7 +29286,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 46.5939895695
+    "mean_yearly_exposure_pollution": 46.593989569499996
   },
   {
     "country": "East Asia & Pacific (excluding high income)",
@@ -26452,7 +29299,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 45.8845405599
+    "mean_yearly_exposure_pollution": 45.884540559899996
   },
   {
     "country": "East Asia & Pacific (excluding high income)",
@@ -26465,7 +29312,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 46.1022183789
+    "mean_yearly_exposure_pollution": 46.102218378900005
   },
   {
     "country": "East Asia & Pacific (excluding high income)",
@@ -26478,7 +29325,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 45.9706154051
+    "mean_yearly_exposure_pollution": 45.97061540510001
   },
   {
     "country": "East Asia & Pacific (excluding high income)",
@@ -26504,7 +29351,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 45.5794837076
+    "mean_yearly_exposure_pollution": 45.57948370760001
   },
   {
     "country": "East Asia & Pacific (excluding high income)",
@@ -26598,21 +29445,8 @@ module.exports = [
     "mean_yearly_exposure_pollution": 0
   },
   {
-    "country": "East Asia & Pacific (IDA & IBRD)",
-    "year": 1990,
-    "forest_propotion_to_land": 41.04,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 41.1913927055
-  },
-  {
-    "country": "East Asia & Pacific (IDA & IBRD)",
-    "year": 1991,
+    "country": "East Asia & Pacific (excluding high income)",
+    "year": 2023,
     "forest_propotion_to_land": 41.04,
     "country_population": 0,
     "wood_removal": 0,
@@ -26624,8 +29458,8 @@ module.exports = [
     "mean_yearly_exposure_pollution": 0
   },
   {
-    "country": "East Asia & Pacific (IDA & IBRD)",
-    "year": 1992,
+    "country": "East Asia & Pacific (excluding high income)",
+    "year": 2024,
     "forest_propotion_to_land": 41.04,
     "country_population": 0,
     "wood_removal": 0,
@@ -26637,385 +29471,8 @@ module.exports = [
     "mean_yearly_exposure_pollution": 0
   },
   {
-    "country": "East Asia & Pacific (IDA & IBRD)",
-    "year": 1993,
-    "forest_propotion_to_land": 41.04,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "East Asia & Pacific (IDA & IBRD)",
-    "year": 1994,
-    "forest_propotion_to_land": 41.04,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "East Asia & Pacific (IDA & IBRD)",
-    "year": 1995,
-    "forest_propotion_to_land": 41.04,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 41.8277625629
-  },
-  {
-    "country": "East Asia & Pacific (IDA & IBRD)",
-    "year": 1996,
-    "forest_propotion_to_land": 41.04,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "East Asia & Pacific (IDA & IBRD)",
-    "year": 1997,
-    "forest_propotion_to_land": 41.04,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "East Asia & Pacific (IDA & IBRD)",
-    "year": 1998,
-    "forest_propotion_to_land": 41.04,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "East Asia & Pacific (IDA & IBRD)",
-    "year": 1999,
-    "forest_propotion_to_land": 41.04,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "East Asia & Pacific (IDA & IBRD)",
-    "year": 2000,
-    "forest_propotion_to_land": 41.04,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 43.0948403243
-  },
-  {
-    "country": "East Asia & Pacific (IDA & IBRD)",
-    "year": 2001,
-    "forest_propotion_to_land": 41.04,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "East Asia & Pacific (IDA & IBRD)",
-    "year": 2002,
-    "forest_propotion_to_land": 41.04,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "East Asia & Pacific (IDA & IBRD)",
-    "year": 2003,
-    "forest_propotion_to_land": 41.04,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "East Asia & Pacific (IDA & IBRD)",
-    "year": 2004,
-    "forest_propotion_to_land": 41.04,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "East Asia & Pacific (IDA & IBRD)",
-    "year": 2005,
-    "forest_propotion_to_land": 41.04,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 47.0502226607
-  },
-  {
-    "country": "East Asia & Pacific (IDA & IBRD)",
-    "year": 2006,
-    "forest_propotion_to_land": 41.04,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "East Asia & Pacific (IDA & IBRD)",
-    "year": 2007,
-    "forest_propotion_to_land": 41.04,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "East Asia & Pacific (IDA & IBRD)",
-    "year": 2008,
-    "forest_propotion_to_land": 41.04,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "East Asia & Pacific (IDA & IBRD)",
-    "year": 2009,
-    "forest_propotion_to_land": 41.04,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "East Asia & Pacific (IDA & IBRD)",
-    "year": 2010,
-    "forest_propotion_to_land": 41.04,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 46.7907085396
-  },
-  {
-    "country": "East Asia & Pacific (IDA & IBRD)",
-    "year": 2011,
-    "forest_propotion_to_land": 41.04,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 46.0926361675
-  },
-  {
-    "country": "East Asia & Pacific (IDA & IBRD)",
-    "year": 2012,
-    "forest_propotion_to_land": 41.04,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 46.3033829223
-  },
-  {
-    "country": "East Asia & Pacific (IDA & IBRD)",
-    "year": 2013,
-    "forest_propotion_to_land": 41.04,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 46.1530695228
-  },
-  {
-    "country": "East Asia & Pacific (IDA & IBRD)",
-    "year": 2014,
-    "forest_propotion_to_land": 41.04,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 46.8496552774
-  },
-  {
-    "country": "East Asia & Pacific (IDA & IBRD)",
-    "year": 2015,
-    "forest_propotion_to_land": 41.04,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 45.7024042808
-  },
-  {
-    "country": "East Asia & Pacific (IDA & IBRD)",
-    "year": 2016,
-    "forest_propotion_to_land": 41.04,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "East Asia & Pacific (IDA & IBRD)",
-    "year": 2017,
-    "forest_propotion_to_land": 41.04,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "East Asia & Pacific (IDA & IBRD)",
-    "year": 2018,
-    "forest_propotion_to_land": 41.04,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "East Asia & Pacific (IDA & IBRD)",
-    "year": 2019,
-    "forest_propotion_to_land": 41.04,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "East Asia & Pacific (IDA & IBRD)",
-    "year": 2020,
-    "forest_propotion_to_land": 41.04,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "East Asia & Pacific (IDA & IBRD)",
-    "year": 2021,
-    "forest_propotion_to_land": 41.04,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "East Asia & Pacific (IDA & IBRD)",
-    "year": 2022,
+    "country": "East Asia & Pacific (excluding high income)",
+    "year": 2025,
     "forest_propotion_to_land": 41.04,
     "country_population": 0,
     "wood_removal": 0,
@@ -27102,7 +29559,7 @@ module.exports = [
     "country_land_area_km": 276840,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 17.9093600682
+    "mean_yearly_exposure_pollution": 17.909360068199998
   },
   {
     "country": "Ecuador",
@@ -27323,7 +29780,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 15.8974329615
+    "mean_yearly_exposure_pollution": 15.897432961500002
   },
   {
     "country": "Ecuador",
@@ -27367,7 +29824,7 @@ module.exports = [
   {
     "country": "Ecuador",
     "year": 2016,
-    "forest_propotion_to_land": 50.3652518867,
+    "forest_propotion_to_land": 50.3652525063,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -27380,7 +29837,7 @@ module.exports = [
   {
     "country": "Ecuador",
     "year": 2017,
-    "forest_propotion_to_land": 50.0012686155,
+    "forest_propotion_to_land": 50.001269065500004,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -27393,7 +29850,7 @@ module.exports = [
   {
     "country": "Ecuador",
     "year": 2018,
-    "forest_propotion_to_land": 49.662040052,
+    "forest_propotion_to_land": 49.6620405768,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -27406,7 +29863,7 @@ module.exports = [
   {
     "country": "Ecuador",
     "year": 2019,
-    "forest_propotion_to_land": 49.3200710805,
+    "forest_propotion_to_land": 49.320071631000005,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -27419,7 +29876,7 @@ module.exports = [
   {
     "country": "Ecuador",
     "year": 2020,
-    "forest_propotion_to_land": 48.9783978757,
+    "forest_propotion_to_land": 48.9783984599,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -27432,7 +29889,7 @@ module.exports = [
   {
     "country": "Ecuador",
     "year": 2021,
-    "forest_propotion_to_land": 48.6366930775,
+    "forest_propotion_to_land": 48.6366936942,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -27445,7 +29902,46 @@ module.exports = [
   {
     "country": "Ecuador",
     "year": 2022,
-    "forest_propotion_to_land": 48.2949916395,
+    "forest_propotion_to_land": 48.294992288900005,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Ecuador",
+    "year": 2023,
+    "forest_propotion_to_land": 47.9532905269,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Ecuador",
+    "year": 2024,
+    "forest_propotion_to_land": 47.611588802700005,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Ecuador",
+    "year": 2025,
+    "forest_propotion_to_land": 47.269887074399996,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -27466,7 +29962,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 75.7921135386
+    "mean_yearly_exposure_pollution": 75.79211353859999
   },
   {
     "country": "Egypt",
@@ -27739,7 +30235,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 89.0348737184
+    "mean_yearly_exposure_pollution": 89.03487371840002
   },
   {
     "country": "Egypt",
@@ -27796,7 +30292,7 @@ module.exports = [
   {
     "country": "Egypt",
     "year": 2016,
-    "forest_propotion_to_land": 0.0713454068,
+    "forest_propotion_to_land": 0.0713471376,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -27809,7 +30305,7 @@ module.exports = [
   {
     "country": "Egypt",
     "year": 2017,
-    "forest_propotion_to_land": 0.0725878275,
+    "forest_propotion_to_land": 0.0725893153,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -27822,7 +30318,7 @@ module.exports = [
   {
     "country": "Egypt",
     "year": 2018,
-    "forest_propotion_to_land": 0.0738382685,
+    "forest_propotion_to_land": 0.0738398104,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -27835,7 +30331,7 @@ module.exports = [
   {
     "country": "Egypt",
     "year": 2019,
-    "forest_propotion_to_land": 0.0750880851,
+    "forest_propotion_to_land": 0.07508964650000001,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -27848,7 +30344,7 @@ module.exports = [
   {
     "country": "Egypt",
     "year": 2020,
-    "forest_propotion_to_land": 0.0763379502,
+    "forest_propotion_to_land": 0.07633953480000001,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -27861,7 +30357,7 @@ module.exports = [
   {
     "country": "Egypt",
     "year": 2021,
-    "forest_propotion_to_land": 0.0775878116,
+    "forest_propotion_to_land": 0.077589419,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -27874,7 +30370,46 @@ module.exports = [
   {
     "country": "Egypt",
     "year": 2022,
-    "forest_propotion_to_land": 0.0788376733,
+    "forest_propotion_to_land": 0.0788393035,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Egypt",
+    "year": 2023,
+    "forest_propotion_to_land": 0.08008918799999999,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Egypt",
+    "year": 2024,
+    "forest_propotion_to_land": 0.0813390725,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Egypt",
+    "year": 2025,
+    "forest_propotion_to_land": 0.082588957,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -28225,7 +30760,7 @@ module.exports = [
   {
     "country": "El Salvador",
     "year": 2016,
-    "forest_propotion_to_land": 12.7039203644,
+    "forest_propotion_to_land": 12.7039207978,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -28238,7 +30773,7 @@ module.exports = [
   {
     "country": "El Salvador",
     "year": 2017,
-    "forest_propotion_to_land": 12.4666295859,
+    "forest_propotion_to_land": 12.466629917899999,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -28251,7 +30786,7 @@ module.exports = [
   {
     "country": "El Salvador",
     "year": 2018,
-    "forest_propotion_to_land": 12.2495840472,
+    "forest_propotion_to_land": 12.2495844161,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -28264,7 +30799,7 @@ module.exports = [
   {
     "country": "El Salvador",
     "year": 2019,
-    "forest_propotion_to_land": 12.0299110499,
+    "forest_propotion_to_land": 12.0299114289,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -28277,7 +30812,7 @@ module.exports = [
   {
     "country": "El Salvador",
     "year": 2020,
-    "forest_propotion_to_land": 11.8105765691,
+    "forest_propotion_to_land": 11.810576962899999,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -28290,7 +30825,7 @@ module.exports = [
   {
     "country": "El Salvador",
     "year": 2021,
-    "forest_propotion_to_land": 11.5911985509,
+    "forest_propotion_to_land": 11.5911989586,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -28303,7 +30838,46 @@ module.exports = [
   {
     "country": "El Salvador",
     "year": 2022,
-    "forest_propotion_to_land": 11.3718261297,
+    "forest_propotion_to_land": 11.371826551500002,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "El Salvador",
+    "year": 2023,
+    "forest_propotion_to_land": 11.152453425,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "El Salvador",
+    "year": 2024,
+    "forest_propotion_to_land": 10.933080390899999,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "El Salvador",
+    "year": 2025,
+    "forest_propotion_to_land": 10.7137073449,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -28454,7 +31028,7 @@ module.exports = [
     "country_land_area_km": 28050,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 53.5975593744
+    "mean_yearly_exposure_pollution": 53.59755937439999
   },
   {
     "country": "Equatorial Guinea",
@@ -28623,7 +31197,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 45.7151983178
+    "mean_yearly_exposure_pollution": 45.715198317799995
   },
   {
     "country": "Equatorial Guinea",
@@ -28636,7 +31210,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 46.6940581145
+    "mean_yearly_exposure_pollution": 46.694058114499995
   },
   {
     "country": "Equatorial Guinea",
@@ -28654,7 +31228,7 @@ module.exports = [
   {
     "country": "Equatorial Guinea",
     "year": 2016,
-    "forest_propotion_to_land": 55.7417880353,
+    "forest_propotion_to_land": 55.7417878739,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -28667,7 +31241,7 @@ module.exports = [
   {
     "country": "Equatorial Guinea",
     "year": 2017,
-    "forest_propotion_to_land": 55.2861298793,
+    "forest_propotion_to_land": 55.2861297599,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -28680,7 +31254,7 @@ module.exports = [
   {
     "country": "Equatorial Guinea",
     "year": 2018,
-    "forest_propotion_to_land": 54.8667725909,
+    "forest_propotion_to_land": 54.866772454899994,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -28693,7 +31267,7 @@ module.exports = [
   {
     "country": "Equatorial Guinea",
     "year": 2019,
-    "forest_propotion_to_land": 54.4433875588,
+    "forest_propotion_to_land": 54.4433874176,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -28706,7 +31280,7 @@ module.exports = [
   {
     "country": "Equatorial Guinea",
     "year": 2020,
-    "forest_propotion_to_land": 54.0204287248,
+    "forest_propotion_to_land": 54.0204285766,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -28719,7 +31293,7 @@ module.exports = [
   {
     "country": "Equatorial Guinea",
     "year": 2021,
-    "forest_propotion_to_land": 53.5974259632,
+    "forest_propotion_to_land": 53.59742580819999,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -28732,7 +31306,46 @@ module.exports = [
   {
     "country": "Equatorial Guinea",
     "year": 2022,
-    "forest_propotion_to_land": 53.1744276597,
+    "forest_propotion_to_land": 53.1744274979,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Equatorial Guinea",
+    "year": 2023,
+    "forest_propotion_to_land": 52.7514287394,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Equatorial Guinea",
+    "year": 2024,
+    "forest_propotion_to_land": 52.328430025799996,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Equatorial Guinea",
+    "year": 2025,
+    "forest_propotion_to_land": 51.905431307600004,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -28818,7 +31431,7 @@ module.exports = [
     "country_land_area_km": 101000,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 44.0354918107
+    "mean_yearly_exposure_pollution": 44.035491810699995
   },
   {
     "country": "Eritrea",
@@ -28883,7 +31496,7 @@ module.exports = [
     "country_land_area_km": 101000,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 43.2710531093
+    "mean_yearly_exposure_pollution": 43.271053109300006
   },
   {
     "country": "Eritrea",
@@ -29039,7 +31652,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 45.5025236644
+    "mean_yearly_exposure_pollution": 45.502523664399995
   },
   {
     "country": "Eritrea",
@@ -29083,7 +31696,7 @@ module.exports = [
   {
     "country": "Eritrea",
     "year": 2016,
-    "forest_propotion_to_land": 14.9324762222,
+    "forest_propotion_to_land": 14.9324723073,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -29096,7 +31709,7 @@ module.exports = [
   {
     "country": "Eritrea",
     "year": 2017,
-    "forest_propotion_to_land": 14.8838720474,
+    "forest_propotion_to_land": 14.883869106199999,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -29109,7 +31722,7 @@ module.exports = [
   {
     "country": "Eritrea",
     "year": 2018,
-    "forest_propotion_to_land": 14.8398168607,
+    "forest_propotion_to_land": 14.8398135326,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -29122,7 +31735,7 @@ module.exports = [
   {
     "country": "Eritrea",
     "year": 2019,
-    "forest_propotion_to_land": 14.7950977765,
+    "forest_propotion_to_land": 14.7950943545,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -29135,7 +31748,7 @@ module.exports = [
   {
     "country": "Eritrea",
     "year": 2020,
-    "forest_propotion_to_land": 14.7504755671,
+    "forest_propotion_to_land": 14.7504719946,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -29148,7 +31761,7 @@ module.exports = [
   {
     "country": "Eritrea",
     "year": 2021,
-    "forest_propotion_to_land": 14.7058392221,
+    "forest_propotion_to_land": 14.7058355093,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -29161,7 +31774,46 @@ module.exports = [
   {
     "country": "Eritrea",
     "year": 2022,
-    "forest_propotion_to_land": 14.6612049396,
+    "forest_propotion_to_land": 14.6612010849,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Eritrea",
+    "year": 2023,
+    "forest_propotion_to_land": 14.6165663598,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Eritrea",
+    "year": 2024,
+    "forest_propotion_to_land": 14.571931678499999,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Eritrea",
+    "year": 2025,
+    "forest_propotion_to_land": 14.527296990899998,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -29507,12 +32159,12 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 6.0442761181
+    "mean_yearly_exposure_pollution": 6.044276118099999
   },
   {
     "country": "Estonia",
     "year": 2016,
-    "forest_propotion_to_land": 52.6744060792,
+    "forest_propotion_to_land": 52.6739080844,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -29525,7 +32177,7 @@ module.exports = [
   {
     "country": "Estonia",
     "year": 2017,
-    "forest_propotion_to_land": 52.6988114799,
+    "forest_propotion_to_land": 52.697814083999994,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -29538,7 +32190,7 @@ module.exports = [
   {
     "country": "Estonia",
     "year": 2018,
-    "forest_propotion_to_land": 52.7232169242,
+    "forest_propotion_to_land": 52.72172068850001,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -29551,7 +32203,7 @@ module.exports = [
   {
     "country": "Estonia",
     "year": 2019,
-    "forest_propotion_to_land": 52.7476223684,
+    "forest_propotion_to_land": 52.7456272929,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -29564,7 +32216,7 @@ module.exports = [
   {
     "country": "Estonia",
     "year": 2020,
-    "forest_propotion_to_land": 52.7720278127,
+    "forest_propotion_to_land": 52.769533897399995,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -29577,7 +32229,7 @@ module.exports = [
   {
     "country": "Estonia",
     "year": 2021,
-    "forest_propotion_to_land": 52.7964332569,
+    "forest_propotion_to_land": 52.793440501800006,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -29590,7 +32242,46 @@ module.exports = [
   {
     "country": "Estonia",
     "year": 2022,
-    "forest_propotion_to_land": 52.8208387012,
+    "forest_propotion_to_land": 52.8173471063,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Estonia",
+    "year": 2023,
+    "forest_propotion_to_land": 52.8412537108,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Estonia",
+    "year": 2024,
+    "forest_propotion_to_land": 52.865160315299995,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Estonia",
+    "year": 2025,
+    "forest_propotion_to_land": 52.8890669197,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -29611,7 +32302,7 @@ module.exports = [
     "country_land_area_km": 1000000,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 36.0180487474
+    "mean_yearly_exposure_pollution": 36.018048747399995
   },
   {
     "country": "Ethiopia",
@@ -29676,7 +32367,7 @@ module.exports = [
     "country_land_area_km": 1000000,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 35.9243747603
+    "mean_yearly_exposure_pollution": 35.924374760300005
   },
   {
     "country": "Ethiopia",
@@ -29806,7 +32497,7 @@ module.exports = [
     "country_land_area_km": 1000000,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 31.1596866736
+    "mean_yearly_exposure_pollution": 31.159686673600007
   },
   {
     "country": "Ethiopia",
@@ -29897,7 +32588,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 37.4672797998
+    "mean_yearly_exposure_pollution": 37.467279799800004
   },
   {
     "country": "Ethiopia",
@@ -29936,12 +32627,12 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 48.8773946195
+    "mean_yearly_exposure_pollution": 48.877394619499995
   },
   {
     "country": "Ethiopia",
     "year": 2016,
-    "forest_propotion_to_land": 11.3043999244,
+    "forest_propotion_to_land": 11.3044066444,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -29954,7 +32645,7 @@ module.exports = [
   {
     "country": "Ethiopia",
     "year": 2017,
-    "forest_propotion_to_land": 11.2088000439,
+    "forest_propotion_to_land": 11.208813555999999,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -29967,7 +32658,7 @@ module.exports = [
   {
     "country": "Ethiopia",
     "year": 2018,
-    "forest_propotion_to_land": 11.1132000854,
+    "forest_propotion_to_land": 11.1132204459,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -29980,7 +32671,7 @@ module.exports = [
   {
     "country": "Ethiopia",
     "year": 2019,
-    "forest_propotion_to_land": 11.017600127,
+    "forest_propotion_to_land": 11.017627335699999,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -29993,7 +32684,7 @@ module.exports = [
   {
     "country": "Ethiopia",
     "year": 2020,
-    "forest_propotion_to_land": 10.9220001685,
+    "forest_propotion_to_land": 10.9220342256,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -30006,7 +32697,7 @@ module.exports = [
   {
     "country": "Ethiopia",
     "year": 2021,
-    "forest_propotion_to_land": 10.8264002101,
+    "forest_propotion_to_land": 10.8264411155,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -30019,7 +32710,46 @@ module.exports = [
   {
     "country": "Ethiopia",
     "year": 2022,
-    "forest_propotion_to_land": 10.7308002517,
+    "forest_propotion_to_land": 10.7308480054,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Ethiopia",
+    "year": 2023,
+    "forest_propotion_to_land": 10.6352548952,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Ethiopia",
+    "year": 2024,
+    "forest_propotion_to_land": 10.5396617851,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Ethiopia",
+    "year": 2025,
+    "forest_propotion_to_land": 10.444068675,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -30040,7 +32770,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 16.3203864463
+    "mean_yearly_exposure_pollution": 16.320386446300002
   },
   {
     "country": "Euro area",
@@ -30313,7 +33043,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 12.9520692637
+    "mean_yearly_exposure_pollution": 12.952069263699999
   },
   {
     "country": "Euro area",
@@ -30365,7 +33095,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 13.0739029887
+    "mean_yearly_exposure_pollution": 13.073902988699999
   },
   {
     "country": "Euro area",
@@ -30459,6 +33189,45 @@ module.exports = [
     "mean_yearly_exposure_pollution": 0
   },
   {
+    "country": "Euro area",
+    "year": 2023,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Euro area",
+    "year": 2024,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Euro area",
+    "year": 2025,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
     "country": "Europe & Central Asia",
     "year": 1990,
     "forest_propotion_to_land": 11.4,
@@ -30469,7 +33238,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 23.9381823184
+    "mean_yearly_exposure_pollution": 23.938182318400003
   },
   {
     "country": "Europe & Central Asia",
@@ -30742,7 +33511,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 17.9663639936
+    "mean_yearly_exposure_pollution": 17.966363993599998
   },
   {
     "country": "Europe & Central Asia",
@@ -30755,7 +33524,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 17.575338161
+    "mean_yearly_exposure_pollution": 17.575338160999998
   },
   {
     "country": "Europe & Central Asia",
@@ -30888,21 +33657,8 @@ module.exports = [
     "mean_yearly_exposure_pollution": 0
   },
   {
-    "country": "Europe & Central Asia (excluding high income)",
-    "year": 1990,
-    "forest_propotion_to_land": 11.4,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 29.5055855326
-  },
-  {
-    "country": "Europe & Central Asia (excluding high income)",
-    "year": 1991,
+    "country": "Europe & Central Asia",
+    "year": 2023,
     "forest_propotion_to_land": 11.4,
     "country_population": 0,
     "wood_removal": 0,
@@ -30914,8 +33670,8 @@ module.exports = [
     "mean_yearly_exposure_pollution": 0
   },
   {
-    "country": "Europe & Central Asia (excluding high income)",
-    "year": 1992,
+    "country": "Europe & Central Asia",
+    "year": 2024,
     "forest_propotion_to_land": 11.4,
     "country_population": 0,
     "wood_removal": 0,
@@ -30927,385 +33683,8 @@ module.exports = [
     "mean_yearly_exposure_pollution": 0
   },
   {
-    "country": "Europe & Central Asia (excluding high income)",
-    "year": 1993,
-    "forest_propotion_to_land": 11.4,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Europe & Central Asia (excluding high income)",
-    "year": 1994,
-    "forest_propotion_to_land": 11.4,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Europe & Central Asia (excluding high income)",
-    "year": 1995,
-    "forest_propotion_to_land": 11.4,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 23.5412497472
-  },
-  {
-    "country": "Europe & Central Asia (excluding high income)",
-    "year": 1996,
-    "forest_propotion_to_land": 11.4,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Europe & Central Asia (excluding high income)",
-    "year": 1997,
-    "forest_propotion_to_land": 11.4,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Europe & Central Asia (excluding high income)",
-    "year": 1998,
-    "forest_propotion_to_land": 11.4,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Europe & Central Asia (excluding high income)",
-    "year": 1999,
-    "forest_propotion_to_land": 11.4,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Europe & Central Asia (excluding high income)",
-    "year": 2000,
-    "forest_propotion_to_land": 11.4,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 22.3243338067
-  },
-  {
-    "country": "Europe & Central Asia (excluding high income)",
-    "year": 2001,
-    "forest_propotion_to_land": 11.4,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Europe & Central Asia (excluding high income)",
-    "year": 2002,
-    "forest_propotion_to_land": 11.4,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Europe & Central Asia (excluding high income)",
-    "year": 2003,
-    "forest_propotion_to_land": 11.4,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Europe & Central Asia (excluding high income)",
-    "year": 2004,
-    "forest_propotion_to_land": 11.4,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Europe & Central Asia (excluding high income)",
-    "year": 2005,
-    "forest_propotion_to_land": 11.4,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 20.180480923
-  },
-  {
-    "country": "Europe & Central Asia (excluding high income)",
-    "year": 2006,
-    "forest_propotion_to_land": 11.4,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Europe & Central Asia (excluding high income)",
-    "year": 2007,
-    "forest_propotion_to_land": 11.4,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Europe & Central Asia (excluding high income)",
-    "year": 2008,
-    "forest_propotion_to_land": 11.4,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Europe & Central Asia (excluding high income)",
-    "year": 2009,
-    "forest_propotion_to_land": 11.4,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Europe & Central Asia (excluding high income)",
-    "year": 2010,
-    "forest_propotion_to_land": 11.4,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 23.2587132086
-  },
-  {
-    "country": "Europe & Central Asia (excluding high income)",
-    "year": 2011,
-    "forest_propotion_to_land": 11.4,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 22.823585826
-  },
-  {
-    "country": "Europe & Central Asia (excluding high income)",
-    "year": 2012,
-    "forest_propotion_to_land": 11.4,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 22.3197695614
-  },
-  {
-    "country": "Europe & Central Asia (excluding high income)",
-    "year": 2013,
-    "forest_propotion_to_land": 11.4,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 23.1814478279
-  },
-  {
-    "country": "Europe & Central Asia (excluding high income)",
-    "year": 2014,
-    "forest_propotion_to_land": 11.4,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 24.0420204006
-  },
-  {
-    "country": "Europe & Central Asia (excluding high income)",
-    "year": 2015,
-    "forest_propotion_to_land": 11.4,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 25.2444051572
-  },
-  {
-    "country": "Europe & Central Asia (excluding high income)",
-    "year": 2016,
-    "forest_propotion_to_land": 11.4,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Europe & Central Asia (excluding high income)",
-    "year": 2017,
-    "forest_propotion_to_land": 11.4,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Europe & Central Asia (excluding high income)",
-    "year": 2018,
-    "forest_propotion_to_land": 11.4,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Europe & Central Asia (excluding high income)",
-    "year": 2019,
-    "forest_propotion_to_land": 11.4,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Europe & Central Asia (excluding high income)",
-    "year": 2020,
-    "forest_propotion_to_land": 11.4,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Europe & Central Asia (excluding high income)",
-    "year": 2021,
-    "forest_propotion_to_land": 11.4,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Europe & Central Asia (excluding high income)",
-    "year": 2022,
+    "country": "Europe & Central Asia",
+    "year": 2025,
     "forest_propotion_to_land": 11.4,
     "country_population": 0,
     "wood_removal": 0,
@@ -31746,6 +34125,513 @@ module.exports = [
     "mean_yearly_exposure_pollution": 0
   },
   {
+    "country": "Europe & Central Asia (IDA & IBRD)",
+    "year": 2023,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Europe & Central Asia (IDA & IBRD)",
+    "year": 2024,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Europe & Central Asia (IDA & IBRD)",
+    "year": 2025,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Europe & Central Asia (excluding high income)",
+    "year": 1990,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 29.5055855326
+  },
+  {
+    "country": "Europe & Central Asia (excluding high income)",
+    "year": 1991,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Europe & Central Asia (excluding high income)",
+    "year": 1992,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Europe & Central Asia (excluding high income)",
+    "year": 1993,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Europe & Central Asia (excluding high income)",
+    "year": 1994,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Europe & Central Asia (excluding high income)",
+    "year": 1995,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 23.5412497472
+  },
+  {
+    "country": "Europe & Central Asia (excluding high income)",
+    "year": 1996,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Europe & Central Asia (excluding high income)",
+    "year": 1997,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Europe & Central Asia (excluding high income)",
+    "year": 1998,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Europe & Central Asia (excluding high income)",
+    "year": 1999,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Europe & Central Asia (excluding high income)",
+    "year": 2000,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 22.3243338067
+  },
+  {
+    "country": "Europe & Central Asia (excluding high income)",
+    "year": 2001,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Europe & Central Asia (excluding high income)",
+    "year": 2002,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Europe & Central Asia (excluding high income)",
+    "year": 2003,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Europe & Central Asia (excluding high income)",
+    "year": 2004,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Europe & Central Asia (excluding high income)",
+    "year": 2005,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 20.180480923
+  },
+  {
+    "country": "Europe & Central Asia (excluding high income)",
+    "year": 2006,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Europe & Central Asia (excluding high income)",
+    "year": 2007,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Europe & Central Asia (excluding high income)",
+    "year": 2008,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Europe & Central Asia (excluding high income)",
+    "year": 2009,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Europe & Central Asia (excluding high income)",
+    "year": 2010,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 23.2587132086
+  },
+  {
+    "country": "Europe & Central Asia (excluding high income)",
+    "year": 2011,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 22.823585826
+  },
+  {
+    "country": "Europe & Central Asia (excluding high income)",
+    "year": 2012,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 22.319769561399998
+  },
+  {
+    "country": "Europe & Central Asia (excluding high income)",
+    "year": 2013,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 23.1814478279
+  },
+  {
+    "country": "Europe & Central Asia (excluding high income)",
+    "year": 2014,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 24.0420204006
+  },
+  {
+    "country": "Europe & Central Asia (excluding high income)",
+    "year": 2015,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 25.2444051572
+  },
+  {
+    "country": "Europe & Central Asia (excluding high income)",
+    "year": 2016,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Europe & Central Asia (excluding high income)",
+    "year": 2017,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Europe & Central Asia (excluding high income)",
+    "year": 2018,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Europe & Central Asia (excluding high income)",
+    "year": 2019,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Europe & Central Asia (excluding high income)",
+    "year": 2020,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Europe & Central Asia (excluding high income)",
+    "year": 2021,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Europe & Central Asia (excluding high income)",
+    "year": 2022,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Europe & Central Asia (excluding high income)",
+    "year": 2023,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Europe & Central Asia (excluding high income)",
+    "year": 2024,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Europe & Central Asia (excluding high income)",
+    "year": 2025,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
     "country": "European Union",
     "year": 1990,
     "forest_propotion_to_land": 11.4,
@@ -31821,7 +34707,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 17.1562578107
+    "mean_yearly_exposure_pollution": 17.156257810699998
   },
   {
     "country": "European Union",
@@ -31951,7 +34837,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 14.2925298608
+    "mean_yearly_exposure_pollution": 14.292529860799998
   },
   {
     "country": "European Union",
@@ -32175,6 +35061,45 @@ module.exports = [
     "mean_yearly_exposure_pollution": 0
   },
   {
+    "country": "European Union",
+    "year": 2023,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "European Union",
+    "year": 2024,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "European Union",
+    "year": 2025,
+    "forest_propotion_to_land": 11.4,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
     "country": "Faeroe Islands",
     "year": 1990,
     "forest_propotion_to_land": 0.06,
@@ -32604,6 +35529,45 @@ module.exports = [
     "mean_yearly_exposure_pollution": 0
   },
   {
+    "country": "Faeroe Islands",
+    "year": 2023,
+    "forest_propotion_to_land": 0.06,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Faeroe Islands",
+    "year": 2024,
+    "forest_propotion_to_land": 0.06,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Faeroe Islands",
+    "year": 2025,
+    "forest_propotion_to_land": 0.06,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
     "country": "Fiji",
     "year": 1990,
     "forest_propotion_to_land": 52.16,
@@ -32614,7 +35578,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 8.6363413968
+    "mean_yearly_exposure_pollution": 8.636341396799999
   },
   {
     "country": "Fiji",
@@ -32679,7 +35643,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 8.7444709306
+    "mean_yearly_exposure_pollution": 8.744470930599999
   },
   {
     "country": "Fiji",
@@ -32913,7 +35877,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 7.5582223794
+    "mean_yearly_exposure_pollution": 7.558222379400001
   },
   {
     "country": "Fiji",
@@ -32944,7 +35908,7 @@ module.exports = [
   {
     "country": "Fiji",
     "year": 2016,
-    "forest_propotion_to_land": 55.6957781211,
+    "forest_propotion_to_land": 55.6957793083,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -32957,7 +35921,7 @@ module.exports = [
   {
     "country": "Fiji",
     "year": 2017,
-    "forest_propotion_to_land": 55.8527235265,
+    "forest_propotion_to_land": 55.8527245238,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -32970,7 +35934,7 @@ module.exports = [
   {
     "country": "Fiji",
     "year": 2018,
-    "forest_propotion_to_land": 55.9920894015,
+    "forest_propotion_to_land": 55.99209048149999,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -32983,7 +35947,7 @@ module.exports = [
   {
     "country": "Fiji",
     "year": 2019,
-    "forest_propotion_to_land": 56.1335980588,
+    "forest_propotion_to_land": 56.1335991742,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -32996,7 +35960,7 @@ module.exports = [
   {
     "country": "Fiji",
     "year": 2020,
-    "forest_propotion_to_land": 56.2748447623,
+    "forest_propotion_to_land": 56.2748459206,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -33009,7 +35973,7 @@ module.exports = [
   {
     "country": "Fiji",
     "year": 2021,
-    "forest_propotion_to_land": 56.4161234765,
+    "forest_propotion_to_land": 56.4161246766,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -33022,7 +35986,46 @@ module.exports = [
   {
     "country": "Fiji",
     "year": 2022,
-    "forest_propotion_to_land": 56.5573982788,
+    "forest_propotion_to_land": 56.5573995208,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Fiji",
+    "year": 2023,
+    "forest_propotion_to_land": 56.698674843,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Fiji",
+    "year": 2024,
+    "forest_propotion_to_land": 56.8399501068,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Fiji",
+    "year": 2025,
+    "forest_propotion_to_land": 56.981225377799994,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -33173,7 +36176,7 @@ module.exports = [
     "country_land_area_km": 304590,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 7.0951586831
+    "mean_yearly_exposure_pollution": 7.095158683099999
   },
   {
     "country": "Finland",
@@ -33316,7 +36319,7 @@ module.exports = [
     "country_land_area_km": 303890,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 6.8474063258
+    "mean_yearly_exposure_pollution": 6.847406325800001
   },
   {
     "country": "Finland",
@@ -33373,7 +36376,7 @@ module.exports = [
   {
     "country": "Finland",
     "year": 2016,
-    "forest_propotion_to_land": 73.1552200915,
+    "forest_propotion_to_land": 73.1552179809,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -33386,7 +36389,7 @@ module.exports = [
   {
     "country": "Finland",
     "year": 2017,
-    "forest_propotion_to_land": 73.2004393656,
+    "forest_propotion_to_land": 73.2004352767,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -33399,7 +36402,7 @@ module.exports = [
   {
     "country": "Finland",
     "year": 2018,
-    "forest_propotion_to_land": 73.2456587076,
+    "forest_propotion_to_land": 73.24565257479999,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -33412,7 +36415,7 @@ module.exports = [
   {
     "country": "Finland",
     "year": 2019,
-    "forest_propotion_to_land": 73.2908780496,
+    "forest_propotion_to_land": 73.290869873,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -33425,7 +36428,7 @@ module.exports = [
   {
     "country": "Finland",
     "year": 2020,
-    "forest_propotion_to_land": 73.3360973917,
+    "forest_propotion_to_land": 73.33608717109999,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -33438,7 +36441,7 @@ module.exports = [
   {
     "country": "Finland",
     "year": 2021,
-    "forest_propotion_to_land": 73.3813167337,
+    "forest_propotion_to_land": 73.3813044693,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -33451,7 +36454,46 @@ module.exports = [
   {
     "country": "Finland",
     "year": 2022,
-    "forest_propotion_to_land": 73.4265360757,
+    "forest_propotion_to_land": 73.4265217674,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Finland",
+    "year": 2023,
+    "forest_propotion_to_land": 73.4717390656,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Finland",
+    "year": 2024,
+    "forest_propotion_to_land": 73.5169563637,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Finland",
+    "year": 2025,
+    "forest_propotion_to_land": 73.56217366189999,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -33602,7 +36644,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 44.362696121
+    "mean_yearly_exposure_pollution": 44.362696121000006
   },
   {
     "country": "Fragile and conflict affected situations",
@@ -33771,7 +36813,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 44.4369009768
+    "mean_yearly_exposure_pollution": 44.436900976800004
   },
   {
     "country": "Fragile and conflict affected situations",
@@ -33880,6 +36922,45 @@ module.exports = [
   {
     "country": "Fragile and conflict affected situations",
     "year": 2022,
+    "forest_propotion_to_land": 73.11,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Fragile and conflict affected situations",
+    "year": 2023,
+    "forest_propotion_to_land": 73.11,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Fragile and conflict affected situations",
+    "year": 2024,
+    "forest_propotion_to_land": 73.11,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Fragile and conflict affected situations",
+    "year": 2025,
     "forest_propotion_to_land": 73.11,
     "country_population": 0,
     "wood_removal": 0,
@@ -34031,7 +37112,7 @@ module.exports = [
     "country_land_area_km": 547566.9921875,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 12.6069674521
+    "mean_yearly_exposure_pollution": 12.606967452100001
   },
   {
     "country": "France",
@@ -34174,7 +37255,7 @@ module.exports = [
     "country_land_area_km": 547556.9921875,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 12.2122667631
+    "mean_yearly_exposure_pollution": 12.212266763099999
   },
   {
     "country": "France",
@@ -34187,7 +37268,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 12.2624377846
+    "mean_yearly_exposure_pollution": 12.262437784600001
   },
   {
     "country": "France",
@@ -34213,7 +37294,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 12.3337197165
+    "mean_yearly_exposure_pollution": 12.333719716500001
   },
   {
     "country": "France",
@@ -34231,7 +37312,7 @@ module.exports = [
   {
     "country": "France",
     "year": 2016,
-    "forest_propotion_to_land": 31.057858432,
+    "forest_propotion_to_land": 31.0578587608,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -34244,7 +37325,7 @@ module.exports = [
   {
     "country": "France",
     "year": 2017,
-    "forest_propotion_to_land": 31.2692183498,
+    "forest_propotion_to_land": 31.269218599200002,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -34257,7 +37338,7 @@ module.exports = [
   {
     "country": "France",
     "year": 2018,
-    "forest_propotion_to_land": 31.4537583133,
+    "forest_propotion_to_land": 31.453758585,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -34270,7 +37351,7 @@ module.exports = [
   {
     "country": "France",
     "year": 2019,
-    "forest_propotion_to_land": 31.6423568034,
+    "forest_propotion_to_land": 31.6423570771,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -34283,7 +37364,7 @@ module.exports = [
   {
     "country": "France",
     "year": 2020,
-    "forest_propotion_to_land": 31.830343587,
+    "forest_propotion_to_land": 31.8303438663,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -34296,7 +37377,7 @@ module.exports = [
   {
     "country": "France",
     "year": 2021,
-    "forest_propotion_to_land": 32.0184224975,
+    "forest_propotion_to_land": 32.0184227819,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -34309,7 +37390,46 @@ module.exports = [
   {
     "country": "France",
     "year": 2022,
-    "forest_propotion_to_land": 32.2064875352,
+    "forest_propotion_to_land": 32.2064878247,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "France",
+    "year": 2023,
+    "forest_propotion_to_land": 32.3945549565,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "France",
+    "year": 2024,
+    "forest_propotion_to_land": 32.5826217737,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "France",
+    "year": 2025,
+    "forest_propotion_to_land": 32.7706886383,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -34660,7 +37780,7 @@ module.exports = [
   {
     "country": "French Polynesia",
     "year": 2016,
-    "forest_propotion_to_land": 43.645769173,
+    "forest_propotion_to_land": 43.6457691577,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -34673,7 +37793,7 @@ module.exports = [
   {
     "country": "French Polynesia",
     "year": 2017,
-    "forest_propotion_to_land": 44.7718559209,
+    "forest_propotion_to_land": 44.771855908199996,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -34686,7 +37806,7 @@ module.exports = [
   {
     "country": "French Polynesia",
     "year": 2018,
-    "forest_propotion_to_land": 45.9146077468,
+    "forest_propotion_to_land": 45.914607733400004,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -34699,7 +37819,7 @@ module.exports = [
   {
     "country": "French Polynesia",
     "year": 2019,
-    "forest_propotion_to_land": 47.0559046989,
+    "forest_propotion_to_land": 47.055904685200005,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -34712,7 +37832,7 @@ module.exports = [
   {
     "country": "French Polynesia",
     "year": 2020,
-    "forest_propotion_to_land": 48.1973207243,
+    "forest_propotion_to_land": 48.1973207103,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -34725,7 +37845,7 @@ module.exports = [
   {
     "country": "French Polynesia",
     "year": 2021,
-    "forest_propotion_to_land": 49.3387273941,
+    "forest_propotion_to_land": 49.3387273798,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -34738,7 +37858,46 @@ module.exports = [
   {
     "country": "French Polynesia",
     "year": 2022,
-    "forest_propotion_to_land": 50.4801347785,
+    "forest_propotion_to_land": 50.480134763900004,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "French Polynesia",
+    "year": 2023,
+    "forest_propotion_to_land": 51.6215420946,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "French Polynesia",
+    "year": 2024,
+    "forest_propotion_to_land": 52.7629494291,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "French Polynesia",
+    "year": 2025,
+    "forest_propotion_to_land": 53.9043567634,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -34759,7 +37918,7 @@ module.exports = [
     "country_land_area_km": 257670,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 39.8752141618
+    "mean_yearly_exposure_pollution": 39.875214161799995
   },
   {
     "country": "Gabon",
@@ -34889,7 +38048,7 @@ module.exports = [
     "country_land_area_km": 257670,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 40.6807245895
+    "mean_yearly_exposure_pollution": 40.680724589499995
   },
   {
     "country": "Gabon",
@@ -35045,7 +38204,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 36.3361392561
+    "mean_yearly_exposure_pollution": 36.336139256100005
   },
   {
     "country": "Gabon",
@@ -35071,7 +38230,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 38.3710027289
+    "mean_yearly_exposure_pollution": 38.371002728899995
   },
   {
     "country": "Gabon",
@@ -35089,7 +38248,7 @@ module.exports = [
   {
     "country": "Gabon",
     "year": 2016,
-    "forest_propotion_to_land": 93.1399996349,
+    "forest_propotion_to_land": 93.1399994985,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -35102,7 +38261,7 @@ module.exports = [
   {
     "country": "Gabon",
     "year": 2017,
-    "forest_propotion_to_land": 97.0199992699,
+    "forest_propotion_to_land": 97.01999899709999,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -35115,7 +38274,7 @@ module.exports = [
   {
     "country": "Gabon",
     "year": 2018,
-    "forest_propotion_to_land": 100.8999989048,
+    "forest_propotion_to_land": 100.89999849559999,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -35128,7 +38287,7 @@ module.exports = [
   {
     "country": "Gabon",
     "year": 2019,
-    "forest_propotion_to_land": 104.7799985398,
+    "forest_propotion_to_land": 104.7799979942,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -35141,7 +38300,7 @@ module.exports = [
   {
     "country": "Gabon",
     "year": 2020,
-    "forest_propotion_to_land": 108.6599981747,
+    "forest_propotion_to_land": 108.6599974927,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -35154,7 +38313,7 @@ module.exports = [
   {
     "country": "Gabon",
     "year": 2021,
-    "forest_propotion_to_land": 112.5399978097,
+    "forest_propotion_to_land": 112.53999699120001,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -35167,7 +38326,46 @@ module.exports = [
   {
     "country": "Gabon",
     "year": 2022,
-    "forest_propotion_to_land": 116.4199974446,
+    "forest_propotion_to_land": 116.4199964898,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Gabon",
+    "year": 2023,
+    "forest_propotion_to_land": 120.2999959883,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Gabon",
+    "year": 2024,
+    "forest_propotion_to_land": 124.17999548690001,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Gabon",
+    "year": 2025,
+    "forest_propotion_to_land": 128.0599949854,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -35253,7 +38451,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 67.567229116
+    "mean_yearly_exposure_pollution": 67.56722911600001
   },
   {
     "country": "Gambia",
@@ -35487,7 +38685,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 62.321957199
+    "mean_yearly_exposure_pollution": 62.321957198999996
   },
   {
     "country": "Gambia",
@@ -35518,7 +38716,7 @@ module.exports = [
   {
     "country": "Gambia",
     "year": 2016,
-    "forest_propotion_to_land": 48.8934212796,
+    "forest_propotion_to_land": 48.8934211555,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -35531,7 +38729,7 @@ module.exports = [
   {
     "country": "Gambia",
     "year": 2017,
-    "forest_propotion_to_land": 49.093411005,
+    "forest_propotion_to_land": 49.093410884499995,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -35544,7 +38742,7 @@ module.exports = [
   {
     "country": "Gambia",
     "year": 2018,
-    "forest_propotion_to_land": 49.2793787727,
+    "forest_propotion_to_land": 49.27937866439999,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -35557,7 +38755,7 @@ module.exports = [
   {
     "country": "Gambia",
     "year": 2019,
-    "forest_propotion_to_land": 49.4671439042,
+    "forest_propotion_to_land": 49.467143801599995,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -35570,7 +38768,7 @@ module.exports = [
   {
     "country": "Gambia",
     "year": 2020,
-    "forest_propotion_to_land": 49.6546799123,
+    "forest_propotion_to_land": 49.6546798171,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -35583,7 +38781,7 @@ module.exports = [
   {
     "country": "Gambia",
     "year": 2021,
-    "forest_propotion_to_land": 49.8422450939,
+    "forest_propotion_to_land": 49.84224500569999,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -35596,7 +38794,46 @@ module.exports = [
   {
     "country": "Gambia",
     "year": 2022,
-    "forest_propotion_to_land": 50.0298065619,
+    "forest_propotion_to_land": 50.029806480699996,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Gambia",
+    "year": 2023,
+    "forest_propotion_to_land": 50.2173684285,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Gambia",
+    "year": 2024,
+    "forest_propotion_to_land": 50.404930316000005,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Gambia",
+    "year": 2025,
+    "forest_propotion_to_land": 50.5924922113,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -35812,7 +39049,7 @@ module.exports = [
     "country_land_area_km": 69490,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 16.5250861764
+    "mean_yearly_exposure_pollution": 16.525086176400002
   },
   {
     "country": "Georgia",
@@ -35947,7 +39184,7 @@ module.exports = [
   {
     "country": "Georgia",
     "year": 2016,
-    "forest_propotion_to_land": 40.6653589667,
+    "forest_propotion_to_land": 40.6653585871,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -35960,7 +39197,7 @@ module.exports = [
   {
     "country": "Georgia",
     "year": 2017,
-    "forest_propotion_to_land": 40.707097294,
+    "forest_propotion_to_land": 40.7070969323,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -35973,7 +39210,7 @@ module.exports = [
   {
     "country": "Georgia",
     "year": 2018,
-    "forest_propotion_to_land": 40.7491705036,
+    "forest_propotion_to_land": 40.7491701162,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -35986,7 +39223,7 @@ module.exports = [
   {
     "country": "Georgia",
     "year": 2019,
-    "forest_propotion_to_land": 40.7912133203,
+    "forest_propotion_to_land": 40.7912129125,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -35999,7 +39236,7 @@ module.exports = [
   {
     "country": "Georgia",
     "year": 2020,
-    "forest_propotion_to_land": 40.8332589018,
+    "forest_propotion_to_land": 40.833258472800004,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -36012,7 +39249,7 @@ module.exports = [
   {
     "country": "Georgia",
     "year": 2021,
-    "forest_propotion_to_land": 40.8753042318,
+    "forest_propotion_to_land": 40.8753037818,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -36025,7 +39262,46 @@ module.exports = [
   {
     "country": "Georgia",
     "year": 2022,
-    "forest_propotion_to_land": 40.9173495847,
+    "forest_propotion_to_land": 40.9173491137,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Georgia",
+    "year": 2023,
+    "forest_propotion_to_land": 40.9593944435,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Georgia",
+    "year": 2024,
+    "forest_propotion_to_land": 41.0014397734,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Georgia",
+    "year": 2025,
+    "forest_propotion_to_land": 41.0434851034,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -36176,7 +39452,7 @@ module.exports = [
     "country_land_area_km": 348950,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 14.0835183283
+    "mean_yearly_exposure_pollution": 14.083518328299999
   },
   {
     "country": "Germany",
@@ -36319,7 +39595,7 @@ module.exports = [
     "country_land_area_km": 348560,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 13.6766413544
+    "mean_yearly_exposure_pollution": 13.676641354400001
   },
   {
     "country": "Germany",
@@ -36345,7 +39621,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 13.6580900013
+    "mean_yearly_exposure_pollution": 13.658090001300002
   },
   {
     "country": "Germany",
@@ -36358,7 +39634,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 13.8675708582
+    "mean_yearly_exposure_pollution": 13.867570858199999
   },
   {
     "country": "Germany",
@@ -36376,7 +39652,7 @@ module.exports = [
   {
     "country": "Germany",
     "year": 2016,
-    "forest_propotion_to_land": 32.7723216165,
+    "forest_propotion_to_land": 32.7723209775,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -36389,7 +39665,7 @@ module.exports = [
   {
     "country": "Germany",
     "year": 2017,
-    "forest_propotion_to_land": 32.7870404465,
+    "forest_propotion_to_land": 32.7870399256,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -36402,7 +39678,7 @@ module.exports = [
   {
     "country": "Germany",
     "year": 2018,
-    "forest_propotion_to_land": 32.8014412933,
+    "forest_propotion_to_land": 32.8014406444,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -36415,7 +39691,7 @@ module.exports = [
   {
     "country": "Germany",
     "year": 2019,
-    "forest_propotion_to_land": 32.8158842924,
+    "forest_propotion_to_land": 32.8158835679,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -36428,7 +39704,7 @@ module.exports = [
   {
     "country": "Germany",
     "year": 2020,
-    "forest_propotion_to_land": 32.8303217038,
+    "forest_propotion_to_land": 32.8303208942,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -36441,7 +39717,7 @@ module.exports = [
   {
     "country": "Germany",
     "year": 2021,
-    "forest_propotion_to_land": 32.8447598559,
+    "forest_propotion_to_land": 32.8447589628,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -36454,7 +39730,46 @@ module.exports = [
   {
     "country": "Germany",
     "year": 2022,
-    "forest_propotion_to_land": 32.8591979099,
+    "forest_propotion_to_land": 32.8591969329,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Germany",
+    "year": 2023,
+    "forest_propotion_to_land": 32.8736349161,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Germany",
+    "year": 2024,
+    "forest_propotion_to_land": 32.888072897600004,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Germany",
+    "year": 2025,
+    "forest_propotion_to_land": 32.902510879299996,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -36761,7 +40076,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 31.147707333
+    "mean_yearly_exposure_pollution": 31.147707333000003
   },
   {
     "country": "Ghana",
@@ -36787,7 +40102,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 25.3573649419
+    "mean_yearly_exposure_pollution": 25.357364941900002
   },
   {
     "country": "Ghana",
@@ -36805,7 +40120,7 @@ module.exports = [
   {
     "country": "Ghana",
     "year": 2016,
-    "forest_propotion_to_land": 41.0781443163,
+    "forest_propotion_to_land": 41.078138789099995,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -36818,7 +40133,7 @@ module.exports = [
   {
     "country": "Ghana",
     "year": 2017,
-    "forest_propotion_to_land": 41.2159345592,
+    "forest_propotion_to_land": 41.21593061,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -36831,7 +40146,7 @@ module.exports = [
   {
     "country": "Ghana",
     "year": 2018,
-    "forest_propotion_to_land": 41.3409995905,
+    "forest_propotion_to_land": 41.3409949488,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -36844,7 +40159,7 @@ module.exports = [
   {
     "country": "Ghana",
     "year": 2019,
-    "forest_propotion_to_land": 41.4678472616,
+    "forest_propotion_to_land": 41.4678424369,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -36857,7 +40172,7 @@ module.exports = [
   {
     "country": "Ghana",
     "year": 2020,
-    "forest_propotion_to_land": 41.5944456747,
+    "forest_propotion_to_land": 41.5944405685,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -36870,7 +40185,7 @@ module.exports = [
   {
     "country": "Ghana",
     "year": 2021,
-    "forest_propotion_to_land": 41.7210789311,
+    "forest_propotion_to_land": 41.7210735609,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -36883,7 +40198,46 @@ module.exports = [
   {
     "country": "Ghana",
     "year": 2022,
-    "forest_propotion_to_land": 41.847707317,
+    "forest_propotion_to_land": 41.8477016799,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Ghana",
+    "year": 2023,
+    "forest_propotion_to_land": 41.9743304802,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Ghana",
+    "year": 2024,
+    "forest_propotion_to_land": 42.1009591852,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Ghana",
+    "year": 2025,
+    "forest_propotion_to_land": 42.2275879036,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -37323,6 +40677,45 @@ module.exports = [
     "mean_yearly_exposure_pollution": 0
   },
   {
+    "country": "Gibraltar",
+    "year": 2023,
+    "forest_propotion_to_land": 0,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Gibraltar",
+    "year": 2024,
+    "forest_propotion_to_land": 0,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Gibraltar",
+    "year": 2025,
+    "forest_propotion_to_land": 0,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
     "country": "Greece",
     "year": 1990,
     "forest_propotion_to_land": 25.59,
@@ -37333,7 +40726,7 @@ module.exports = [
     "country_land_area_km": 128900,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 13.526066928
+    "mean_yearly_exposure_pollution": 13.526066927999999
   },
   {
     "country": "Greece",
@@ -37398,7 +40791,7 @@ module.exports = [
     "country_land_area_km": 128900,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 12.4876519312
+    "mean_yearly_exposure_pollution": 12.487651931199999
   },
   {
     "country": "Greece",
@@ -37463,7 +40856,7 @@ module.exports = [
     "country_land_area_km": 128900,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 12.0099763683
+    "mean_yearly_exposure_pollution": 12.009976368299998
   },
   {
     "country": "Greece",
@@ -37619,7 +41012,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 11.1901046529
+    "mean_yearly_exposure_pollution": 11.190104652899999
   },
   {
     "country": "Greece",
@@ -37632,7 +41025,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 12.0305842755
+    "mean_yearly_exposure_pollution": 12.030584275499999
   },
   {
     "country": "Greece",
@@ -37663,7 +41056,7 @@ module.exports = [
   {
     "country": "Greece",
     "year": 2016,
-    "forest_propotion_to_land": 31.5395924634,
+    "forest_propotion_to_land": 31.5395894618,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -37676,7 +41069,7 @@ module.exports = [
   {
     "country": "Greece",
     "year": 2017,
-    "forest_propotion_to_land": 31.7973643074,
+    "forest_propotion_to_land": 31.797361667199997,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -37689,7 +41082,7 @@ module.exports = [
   {
     "country": "Greece",
     "year": 2018,
-    "forest_propotion_to_land": 32.03277774,
+    "forest_propotion_to_land": 32.0327751171,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -37702,7 +41095,7 @@ module.exports = [
   {
     "country": "Greece",
     "year": 2019,
-    "forest_propotion_to_land": 32.2710591787,
+    "forest_propotion_to_land": 32.2710565724,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -37715,7 +41108,7 @@ module.exports = [
   {
     "country": "Greece",
     "year": 2020,
-    "forest_propotion_to_land": 32.5089760669,
+    "forest_propotion_to_land": 32.5089734846,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -37728,7 +41121,7 @@ module.exports = [
   {
     "country": "Greece",
     "year": 2021,
-    "forest_propotion_to_land": 32.7469391821,
+    "forest_propotion_to_land": 32.7469366219,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -37741,7 +41134,46 @@ module.exports = [
   {
     "country": "Greece",
     "year": 2022,
-    "forest_propotion_to_land": 32.9848964391,
+    "forest_propotion_to_land": 32.9848939015,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Greece",
+    "year": 2023,
+    "forest_propotion_to_land": 33.222851923200004,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Greece",
+    "year": 2024,
+    "forest_propotion_to_land": 33.4608098509,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Greece",
+    "year": 2025,
+    "forest_propotion_to_land": 33.6987677905,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -37762,7 +41194,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 6.1531358794
+    "mean_yearly_exposure_pollution": 6.153135879400001
   },
   {
     "country": "Greenland",
@@ -37892,7 +41324,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 6.0639983044
+    "mean_yearly_exposure_pollution": 6.063998304400001
   },
   {
     "country": "Greenland",
@@ -37957,7 +41389,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 5.5180725593
+    "mean_yearly_exposure_pollution": 5.518072559299999
   },
   {
     "country": "Greenland",
@@ -38087,7 +41519,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 4.1197236247
+    "mean_yearly_exposure_pollution": 4.1197236247000015
   },
   {
     "country": "Greenland",
@@ -38170,6 +41602,45 @@ module.exports = [
   {
     "country": "Greenland",
     "year": 2022,
+    "forest_propotion_to_land": 0,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Greenland",
+    "year": 2023,
+    "forest_propotion_to_land": 0,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Greenland",
+    "year": 2024,
+    "forest_propotion_to_land": 0,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Greenland",
+    "year": 2025,
     "forest_propotion_to_land": 0,
     "country_population": 0,
     "wood_removal": 0,
@@ -38610,6 +42081,45 @@ module.exports = [
     "mean_yearly_exposure_pollution": 0
   },
   {
+    "country": "Grenada",
+    "year": 2023,
+    "forest_propotion_to_land": 49.97,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Grenada",
+    "year": 2024,
+    "forest_propotion_to_land": 49.97,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Grenada",
+    "year": 2025,
+    "forest_propotion_to_land": 49.97,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
     "country": "Guam",
     "year": 1990,
     "forest_propotion_to_land": 46.3,
@@ -38685,7 +42195,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 8.1077576848
+    "mean_yearly_exposure_pollution": 8.107757684800001
   },
   {
     "country": "Guam",
@@ -38750,7 +42260,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 8.3413174164
+    "mean_yearly_exposure_pollution": 8.341317416399999
   },
   {
     "country": "Guam",
@@ -38893,7 +42403,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 7.5854629493
+    "mean_yearly_exposure_pollution": 7.585462949299999
   },
   {
     "country": "Guam",
@@ -38906,7 +42416,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 7.7310714528
+    "mean_yearly_exposure_pollution": 7.731071452799998
   },
   {
     "country": "Guam",
@@ -38932,7 +42442,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 7.5038100119
+    "mean_yearly_exposure_pollution": 7.503810011900001
   },
   {
     "country": "Guam",
@@ -39028,6 +42538,45 @@ module.exports = [
   {
     "country": "Guam",
     "year": 2022,
+    "forest_propotion_to_land": 46.3,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Guam",
+    "year": 2023,
+    "forest_propotion_to_land": 46.3,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Guam",
+    "year": 2024,
+    "forest_propotion_to_land": 46.3,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Guam",
+    "year": 2025,
     "forest_propotion_to_land": 46.3,
     "country_population": 0,
     "wood_removal": 0,
@@ -39374,12 +42923,12 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 28.7050165266
+    "mean_yearly_exposure_pollution": 28.705016526599998
   },
   {
     "country": "Guatemala",
     "year": 2016,
-    "forest_propotion_to_land": 32.7469975308,
+    "forest_propotion_to_land": 32.7469974301,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -39392,7 +42941,7 @@ module.exports = [
   {
     "country": "Guatemala",
     "year": 2017,
-    "forest_propotion_to_land": 32.2651270253,
+    "forest_propotion_to_land": 32.2651269429,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -39405,7 +42954,7 @@ module.exports = [
   {
     "country": "Guatemala",
     "year": 2018,
-    "forest_propotion_to_land": 31.8048170473,
+    "forest_propotion_to_land": 31.8048169586,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -39418,7 +42967,7 @@ module.exports = [
   {
     "country": "Guatemala",
     "year": 2019,
-    "forest_propotion_to_land": 31.342413334,
+    "forest_propotion_to_land": 31.342413242600003,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -39431,7 +42980,7 @@ module.exports = [
   {
     "country": "Guatemala",
     "year": 2020,
-    "forest_propotion_to_land": 30.8802008271,
+    "forest_propotion_to_land": 30.8802007325,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -39444,7 +42993,7 @@ module.exports = [
   {
     "country": "Guatemala",
     "year": 2021,
-    "forest_propotion_to_land": 30.4179715309,
+    "forest_propotion_to_land": 30.4179714331,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -39457,7 +43006,46 @@ module.exports = [
   {
     "country": "Guatemala",
     "year": 2022,
-    "forest_propotion_to_land": 29.9557436692,
+    "forest_propotion_to_land": 29.9557435683,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Guatemala",
+    "year": 2023,
+    "forest_propotion_to_land": 29.4935155833,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Guatemala",
+    "year": 2024,
+    "forest_propotion_to_land": 29.031287608299998,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Guatemala",
+    "year": 2025,
+    "forest_propotion_to_land": 28.5690596324,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -39478,7 +43066,7 @@ module.exports = [
     "country_land_area_km": 245720,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 30.6727539559
+    "mean_yearly_exposure_pollution": 30.672753955900003
   },
   {
     "country": "Guinea",
@@ -39543,7 +43131,7 @@ module.exports = [
     "country_land_area_km": 245720,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 30.556903082
+    "mean_yearly_exposure_pollution": 30.556903081999998
   },
   {
     "country": "Guinea",
@@ -39608,7 +43196,7 @@ module.exports = [
     "country_land_area_km": 245720,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 30.6068189597
+    "mean_yearly_exposure_pollution": 30.606818959699996
   },
   {
     "country": "Guinea",
@@ -39808,7 +43396,7 @@ module.exports = [
   {
     "country": "Guinea",
     "year": 2016,
-    "forest_propotion_to_land": 25.8438787134,
+    "forest_propotion_to_land": 25.8438773025,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -39821,7 +43409,7 @@ module.exports = [
   {
     "country": "Guinea",
     "year": 2017,
-    "forest_propotion_to_land": 25.6823583694,
+    "forest_propotion_to_land": 25.6823573137,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -39834,7 +43422,7 @@ module.exports = [
   {
     "country": "Guinea",
     "year": 2018,
-    "forest_propotion_to_land": 25.535598969,
+    "forest_propotion_to_land": 25.535597774699998,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -39847,7 +43435,7 @@ module.exports = [
   {
     "country": "Guinea",
     "year": 2019,
-    "forest_propotion_to_land": 25.3868062838,
+    "forest_propotion_to_land": 25.386805054099998,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -39860,7 +43448,7 @@ module.exports = [
   {
     "country": "Guinea",
     "year": 2020,
-    "forest_propotion_to_land": 25.2382929319,
+    "forest_propotion_to_land": 25.2382916476,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -39873,7 +43461,7 @@ module.exports = [
   {
     "country": "Guinea",
     "year": 2021,
-    "forest_propotion_to_land": 25.0897412217,
+    "forest_propotion_to_land": 25.0897398862,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -39886,7 +43474,46 @@ module.exports = [
   {
     "country": "Guinea",
     "year": 2022,
-    "forest_propotion_to_land": 24.9411947785,
+    "forest_propotion_to_land": 24.9411933913,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Guinea",
+    "year": 2023,
+    "forest_propotion_to_land": 24.7926461733,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Guinea",
+    "year": 2024,
+    "forest_propotion_to_land": 24.6440990546,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Guinea",
+    "year": 2025,
+    "forest_propotion_to_land": 24.495551922199997,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -40102,7 +43729,7 @@ module.exports = [
     "country_land_area_km": 28120,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 30.8513167764
+    "mean_yearly_exposure_pollution": 30.851316776399997
   },
   {
     "country": "Guinea-Bissau",
@@ -40219,7 +43846,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 33.9997941634
+    "mean_yearly_exposure_pollution": 33.999794163400004
   },
   {
     "country": "Guinea-Bissau",
@@ -40232,12 +43859,12 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 57.0180112952
+    "mean_yearly_exposure_pollution": 57.018011295200004
   },
   {
     "country": "Guinea-Bissau",
     "year": 2016,
-    "forest_propotion_to_land": 70.0099684221,
+    "forest_propotion_to_land": 70.0099675947,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -40250,7 +43877,7 @@ module.exports = [
   {
     "country": "Guinea-Bissau",
     "year": 2017,
-    "forest_propotion_to_land": 69.6277498342,
+    "forest_propotion_to_land": 69.6277492129,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -40263,7 +43890,7 @@ module.exports = [
   {
     "country": "Guinea-Bissau",
     "year": 2018,
-    "forest_propotion_to_land": 69.2791901025,
+    "forest_propotion_to_land": 69.2791894039,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -40276,7 +43903,7 @@ module.exports = [
   {
     "country": "Guinea-Bissau",
     "year": 2019,
-    "forest_propotion_to_land": 68.9265853303,
+    "forest_propotion_to_land": 68.92658460930001,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -40289,7 +43916,7 @@ module.exports = [
   {
     "country": "Guinea-Bissau",
     "year": 2020,
-    "forest_propotion_to_land": 68.5744545933,
+    "forest_propotion_to_land": 68.5744538409,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -40302,7 +43929,7 @@ module.exports = [
   {
     "country": "Guinea-Bissau",
     "year": 2021,
-    "forest_propotion_to_land": 68.22226887,
+    "forest_propotion_to_land": 68.2222680875,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -40315,7 +43942,46 @@ module.exports = [
   {
     "country": "Guinea-Bissau",
     "year": 2022,
-    "forest_propotion_to_land": 67.8700894978,
+    "forest_propotion_to_land": 67.870088685,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Guinea-Bissau",
+    "year": 2023,
+    "forest_propotion_to_land": 67.51790855029999,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Guinea-Bissau",
+    "year": 2024,
+    "forest_propotion_to_land": 67.1657285,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Guinea-Bissau",
+    "year": 2025,
+    "forest_propotion_to_land": 66.8135484399,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -40466,7 +44132,7 @@ module.exports = [
     "country_land_area_km": 196850,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 26.7128247615
+    "mean_yearly_exposure_pollution": 26.712824761500002
   },
   {
     "country": "Guyana",
@@ -40661,12 +44327,12 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 19.7208146287
+    "mean_yearly_exposure_pollution": 19.720814628699998
   },
   {
     "country": "Guyana",
     "year": 2016,
-    "forest_propotion_to_land": 83.9669787284,
+    "forest_propotion_to_land": 83.9669641623,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -40679,7 +44345,7 @@ module.exports = [
   {
     "country": "Guyana",
     "year": 2017,
-    "forest_propotion_to_land": 83.9217409931,
+    "forest_propotion_to_land": 83.9217328597,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -40692,7 +44358,7 @@ module.exports = [
   {
     "country": "Guyana",
     "year": 2018,
-    "forest_propotion_to_land": 83.8902323188,
+    "forest_propotion_to_land": 83.8902222473,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -40705,7 +44371,7 @@ module.exports = [
   {
     "country": "Guyana",
     "year": 2019,
-    "forest_propotion_to_land": 83.8556953428,
+    "forest_propotion_to_land": 83.8556860019,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -40718,7 +44384,7 @@ module.exports = [
   {
     "country": "Guyana",
     "year": 2020,
-    "forest_propotion_to_land": 83.8218263313,
+    "forest_propotion_to_land": 83.821816951,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -40731,7 +44397,7 @@ module.exports = [
   {
     "country": "Guyana",
     "year": 2021,
-    "forest_propotion_to_land": 83.7878099842,
+    "forest_propotion_to_land": 83.78780077430001,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -40744,7 +44410,46 @@ module.exports = [
   {
     "country": "Guyana",
     "year": 2022,
-    "forest_propotion_to_land": 83.7538261356,
+    "forest_propotion_to_land": 83.753817041,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Guyana",
+    "year": 2023,
+    "forest_propotion_to_land": 83.7198261534,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Guyana",
+    "year": 2024,
+    "forest_propotion_to_land": 83.6858368435,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Guyana",
+    "year": 2025,
+    "forest_propotion_to_land": 83.6518471856,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -40765,7 +44470,7 @@ module.exports = [
     "country_land_area_km": 27560,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 30.9449609633
+    "mean_yearly_exposure_pollution": 30.944960963299998
   },
   {
     "country": "Haiti",
@@ -41051,7 +44756,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 24.0334570995
+    "mean_yearly_exposure_pollution": 24.033457099499998
   },
   {
     "country": "Haiti",
@@ -41064,7 +44769,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 25.1970746007
+    "mean_yearly_exposure_pollution": 25.197074600700002
   },
   {
     "country": "Haiti",
@@ -41090,12 +44795,12 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 23.6147192847
+    "mean_yearly_exposure_pollution": 23.614719284699998
   },
   {
     "country": "Haiti",
     "year": 2016,
-    "forest_propotion_to_land": 3.5108494979,
+    "forest_propotion_to_land": 3.5108462338,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -41108,7 +44813,7 @@ module.exports = [
   {
     "country": "Haiti",
     "year": 2017,
-    "forest_propotion_to_land": 3.4798938755,
+    "forest_propotion_to_land": 3.4798915851,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -41121,7 +44826,7 @@ module.exports = [
   {
     "country": "Haiti",
     "year": 2018,
-    "forest_propotion_to_land": 3.4524523004,
+    "forest_propotion_to_land": 3.4524495836,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -41134,7 +44839,7 @@ module.exports = [
   {
     "country": "Haiti",
     "year": 2019,
-    "forest_propotion_to_land": 3.4244452107,
+    "forest_propotion_to_land": 3.4244424097,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -41147,7 +44852,7 @@ module.exports = [
   {
     "country": "Haiti",
     "year": 2020,
-    "forest_propotion_to_land": 3.3965291236,
+    "forest_propotion_to_land": 3.3965261646,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -41160,7 +44865,7 @@ module.exports = [
   {
     "country": "Haiti",
     "year": 2021,
-    "forest_propotion_to_land": 3.3685983924,
+    "forest_propotion_to_land": 3.3685952903,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -41173,7 +44878,46 @@ module.exports = [
   {
     "country": "Haiti",
     "year": 2022,
-    "forest_propotion_to_land": 3.3406700177,
+    "forest_propotion_to_land": 3.3406667696,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Haiti",
+    "year": 2023,
+    "forest_propotion_to_land": 3.3127378702,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Haiti",
+    "year": 2024,
+    "forest_propotion_to_land": 3.2848090318,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Haiti",
+    "year": 2025,
+    "forest_propotion_to_land": 3.2568801835000003,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -41259,7 +45003,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 45.1766004242
+    "mean_yearly_exposure_pollution": 45.176600424200004
   },
   {
     "country": "Heavily indebted poor countries (HIPC)",
@@ -41519,7 +45263,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 57.9766788456
+    "mean_yearly_exposure_pollution": 57.976678845600006
   },
   {
     "country": "Heavily indebted poor countries (HIPC)",
@@ -41602,6 +45346,45 @@ module.exports = [
   {
     "country": "Heavily indebted poor countries (HIPC)",
     "year": 2022,
+    "forest_propotion_to_land": 3.52,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Heavily indebted poor countries (HIPC)",
+    "year": 2023,
+    "forest_propotion_to_land": 3.52,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Heavily indebted poor countries (HIPC)",
+    "year": 2024,
+    "forest_propotion_to_land": 3.52,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Heavily indebted poor countries (HIPC)",
+    "year": 2025,
     "forest_propotion_to_land": 3.52,
     "country_population": 0,
     "wood_removal": 0,
@@ -41896,7 +45679,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 16.5860561982
+    "mean_yearly_exposure_pollution": 16.586056198199998
   },
   {
     "country": "High income",
@@ -42031,6 +45814,45 @@ module.exports = [
   {
     "country": "High income",
     "year": 2022,
+    "forest_propotion_to_land": 3.52,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "High income",
+    "year": 2023,
+    "forest_propotion_to_land": 3.52,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "High income",
+    "year": 2024,
+    "forest_propotion_to_land": 3.52,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "High income",
+    "year": 2025,
     "forest_propotion_to_land": 3.52,
     "country_population": 0,
     "wood_removal": 0,
@@ -42182,7 +46004,7 @@ module.exports = [
     "country_land_area_km": 111890,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 37.280078014
+    "mean_yearly_exposure_pollution": 37.280078014000004
   },
   {
     "country": "Honduras",
@@ -42312,7 +46134,7 @@ module.exports = [
     "country_land_area_km": 111890,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 32.0455864695
+    "mean_yearly_exposure_pollution": 32.045586469499995
   },
   {
     "country": "Honduras",
@@ -42338,7 +46160,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 39.3399096015
+    "mean_yearly_exposure_pollution": 39.339909601500004
   },
   {
     "country": "Honduras",
@@ -42382,7 +46204,7 @@ module.exports = [
   {
     "country": "Honduras",
     "year": 2016,
-    "forest_propotion_to_land": 40.2845237349,
+    "forest_propotion_to_land": 40.2845236289,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -42395,7 +46217,7 @@ module.exports = [
   {
     "country": "Honduras",
     "year": 2017,
-    "forest_propotion_to_land": 38.9346969777,
+    "forest_propotion_to_land": 38.934696888400005,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -42408,7 +46230,7 @@ module.exports = [
   {
     "country": "Honduras",
     "year": 2018,
-    "forest_propotion_to_land": 37.6439379869,
+    "forest_propotion_to_land": 37.6439378909,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -42421,7 +46243,7 @@ module.exports = [
   {
     "country": "Honduras",
     "year": 2019,
-    "forest_propotion_to_land": 36.3479255993,
+    "forest_propotion_to_land": 36.3479254997,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -42434,7 +46256,7 @@ module.exports = [
   {
     "country": "Honduras",
     "year": 2020,
-    "forest_propotion_to_land": 35.052352439,
+    "forest_propotion_to_land": 35.052352335500004,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -42447,7 +46269,7 @@ module.exports = [
   {
     "country": "Honduras",
     "year": 2021,
-    "forest_propotion_to_land": 33.7567439761,
+    "forest_propotion_to_land": 33.7567438687,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -42460,7 +46282,46 @@ module.exports = [
   {
     "country": "Honduras",
     "year": 2022,
-    "forest_propotion_to_land": 32.4611382739,
+    "forest_propotion_to_land": 32.4611381627,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Honduras",
+    "year": 2023,
+    "forest_propotion_to_land": 31.165532245,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Honduras",
+    "year": 2024,
+    "forest_propotion_to_land": 29.869926343299998,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Honduras",
+    "year": 2025,
+    "forest_propotion_to_land": 28.574320440500003,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -42611,7 +46472,7 @@ module.exports = [
     "country_land_area_km": 89620,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 24.3055384903
+    "mean_yearly_exposure_pollution": 24.305538490300002
   },
   {
     "country": "Hungary",
@@ -42754,7 +46615,7 @@ module.exports = [
     "country_land_area_km": 90530,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 21.7524496753
+    "mean_yearly_exposure_pollution": 21.752449675300003
   },
   {
     "country": "Hungary",
@@ -42806,12 +46667,12 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 24.4389904143
+    "mean_yearly_exposure_pollution": 24.438990414299997
   },
   {
     "country": "Hungary",
     "year": 2016,
-    "forest_propotion_to_land": 22.7730584484,
+    "forest_propotion_to_land": 22.7730586421,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -42824,7 +46685,7 @@ module.exports = [
   {
     "country": "Hungary",
     "year": 2017,
-    "forest_propotion_to_land": 22.896766123,
+    "forest_propotion_to_land": 22.896766280900003,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -42837,7 +46698,7 @@ module.exports = [
   {
     "country": "Hungary",
     "year": 2018,
-    "forest_propotion_to_land": 23.0178409451,
+    "forest_propotion_to_land": 23.0178411398,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -42850,7 +46711,7 @@ module.exports = [
   {
     "country": "Hungary",
     "year": 2019,
-    "forest_propotion_to_land": 23.1392468631,
+    "forest_propotion_to_land": 23.1392470793,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -42863,7 +46724,7 @@ module.exports = [
   {
     "country": "Hungary",
     "year": 2020,
-    "forest_propotion_to_land": 23.2606112307,
+    "forest_propotion_to_land": 23.260611471199997,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -42876,7 +46737,7 @@ module.exports = [
   {
     "country": "Hungary",
     "year": 2021,
-    "forest_propotion_to_land": 23.381980811,
+    "forest_propotion_to_land": 23.3819810753,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -42889,7 +46750,46 @@ module.exports = [
   {
     "country": "Hungary",
     "year": 2022,
-    "forest_propotion_to_land": 23.5033497374,
+    "forest_propotion_to_land": 23.5033500256,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Hungary",
+    "year": 2023,
+    "forest_propotion_to_land": 23.6247190579,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Hungary",
+    "year": 2024,
+    "forest_propotion_to_land": 23.7460880798,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Hungary",
+    "year": 2025,
+    "forest_propotion_to_land": 23.867457103099998,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -43196,7 +47096,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 46.387981547
+    "mean_yearly_exposure_pollution": 46.387981546999995
   },
   {
     "country": "IBRD only",
@@ -43209,7 +47109,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 47.2846115441
+    "mean_yearly_exposure_pollution": 47.284611544099995
   },
   {
     "country": "IBRD only",
@@ -43222,7 +47122,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 48.4330325362
+    "mean_yearly_exposure_pollution": 48.433032536199995
   },
   {
     "country": "IBRD only",
@@ -43329,347 +47229,9 @@ module.exports = [
     "mean_yearly_exposure_pollution": 0
   },
   {
-    "country": "Iceland",
-    "year": 1990,
-    "forest_propotion_to_land": 0.16,
-    "country_population": 254826,
-    "wood_removal": 0,
-    "code": "ISL",
-    "forest_area_km": 161,
-    "country_land_area_km": 100250,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 8.3830044417
-  },
-  {
-    "country": "Iceland",
-    "year": 1991,
-    "forest_propotion_to_land": 0.16,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": "ISL",
-    "forest_area_km": 173.7,
-    "country_land_area_km": 100250,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Iceland",
-    "year": 1992,
-    "forest_propotion_to_land": 0.16,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": "ISL",
-    "forest_area_km": 186.4,
-    "country_land_area_km": 100250,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Iceland",
-    "year": 1993,
-    "forest_propotion_to_land": 0.16,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": "ISL",
-    "forest_area_km": 199.1,
-    "country_land_area_km": 100250,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Iceland",
-    "year": 1994,
-    "forest_propotion_to_land": 0.16,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": "ISL",
-    "forest_area_km": 211.8,
-    "country_land_area_km": 100250,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Iceland",
-    "year": 1995,
-    "forest_propotion_to_land": 0.16,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": "ISL",
-    "forest_area_km": 224.5,
-    "country_land_area_km": 100250,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 8.1553944794
-  },
-  {
-    "country": "Iceland",
-    "year": 1996,
-    "forest_propotion_to_land": 0.16,
-    "country_population": 0,
-    "wood_removal": 350,
-    "code": "ISL",
-    "forest_area_km": 237.2,
-    "country_land_area_km": 100250,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Iceland",
-    "year": 1997,
-    "forest_propotion_to_land": 0.16,
-    "country_population": 0,
-    "wood_removal": 273,
-    "code": "ISL",
-    "forest_area_km": 249.9,
-    "country_land_area_km": 100250,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Iceland",
-    "year": 1998,
-    "forest_propotion_to_land": 0.16,
-    "country_population": 0,
-    "wood_removal": 268,
-    "code": "ISL",
-    "forest_area_km": 262.6,
-    "country_land_area_km": 100250,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Iceland",
-    "year": 1999,
-    "forest_propotion_to_land": 0.16,
-    "country_population": 0,
-    "wood_removal": 269,
-    "code": "ISL",
-    "forest_area_km": 275.3,
-    "country_land_area_km": 100250,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Iceland",
-    "year": 2000,
-    "forest_propotion_to_land": 0.29,
-    "country_population": 281205,
-    "wood_removal": 284,
-    "code": "ISL",
-    "forest_area_km": 288,
-    "country_land_area_km": 100250,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 8.0176609687
-  },
-  {
-    "country": "Iceland",
-    "year": 2001,
-    "forest_propotion_to_land": 0.29,
-    "country_population": 0,
-    "wood_removal": 249,
-    "code": "ISL",
-    "forest_area_km": 303.4,
-    "country_land_area_km": 100250,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Iceland",
-    "year": 2002,
-    "forest_propotion_to_land": 0.29,
-    "country_population": 0,
-    "wood_removal": 399,
-    "code": "ISL",
-    "forest_area_km": 318.8,
-    "country_land_area_km": 100250,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Iceland",
-    "year": 2003,
-    "forest_propotion_to_land": 0.29,
-    "country_population": 0,
-    "wood_removal": 539,
-    "code": "ISL",
-    "forest_area_km": 334.2,
-    "country_land_area_km": 100250,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Iceland",
-    "year": 2004,
-    "forest_propotion_to_land": 0.29,
-    "country_population": 0,
-    "wood_removal": 467,
-    "code": "ISL",
-    "forest_area_km": 349.6,
-    "country_land_area_km": 100250,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Iceland",
-    "year": 2005,
-    "forest_propotion_to_land": 0.36,
-    "country_population": 296734,
-    "wood_removal": 836,
-    "code": "ISL",
-    "forest_area_km": 365,
-    "country_land_area_km": 100250,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 7.9098379031
-  },
-  {
-    "country": "Iceland",
-    "year": 2006,
-    "forest_propotion_to_land": 0.36,
-    "country_population": 0,
-    "wood_removal": 769,
-    "code": "ISL",
-    "forest_area_km": 377.4,
-    "country_land_area_km": 100250,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Iceland",
-    "year": 2007,
-    "forest_propotion_to_land": 0.36,
-    "country_population": 0,
-    "wood_removal": 558,
-    "code": "ISL",
-    "forest_area_km": 389.8,
-    "country_land_area_km": 100250,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Iceland",
-    "year": 2008,
-    "forest_propotion_to_land": 0.36,
-    "country_population": 0,
-    "wood_removal": 1260,
-    "code": "ISL",
-    "forest_area_km": 402.2,
-    "country_land_area_km": 100250,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Iceland",
-    "year": 2009,
-    "forest_propotion_to_land": 0.36,
-    "country_population": 0,
-    "wood_removal": 1330,
-    "code": "ISL",
-    "forest_area_km": 414.6,
-    "country_land_area_km": 100250,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Iceland",
-    "year": 2010,
-    "forest_propotion_to_land": 0.43,
-    "country_population": 318041,
-    "wood_removal": 3640,
-    "code": "ISL",
-    "forest_area_km": 427,
-    "country_land_area_km": 100250,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 7.8252752735
-  },
-  {
-    "country": "Iceland",
-    "year": 2011,
-    "forest_propotion_to_land": 0.43,
-    "country_population": 0,
-    "wood_removal": 3350,
-    "code": "ISL",
-    "forest_area_km": 440,
-    "country_land_area_km": 100250,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 7.7260583546
-  },
-  {
-    "country": "Iceland",
-    "year": 2012,
-    "forest_propotion_to_land": 0.43,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 7.6660837373
-  },
-  {
-    "country": "Iceland",
-    "year": 2013,
-    "forest_propotion_to_land": 0.43,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 7.6128094191
-  },
-  {
-    "country": "Iceland",
-    "year": 2014,
-    "forest_propotion_to_land": 0.43,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 7.7074270095
-  },
-  {
-    "country": "Iceland",
-    "year": 2015,
-    "forest_propotion_to_land": 0.49,
-    "country_population": 330815,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 7.3284277938
-  },
-  {
-    "country": "Iceland",
-    "year": 2016,
-    "forest_propotion_to_land": 0.4960819726,
+    "country": "IBRD only",
+    "year": 2023,
+    "forest_propotion_to_land": 22.67,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -43680,9 +47242,9 @@ module.exports = [
     "mean_yearly_exposure_pollution": 0
   },
   {
-    "country": "Iceland",
-    "year": 2017,
-    "forest_propotion_to_land": 0.5106226759,
+    "country": "IBRD only",
+    "year": 2024,
+    "forest_propotion_to_land": 22.67,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -43693,61 +47255,9 @@ module.exports = [
     "mean_yearly_exposure_pollution": 0
   },
   {
-    "country": "Iceland",
-    "year": 2018,
-    "forest_propotion_to_land": 0.5238641997,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Iceland",
-    "year": 2019,
-    "forest_propotion_to_land": 0.5373051541,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Iceland",
-    "year": 2020,
-    "forest_propotion_to_land": 0.5507154953,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Iceland",
-    "year": 2021,
-    "forest_propotion_to_land": 0.5641305356,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Iceland",
-    "year": 2022,
-    "forest_propotion_to_land": 0.5775448547,
+    "country": "IBRD only",
+    "year": 2025,
+    "forest_propotion_to_land": 22.67,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -43898,7 +47408,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 45.5239875107
+    "mean_yearly_exposure_pollution": 45.523987510699996
   },
   {
     "country": "IDA & IBRD total",
@@ -43963,7 +47473,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 46.9484027805
+    "mean_yearly_exposure_pollution": 46.948402780500004
   },
   {
     "country": "IDA & IBRD total",
@@ -44054,7 +47564,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 47.1547895231
+    "mean_yearly_exposure_pollution": 47.15478952310001
   },
   {
     "country": "IDA & IBRD total",
@@ -44067,7 +47577,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 47.7742471884
+    "mean_yearly_exposure_pollution": 47.774247188400004
   },
   {
     "country": "IDA & IBRD total",
@@ -44093,7 +47603,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 54.6136597489
+    "mean_yearly_exposure_pollution": 54.613659748900005
   },
   {
     "country": "IDA & IBRD total",
@@ -44187,6 +47697,45 @@ module.exports = [
     "mean_yearly_exposure_pollution": 0
   },
   {
+    "country": "IDA & IBRD total",
+    "year": 2023,
+    "forest_propotion_to_land": 22.67,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "IDA & IBRD total",
+    "year": 2024,
+    "forest_propotion_to_land": 22.67,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "IDA & IBRD total",
+    "year": 2025,
+    "forest_propotion_to_land": 22.67,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
     "country": "IDA blend",
     "year": 1990,
     "forest_propotion_to_land": 22.67,
@@ -44197,7 +47746,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 65.1255962161
+    "mean_yearly_exposure_pollution": 65.12559621609999
   },
   {
     "country": "IDA blend",
@@ -44616,6 +48165,45 @@ module.exports = [
     "mean_yearly_exposure_pollution": 0
   },
   {
+    "country": "IDA blend",
+    "year": 2023,
+    "forest_propotion_to_land": 22.67,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "IDA blend",
+    "year": 2024,
+    "forest_propotion_to_land": 22.67,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "IDA blend",
+    "year": 2025,
+    "forest_propotion_to_land": 22.67,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
     "country": "IDA only",
     "year": 1990,
     "forest_propotion_to_land": 22.67,
@@ -44756,7 +48344,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 47.5467672695
+    "mean_yearly_exposure_pollution": 47.546767269499995
   },
   {
     "country": "IDA only",
@@ -44899,7 +48487,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 48.5559364607
+    "mean_yearly_exposure_pollution": 48.555936460699996
   },
   {
     "country": "IDA only",
@@ -44912,7 +48500,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 49.1712267871
+    "mean_yearly_exposure_pollution": 49.171226787100004
   },
   {
     "country": "IDA only",
@@ -45045,6 +48633,45 @@ module.exports = [
     "mean_yearly_exposure_pollution": 0
   },
   {
+    "country": "IDA only",
+    "year": 2023,
+    "forest_propotion_to_land": 22.67,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "IDA only",
+    "year": 2024,
+    "forest_propotion_to_land": 22.67,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "IDA only",
+    "year": 2025,
+    "forest_propotion_to_land": 22.67,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
     "country": "IDA total",
     "year": 1990,
     "forest_propotion_to_land": 22.67,
@@ -45055,7 +48682,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 53.3629634527
+    "mean_yearly_exposure_pollution": 53.36296345270001
   },
   {
     "country": "IDA total",
@@ -45185,7 +48812,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 52.506139213
+    "mean_yearly_exposure_pollution": 52.506139213000004
   },
   {
     "country": "IDA total",
@@ -45354,7 +48981,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 49.3001738091
+    "mean_yearly_exposure_pollution": 49.300173809099995
   },
   {
     "country": "IDA total",
@@ -45380,7 +49007,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 68.6273178369
+    "mean_yearly_exposure_pollution": 68.62731783689999
   },
   {
     "country": "IDA total",
@@ -45464,6 +49091,513 @@ module.exports = [
     "country": "IDA total",
     "year": 2022,
     "forest_propotion_to_land": 22.67,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "IDA total",
+    "year": 2023,
+    "forest_propotion_to_land": 22.67,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "IDA total",
+    "year": 2024,
+    "forest_propotion_to_land": 22.67,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "IDA total",
+    "year": 2025,
+    "forest_propotion_to_land": 22.67,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Iceland",
+    "year": 1990,
+    "forest_propotion_to_land": 0.16,
+    "country_population": 254826,
+    "wood_removal": 0,
+    "code": "ISL",
+    "forest_area_km": 161,
+    "country_land_area_km": 100250,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 8.383004441699999
+  },
+  {
+    "country": "Iceland",
+    "year": 1991,
+    "forest_propotion_to_land": 0.16,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": "ISL",
+    "forest_area_km": 173.7,
+    "country_land_area_km": 100250,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Iceland",
+    "year": 1992,
+    "forest_propotion_to_land": 0.16,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": "ISL",
+    "forest_area_km": 186.4,
+    "country_land_area_km": 100250,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Iceland",
+    "year": 1993,
+    "forest_propotion_to_land": 0.16,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": "ISL",
+    "forest_area_km": 199.1,
+    "country_land_area_km": 100250,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Iceland",
+    "year": 1994,
+    "forest_propotion_to_land": 0.16,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": "ISL",
+    "forest_area_km": 211.8,
+    "country_land_area_km": 100250,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Iceland",
+    "year": 1995,
+    "forest_propotion_to_land": 0.16,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": "ISL",
+    "forest_area_km": 224.5,
+    "country_land_area_km": 100250,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 8.1553944794
+  },
+  {
+    "country": "Iceland",
+    "year": 1996,
+    "forest_propotion_to_land": 0.16,
+    "country_population": 0,
+    "wood_removal": 350,
+    "code": "ISL",
+    "forest_area_km": 237.2,
+    "country_land_area_km": 100250,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Iceland",
+    "year": 1997,
+    "forest_propotion_to_land": 0.16,
+    "country_population": 0,
+    "wood_removal": 273,
+    "code": "ISL",
+    "forest_area_km": 249.9,
+    "country_land_area_km": 100250,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Iceland",
+    "year": 1998,
+    "forest_propotion_to_land": 0.16,
+    "country_population": 0,
+    "wood_removal": 268,
+    "code": "ISL",
+    "forest_area_km": 262.6,
+    "country_land_area_km": 100250,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Iceland",
+    "year": 1999,
+    "forest_propotion_to_land": 0.16,
+    "country_population": 0,
+    "wood_removal": 269,
+    "code": "ISL",
+    "forest_area_km": 275.3,
+    "country_land_area_km": 100250,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Iceland",
+    "year": 2000,
+    "forest_propotion_to_land": 0.29,
+    "country_population": 281205,
+    "wood_removal": 284,
+    "code": "ISL",
+    "forest_area_km": 288,
+    "country_land_area_km": 100250,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 8.0176609687
+  },
+  {
+    "country": "Iceland",
+    "year": 2001,
+    "forest_propotion_to_land": 0.29,
+    "country_population": 0,
+    "wood_removal": 249,
+    "code": "ISL",
+    "forest_area_km": 303.4,
+    "country_land_area_km": 100250,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Iceland",
+    "year": 2002,
+    "forest_propotion_to_land": 0.29,
+    "country_population": 0,
+    "wood_removal": 399,
+    "code": "ISL",
+    "forest_area_km": 318.8,
+    "country_land_area_km": 100250,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Iceland",
+    "year": 2003,
+    "forest_propotion_to_land": 0.29,
+    "country_population": 0,
+    "wood_removal": 539,
+    "code": "ISL",
+    "forest_area_km": 334.2,
+    "country_land_area_km": 100250,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Iceland",
+    "year": 2004,
+    "forest_propotion_to_land": 0.29,
+    "country_population": 0,
+    "wood_removal": 467,
+    "code": "ISL",
+    "forest_area_km": 349.6,
+    "country_land_area_km": 100250,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Iceland",
+    "year": 2005,
+    "forest_propotion_to_land": 0.36,
+    "country_population": 296734,
+    "wood_removal": 836,
+    "code": "ISL",
+    "forest_area_km": 365,
+    "country_land_area_km": 100250,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 7.9098379031
+  },
+  {
+    "country": "Iceland",
+    "year": 2006,
+    "forest_propotion_to_land": 0.36,
+    "country_population": 0,
+    "wood_removal": 769,
+    "code": "ISL",
+    "forest_area_km": 377.4,
+    "country_land_area_km": 100250,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Iceland",
+    "year": 2007,
+    "forest_propotion_to_land": 0.36,
+    "country_population": 0,
+    "wood_removal": 558,
+    "code": "ISL",
+    "forest_area_km": 389.8,
+    "country_land_area_km": 100250,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Iceland",
+    "year": 2008,
+    "forest_propotion_to_land": 0.36,
+    "country_population": 0,
+    "wood_removal": 1260,
+    "code": "ISL",
+    "forest_area_km": 402.2,
+    "country_land_area_km": 100250,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Iceland",
+    "year": 2009,
+    "forest_propotion_to_land": 0.36,
+    "country_population": 0,
+    "wood_removal": 1330,
+    "code": "ISL",
+    "forest_area_km": 414.6,
+    "country_land_area_km": 100250,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Iceland",
+    "year": 2010,
+    "forest_propotion_to_land": 0.43,
+    "country_population": 318041,
+    "wood_removal": 3640,
+    "code": "ISL",
+    "forest_area_km": 427,
+    "country_land_area_km": 100250,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 7.8252752735
+  },
+  {
+    "country": "Iceland",
+    "year": 2011,
+    "forest_propotion_to_land": 0.43,
+    "country_population": 0,
+    "wood_removal": 3350,
+    "code": "ISL",
+    "forest_area_km": 440,
+    "country_land_area_km": 100250,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 7.7260583546
+  },
+  {
+    "country": "Iceland",
+    "year": 2012,
+    "forest_propotion_to_land": 0.43,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 7.6660837373
+  },
+  {
+    "country": "Iceland",
+    "year": 2013,
+    "forest_propotion_to_land": 0.43,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 7.612809419099999
+  },
+  {
+    "country": "Iceland",
+    "year": 2014,
+    "forest_propotion_to_land": 0.43,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 7.707427009500001
+  },
+  {
+    "country": "Iceland",
+    "year": 2015,
+    "forest_propotion_to_land": 0.49,
+    "country_population": 330815,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 7.328427793799999
+  },
+  {
+    "country": "Iceland",
+    "year": 2016,
+    "forest_propotion_to_land": 0.4960791541,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Iceland",
+    "year": 2017,
+    "forest_propotion_to_land": 0.5106206386,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Iceland",
+    "year": 2018,
+    "forest_propotion_to_land": 0.5238618114,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Iceland",
+    "year": 2019,
+    "forest_propotion_to_land": 0.5373026781,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Iceland",
+    "year": 2020,
+    "forest_propotion_to_land": 0.5507128775,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Iceland",
+    "year": 2021,
+    "forest_propotion_to_land": 0.5641277866,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Iceland",
+    "year": 2022,
+    "forest_propotion_to_land": 0.5775419724,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Iceland",
+    "year": 2023,
+    "forest_propotion_to_land": 0.5909562692,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Iceland",
+    "year": 2024,
+    "forest_propotion_to_land": 0.604370549,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Iceland",
+    "year": 2025,
+    "forest_propotion_to_land": 0.6177848314,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -45614,7 +49748,7 @@ module.exports = [
     "country_land_area_km": 2973190,
     "total_land_usage": 180485743,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 61.4908946165
+    "mean_yearly_exposure_pollution": 61.49089461649999
   },
   {
     "country": "India",
@@ -45814,7 +49948,7 @@ module.exports = [
   {
     "country": "India",
     "year": 2016,
-    "forest_propotion_to_land": 23.8295243399,
+    "forest_propotion_to_land": 23.8295230007,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -45827,7 +49961,7 @@ module.exports = [
   {
     "country": "India",
     "year": 2017,
-    "forest_propotion_to_land": 23.9269025437,
+    "forest_propotion_to_land": 23.9269015475,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -45840,7 +49974,7 @@ module.exports = [
   {
     "country": "India",
     "year": 2018,
-    "forest_propotion_to_land": 24.0187889766,
+    "forest_propotion_to_land": 24.0187878737,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -45853,7 +49987,7 @@ module.exports = [
   {
     "country": "India",
     "year": 2019,
-    "forest_propotion_to_land": 24.1114649798,
+    "forest_propotion_to_land": 24.111463864,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -45866,7 +50000,7 @@ module.exports = [
   {
     "country": "India",
     "year": 2020,
-    "forest_propotion_to_land": 24.2040275831,
+    "forest_propotion_to_land": 24.2040264368,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -45879,7 +50013,7 @@ module.exports = [
   {
     "country": "India",
     "year": 2021,
-    "forest_propotion_to_land": 24.2966064711,
+    "forest_propotion_to_land": 24.2966052975,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -45892,7 +50026,46 @@ module.exports = [
   {
     "country": "India",
     "year": 2022,
-    "forest_propotion_to_land": 24.3891830207,
+    "forest_propotion_to_land": 24.3891818192,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "India",
+    "year": 2023,
+    "forest_propotion_to_land": 24.4817586767,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "India",
+    "year": 2024,
+    "forest_propotion_to_land": 24.574335486,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "India",
+    "year": 2025,
+    "forest_propotion_to_land": 24.666912302199997,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -46186,7 +50359,7 @@ module.exports = [
     "country_land_area_km": 1811570,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 14.8301294292
+    "mean_yearly_exposure_pollution": 14.830129429200001
   },
   {
     "country": "Indonesia",
@@ -46243,7 +50416,7 @@ module.exports = [
   {
     "country": "Indonesia",
     "year": 2016,
-    "forest_propotion_to_land": 52.3854322996,
+    "forest_propotion_to_land": 52.3854322384,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -46256,7 +50429,7 @@ module.exports = [
   {
     "country": "Indonesia",
     "year": 2017,
-    "forest_propotion_to_land": 51.7142325214,
+    "forest_propotion_to_land": 51.7142324685,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -46269,7 +50442,7 @@ module.exports = [
   {
     "country": "Indonesia",
     "year": 2018,
-    "forest_propotion_to_land": 51.0569256356,
+    "forest_propotion_to_land": 51.056925580299996,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -46282,7 +50455,7 @@ module.exports = [
   {
     "country": "Indonesia",
     "year": 2019,
-    "forest_propotion_to_land": 50.3982306758,
+    "forest_propotion_to_land": 50.398230619799996,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -46295,7 +50468,7 @@ module.exports = [
   {
     "country": "Indonesia",
     "year": 2020,
-    "forest_propotion_to_land": 49.7396985667,
+    "forest_propotion_to_land": 49.73969850979999,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -46308,7 +50481,7 @@ module.exports = [
   {
     "country": "Indonesia",
     "year": 2021,
-    "forest_propotion_to_land": 49.0811487308,
+    "forest_propotion_to_land": 49.0811486729,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -46321,7 +50494,46 @@ module.exports = [
   {
     "country": "Indonesia",
     "year": 2022,
-    "forest_propotion_to_land": 48.4226008914,
+    "forest_propotion_to_land": 48.422600832700006,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Indonesia",
+    "year": 2023,
+    "forest_propotion_to_land": 47.7640527711,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Indonesia",
+    "year": 2024,
+    "forest_propotion_to_land": 47.105504734300006,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Indonesia",
+    "year": 2025,
+    "forest_propotion_to_land": 46.4469566946,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -46342,7 +50554,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 49.4091310578
+    "mean_yearly_exposure_pollution": 49.409131057799996
   },
   {
     "country": "Iran",
@@ -46472,7 +50684,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 48.0228840883
+    "mean_yearly_exposure_pollution": 48.022884088299996
   },
   {
     "country": "Iran",
@@ -46537,7 +50749,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 37.2048518181
+    "mean_yearly_exposure_pollution": 37.204851818099996
   },
   {
     "country": "Iran",
@@ -46602,7 +50814,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 48.0989595377
+    "mean_yearly_exposure_pollution": 48.098959537700004
   },
   {
     "country": "Iran",
@@ -46628,7 +50840,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 45.3770949877
+    "mean_yearly_exposure_pollution": 45.377094987700005
   },
   {
     "country": "Iran",
@@ -46641,7 +50853,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 44.7825928998
+    "mean_yearly_exposure_pollution": 44.782592899799994
   },
   {
     "country": "Iran",
@@ -46654,7 +50866,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 43.6716966969
+    "mean_yearly_exposure_pollution": 43.67169669689999
   },
   {
     "country": "Iran",
@@ -46672,7 +50884,7 @@ module.exports = [
   {
     "country": "Iran",
     "year": 2016,
-    "forest_propotion_to_land": 5.8286652092,
+    "forest_propotion_to_land": 5.8286651409,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -46685,7 +50897,7 @@ module.exports = [
   {
     "country": "Iran",
     "year": 2017,
-    "forest_propotion_to_land": 5.8651344046,
+    "forest_propotion_to_land": 5.8651343376,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -46698,7 +50910,7 @@ module.exports = [
   {
     "country": "Iran",
     "year": 2018,
-    "forest_propotion_to_land": 5.9017676937,
+    "forest_propotion_to_land": 5.9017676241,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -46711,7 +50923,7 @@ module.exports = [
   {
     "country": "Iran",
     "year": 2019,
-    "forest_propotion_to_land": 5.938389427,
+    "forest_propotion_to_land": 5.9383893551,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -46724,7 +50936,7 @@ module.exports = [
   {
     "country": "Iran",
     "year": 2020,
-    "forest_propotion_to_land": 5.9750119836,
+    "forest_propotion_to_land": 5.9750119096,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -46737,7 +50949,7 @@ module.exports = [
   {
     "country": "Iran",
     "year": 2021,
-    "forest_propotion_to_land": 6.0116344818,
+    "forest_propotion_to_land": 6.0116344054,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -46750,7 +50962,46 @@ module.exports = [
   {
     "country": "Iran",
     "year": 2022,
-    "forest_propotion_to_land": 6.0482569841,
+    "forest_propotion_to_land": 6.0482569055,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Iran",
+    "year": 2023,
+    "forest_propotion_to_land": 6.0848794052,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Iran",
+    "year": 2024,
+    "forest_propotion_to_land": 6.121501905,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Iran",
+    "year": 2025,
+    "forest_propotion_to_land": 6.1581244048000015,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -46771,7 +51022,7 @@ module.exports = [
     "country_land_area_km": 437370,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 51.4033522332
+    "mean_yearly_exposure_pollution": 51.403352233199996
   },
   {
     "country": "Iraq",
@@ -46836,7 +51087,7 @@ module.exports = [
     "country_land_area_km": 437370,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 50.1608733333
+    "mean_yearly_exposure_pollution": 50.160873333299996
   },
   {
     "country": "Iraq",
@@ -47031,7 +51282,7 @@ module.exports = [
     "country_land_area_km": 434320,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 90.6491008474
+    "mean_yearly_exposure_pollution": 90.64910084739999
   },
   {
     "country": "Iraq",
@@ -47070,7 +51321,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 66.2543324523
+    "mean_yearly_exposure_pollution": 66.25433245229999
   },
   {
     "country": "Iraq",
@@ -47083,7 +51334,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 58.860717576
+    "mean_yearly_exposure_pollution": 58.860717576000006
   },
   {
     "country": "Iraq",
@@ -47101,7 +51352,7 @@ module.exports = [
   {
     "country": "Iraq",
     "year": 2016,
-    "forest_propotion_to_land": 1.9022713596,
+    "forest_propotion_to_land": 1.9022606057,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -47114,7 +51365,7 @@ module.exports = [
   {
     "country": "Iraq",
     "year": 2017,
-    "forest_propotion_to_land": 1.9043371404,
+    "forest_propotion_to_land": 1.9043282836,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -47127,7 +51378,7 @@ module.exports = [
   {
     "country": "Iraq",
     "year": 2018,
-    "forest_propotion_to_land": 1.9064218303,
+    "forest_propotion_to_land": 1.9064127175,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -47140,7 +51391,7 @@ module.exports = [
   {
     "country": "Iraq",
     "year": 2019,
-    "forest_propotion_to_land": 1.9085047814,
+    "forest_propotion_to_land": 1.9084956967,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -47153,7 +51404,7 @@ module.exports = [
   {
     "country": "Iraq",
     "year": 2020,
-    "forest_propotion_to_land": 1.9105878923,
+    "forest_propotion_to_land": 1.9105788021,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -47166,7 +51417,7 @@ module.exports = [
   {
     "country": "Iraq",
     "year": 2021,
-    "forest_propotion_to_land": 1.9126709886,
+    "forest_propotion_to_land": 1.9126618966,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -47179,7 +51430,46 @@ module.exports = [
   {
     "country": "Iraq",
     "year": 2022,
-    "forest_propotion_to_land": 1.9147540862,
+    "forest_propotion_to_land": 1.914744992,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Iraq",
+    "year": 2023,
+    "forest_propotion_to_land": 1.9168280873,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Iraq",
+    "year": 2024,
+    "forest_propotion_to_land": 1.9189111827,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Iraq",
+    "year": 2025,
+    "forest_propotion_to_land": 1.920994278,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -47473,7 +51763,7 @@ module.exports = [
     "country_land_area_km": 68890,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 9.3373081409
+    "mean_yearly_exposure_pollution": 9.337308140900001
   },
   {
     "country": "Ireland",
@@ -47530,7 +51820,7 @@ module.exports = [
   {
     "country": "Ireland",
     "year": 2016,
-    "forest_propotion_to_land": 11.0982699964,
+    "forest_propotion_to_land": 11.098270122799999,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -47543,7 +51833,7 @@ module.exports = [
   {
     "country": "Ireland",
     "year": 2017,
-    "forest_propotion_to_land": 11.2744018982,
+    "forest_propotion_to_land": 11.274402005399999,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -47556,7 +51846,7 @@ module.exports = [
   {
     "country": "Ireland",
     "year": 2018,
-    "forest_propotion_to_land": 11.4472432135,
+    "forest_propotion_to_land": 11.447243331500001,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -47569,7 +51859,7 @@ module.exports = [
   {
     "country": "Ireland",
     "year": 2019,
-    "forest_propotion_to_land": 11.6204651337,
+    "forest_propotion_to_land": 11.6204652576,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -47582,7 +51872,7 @@ module.exports = [
   {
     "country": "Ireland",
     "year": 2020,
-    "forest_propotion_to_land": 11.7936429025,
+    "forest_propotion_to_land": 11.7936430329,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -47595,7 +51885,7 @@ module.exports = [
   {
     "country": "Ireland",
     "year": 2021,
-    "forest_propotion_to_land": 11.9668257909,
+    "forest_propotion_to_land": 11.9668259278,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -47608,7 +51898,46 @@ module.exports = [
   {
     "country": "Ireland",
     "year": 2022,
-    "forest_propotion_to_land": 12.1400080855,
+    "forest_propotion_to_land": 12.140008229000001,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Ireland",
+    "year": 2023,
+    "forest_propotion_to_land": 12.313190599,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Ireland",
+    "year": 2024,
+    "forest_propotion_to_land": 12.486372960999999,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Ireland",
+    "year": 2025,
+    "forest_propotion_to_land": 12.659555324000001,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -48048,6 +52377,45 @@ module.exports = [
     "mean_yearly_exposure_pollution": 0
   },
   {
+    "country": "Isle of Man",
+    "year": 2023,
+    "forest_propotion_to_land": 6.06,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Isle of Man",
+    "year": 2024,
+    "forest_propotion_to_land": 6.06,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Isle of Man",
+    "year": 2025,
+    "forest_propotion_to_land": 6.06,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
     "country": "Israel",
     "year": 1990,
     "forest_propotion_to_land": 6.1,
@@ -48388,7 +52756,7 @@ module.exports = [
   {
     "country": "Israel",
     "year": 2016,
-    "forest_propotion_to_land": 7.6524161846,
+    "forest_propotion_to_land": 7.652400134,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -48401,7 +52769,7 @@ module.exports = [
   {
     "country": "Israel",
     "year": 2017,
-    "forest_propotion_to_land": 7.7169524174,
+    "forest_propotion_to_land": 7.7169375469,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -48414,7 +52782,7 @@ module.exports = [
   {
     "country": "Israel",
     "year": 2018,
-    "forest_propotion_to_land": 7.7787000666,
+    "forest_propotion_to_land": 7.778684371900001,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -48427,7 +52795,7 @@ module.exports = [
   {
     "country": "Israel",
     "year": 2019,
-    "forest_propotion_to_land": 7.8406784266,
+    "forest_propotion_to_land": 7.8406621427999985,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -48440,7 +52808,7 @@ module.exports = [
   {
     "country": "Israel",
     "year": 2020,
-    "forest_propotion_to_land": 7.9026375228,
+    "forest_propotion_to_land": 7.9026206251,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -48453,7 +52821,7 @@ module.exports = [
   {
     "country": "Israel",
     "year": 2021,
-    "forest_propotion_to_land": 7.9645982246,
+    "forest_propotion_to_land": 7.964580715499999,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -48466,7 +52834,46 @@ module.exports = [
   {
     "country": "Israel",
     "year": 2022,
-    "forest_propotion_to_land": 8.0265587925,
+    "forest_propotion_to_land": 8.0265406718,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Israel",
+    "year": 2023,
+    "forest_propotion_to_land": 8.0885006393,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Israel",
+    "year": 2024,
+    "forest_propotion_to_land": 8.150460605800001,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Israel",
+    "year": 2025,
+    "forest_propotion_to_land": 8.2124205724,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -48747,7 +53154,7 @@ module.exports = [
     "country_land_area_km": 294140,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 14.6536578666
+    "mean_yearly_exposure_pollution": 14.653657866600001
   },
   {
     "country": "Italy",
@@ -48760,7 +53167,7 @@ module.exports = [
     "country_land_area_km": 294140,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 14.3854487421
+    "mean_yearly_exposure_pollution": 14.385448742100001
   },
   {
     "country": "Italy",
@@ -48817,7 +53224,7 @@ module.exports = [
   {
     "country": "Italy",
     "year": 2016,
-    "forest_propotion_to_land": 31.7524628984,
+    "forest_propotion_to_land": 31.7524627759,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -48830,7 +53237,7 @@ module.exports = [
   {
     "country": "Italy",
     "year": 2017,
-    "forest_propotion_to_land": 32.0013926248,
+    "forest_propotion_to_land": 32.0013925597,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -48843,7 +53250,7 @@ module.exports = [
   {
     "country": "Italy",
     "year": 2018,
-    "forest_propotion_to_land": 32.2379385327,
+    "forest_propotion_to_land": 32.2379384313,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -48856,7 +53263,7 @@ module.exports = [
   {
     "country": "Italy",
     "year": 2019,
-    "forest_propotion_to_land": 32.4758709008,
+    "forest_propotion_to_land": 32.4758707848,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -48869,7 +53276,7 @@ module.exports = [
   {
     "country": "Italy",
     "year": 2020,
-    "forest_propotion_to_land": 32.7136496074,
+    "forest_propotion_to_land": 32.713649473000004,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -48882,7 +53289,7 @@ module.exports = [
   {
     "country": "Italy",
     "year": 2021,
-    "forest_propotion_to_land": 32.9514452973,
+    "forest_propotion_to_land": 32.9514451451,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -48895,7 +53302,46 @@ module.exports = [
   {
     "country": "Italy",
     "year": 2022,
-    "forest_propotion_to_land": 33.1892391116,
+    "forest_propotion_to_land": 33.1892389415,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Italy",
+    "year": 2023,
+    "forest_propotion_to_land": 33.427032945,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Italy",
+    "year": 2024,
+    "forest_propotion_to_land": 33.664826925599996,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Italy",
+    "year": 2025,
+    "forest_propotion_to_land": 33.9026209087,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -48981,7 +53427,7 @@ module.exports = [
     "country_land_area_km": 10830,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 20.5465984357
+    "mean_yearly_exposure_pollution": 20.546598435699998
   },
   {
     "country": "Jamaica",
@@ -49111,7 +53557,7 @@ module.exports = [
     "country_land_area_km": 10830,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 19.9562743285
+    "mean_yearly_exposure_pollution": 19.956274328499997
   },
   {
     "country": "Jamaica",
@@ -49176,7 +53622,7 @@ module.exports = [
     "country_land_area_km": 10830,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 13.6621400246
+    "mean_yearly_exposure_pollution": 13.662140024600001
   },
   {
     "country": "Jamaica",
@@ -49246,7 +53692,7 @@ module.exports = [
   {
     "country": "Jamaica",
     "year": 2016,
-    "forest_propotion_to_land": 30.9378970022,
+    "forest_propotion_to_land": 30.9378963994,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -49259,7 +53705,7 @@ module.exports = [
   {
     "country": "Jamaica",
     "year": 2017,
-    "forest_propotion_to_land": 30.8991282356,
+    "forest_propotion_to_land": 30.8991276891,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -49272,7 +53718,7 @@ module.exports = [
   {
     "country": "Jamaica",
     "year": 2018,
-    "forest_propotion_to_land": 30.8644293598,
+    "forest_propotion_to_land": 30.864428830599998,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -49285,7 +53731,7 @@ module.exports = [
   {
     "country": "Jamaica",
     "year": 2019,
-    "forest_propotion_to_land": 30.8291105465,
+    "forest_propotion_to_land": 30.829110029000002,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -49298,7 +53744,7 @@ module.exports = [
   {
     "country": "Jamaica",
     "year": 2020,
-    "forest_propotion_to_land": 30.7938861542,
+    "forest_propotion_to_land": 30.793885651,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -49311,7 +53757,7 @@ module.exports = [
   {
     "country": "Jamaica",
     "year": 2021,
-    "forest_propotion_to_land": 30.7586473811,
+    "forest_propotion_to_land": 30.7586468915,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -49324,7 +53770,46 @@ module.exports = [
   {
     "country": "Jamaica",
     "year": 2022,
-    "forest_propotion_to_land": 30.7234107982,
+    "forest_propotion_to_land": 30.7234103224,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Jamaica",
+    "year": 2023,
+    "forest_propotion_to_land": 30.688173419600002,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Jamaica",
+    "year": 2024,
+    "forest_propotion_to_land": 30.6529365677,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Jamaica",
+    "year": 2025,
+    "forest_propotion_to_land": 30.617699708099998,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -49410,7 +53895,7 @@ module.exports = [
     "country_land_area_km": 364600,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 12.5347442341
+    "mean_yearly_exposure_pollution": 12.534744234100001
   },
   {
     "country": "Japan",
@@ -49675,7 +54160,7 @@ module.exports = [
   {
     "country": "Japan",
     "year": 2016,
-    "forest_propotion_to_land": 68.4707616582,
+    "forest_propotion_to_land": 68.47076407729999,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -49688,7 +54173,7 @@ module.exports = [
   {
     "country": "Japan",
     "year": 2017,
-    "forest_propotion_to_land": 68.4715248798,
+    "forest_propotion_to_land": 68.4715291367,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -49701,7 +54186,7 @@ module.exports = [
   {
     "country": "Japan",
     "year": 2018,
-    "forest_propotion_to_land": 68.4722881262,
+    "forest_propotion_to_land": 68.47229421600001,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -49714,7 +54199,7 @@ module.exports = [
   {
     "country": "Japan",
     "year": 2019,
-    "forest_propotion_to_land": 68.4730513726,
+    "forest_propotion_to_land": 68.4730592953,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -49727,7 +54212,7 @@ module.exports = [
   {
     "country": "Japan",
     "year": 2020,
-    "forest_propotion_to_land": 68.473814619,
+    "forest_propotion_to_land": 68.4738243746,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -49740,7 +54225,7 @@ module.exports = [
   {
     "country": "Japan",
     "year": 2021,
-    "forest_propotion_to_land": 68.4745778654,
+    "forest_propotion_to_land": 68.47458945390001,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -49753,7 +54238,46 @@ module.exports = [
   {
     "country": "Japan",
     "year": 2022,
-    "forest_propotion_to_land": 68.4753411118,
+    "forest_propotion_to_land": 68.47535453319999,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Japan",
+    "year": 2023,
+    "forest_propotion_to_land": 68.4761196125,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Japan",
+    "year": 2024,
+    "forest_propotion_to_land": 68.47688469170001,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Japan",
+    "year": 2025,
+    "forest_propotion_to_land": 68.477649771,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -49839,7 +54363,7 @@ module.exports = [
     "country_land_area_km": 88240,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 30.4749112072
+    "mean_yearly_exposure_pollution": 30.474911207199998
   },
   {
     "country": "Jordan",
@@ -49904,7 +54428,7 @@ module.exports = [
     "country_land_area_km": 88240,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 29.7520037214
+    "mean_yearly_exposure_pollution": 29.752003721399998
   },
   {
     "country": "Jordan",
@@ -49969,7 +54493,7 @@ module.exports = [
     "country_land_area_km": 88240,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 29.102297607
+    "mean_yearly_exposure_pollution": 29.102297606999997
   },
   {
     "country": "Jordan",
@@ -50086,7 +54610,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 37.0992708986
+    "mean_yearly_exposure_pollution": 37.099270898600004
   },
   {
     "country": "Jordan",
@@ -50193,6 +54717,45 @@ module.exports = [
     "mean_yearly_exposure_pollution": 0
   },
   {
+    "country": "Jordan",
+    "year": 2023,
+    "forest_propotion_to_land": 1.1,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Jordan",
+    "year": 2024,
+    "forest_propotion_to_land": 1.1,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Jordan",
+    "year": 2025,
+    "forest_propotion_to_land": 1.1,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
     "country": "Kazakhstan",
     "year": 1990,
     "forest_propotion_to_land": 1.27,
@@ -50203,7 +54766,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 20.3331216016
+    "mean_yearly_exposure_pollution": 20.333121601600002
   },
   {
     "country": "Kazakhstan",
@@ -50476,7 +55039,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 17.1913636887
+    "mean_yearly_exposure_pollution": 17.191363688699994
   },
   {
     "country": "Kazakhstan",
@@ -50502,7 +55065,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 18.2979003195
+    "mean_yearly_exposure_pollution": 18.297900319500002
   },
   {
     "country": "Kazakhstan",
@@ -50533,7 +55096,7 @@ module.exports = [
   {
     "country": "Kazakhstan",
     "year": 2016,
-    "forest_propotion_to_land": 1.2281261162,
+    "forest_propotion_to_land": 1.2282088531,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -50546,7 +55109,7 @@ module.exports = [
   {
     "country": "Kazakhstan",
     "year": 2017,
-    "forest_propotion_to_land": 1.2264851963,
+    "forest_propotion_to_land": 1.226571982,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -50559,7 +55122,7 @@ module.exports = [
   {
     "country": "Kazakhstan",
     "year": 2018,
-    "forest_propotion_to_land": 1.224815393,
+    "forest_propotion_to_land": 1.2249221354000002,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -50572,7 +55135,7 @@ module.exports = [
   {
     "country": "Kazakhstan",
     "year": 2019,
-    "forest_propotion_to_land": 1.2231491707,
+    "forest_propotion_to_land": 1.2232733795,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -50585,7 +55148,7 @@ module.exports = [
   {
     "country": "Kazakhstan",
     "year": 2020,
-    "forest_propotion_to_land": 1.2214825045,
+    "forest_propotion_to_land": 1.2216245319,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -50598,7 +55161,7 @@ module.exports = [
   {
     "country": "Kazakhstan",
     "year": 2021,
-    "forest_propotion_to_land": 1.2198158933,
+    "forest_propotion_to_land": 1.219975692,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -50611,7 +55174,46 @@ module.exports = [
   {
     "country": "Kazakhstan",
     "year": 2022,
-    "forest_propotion_to_land": 1.2181492752,
+    "forest_propotion_to_land": 1.2183268514,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Kazakhstan",
+    "year": 2023,
+    "forest_propotion_to_land": 1.216678011,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Kazakhstan",
+    "year": 2024,
+    "forest_propotion_to_land": 1.2150291705,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Kazakhstan",
+    "year": 2025,
+    "forest_propotion_to_land": 1.21338033,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -50762,7 +55364,7 @@ module.exports = [
     "country_land_area_km": 569140,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 16.190365034
+    "mean_yearly_exposure_pollution": 16.190365034000006
   },
   {
     "country": "Kenya",
@@ -50892,7 +55494,7 @@ module.exports = [
     "country_land_area_km": 569140,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 15.0546373354
+    "mean_yearly_exposure_pollution": 15.054637335399999
   },
   {
     "country": "Kenya",
@@ -50962,7 +55564,7 @@ module.exports = [
   {
     "country": "Kenya",
     "year": 2016,
-    "forest_propotion_to_land": 7.7279987305,
+    "forest_propotion_to_land": 7.7280003791,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -50975,7 +55577,7 @@ module.exports = [
   {
     "country": "Kenya",
     "year": 2017,
-    "forest_propotion_to_land": 7.7059995966,
+    "forest_propotion_to_land": 7.7060025237,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -50988,7 +55590,7 @@ module.exports = [
   {
     "country": "Kenya",
     "year": 2018,
-    "forest_propotion_to_land": 7.6839997063,
+    "forest_propotion_to_land": 7.6840042373,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -51001,7 +55603,7 @@ module.exports = [
   {
     "country": "Kenya",
     "year": 2019,
-    "forest_propotion_to_land": 7.6619998161,
+    "forest_propotion_to_land": 7.6620059508,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -51014,7 +55616,7 @@ module.exports = [
   {
     "country": "Kenya",
     "year": 2020,
-    "forest_propotion_to_land": 7.6399999258,
+    "forest_propotion_to_land": 7.640007664400001,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -51027,7 +55629,7 @@ module.exports = [
   {
     "country": "Kenya",
     "year": 2021,
-    "forest_propotion_to_land": 7.6180000355,
+    "forest_propotion_to_land": 7.6180093779,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -51040,7 +55642,46 @@ module.exports = [
   {
     "country": "Kenya",
     "year": 2022,
-    "forest_propotion_to_land": 7.5960001453,
+    "forest_propotion_to_land": 7.5960110914999985,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Kenya",
+    "year": 2023,
+    "forest_propotion_to_land": 7.574012805,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Kenya",
+    "year": 2024,
+    "forest_propotion_to_land": 7.5520145186,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Kenya",
+    "year": 2025,
+    "forest_propotion_to_land": 7.5300162321,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -51321,7 +55962,7 @@ module.exports = [
     "country_land_area_km": 810,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 3.4420423005
+    "mean_yearly_exposure_pollution": 3.4420423005000003
   },
   {
     "country": "Kiribati",
@@ -51334,7 +55975,7 @@ module.exports = [
     "country_land_area_km": 810,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 3.3663251467
+    "mean_yearly_exposure_pollution": 3.3663251467000004
   },
   {
     "country": "Kiribati",
@@ -51469,6 +56110,45 @@ module.exports = [
   {
     "country": "Kiribati",
     "year": 2022,
+    "forest_propotion_to_land": 15,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Kiribati",
+    "year": 2023,
+    "forest_propotion_to_land": 15,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Kiribati",
+    "year": 2024,
+    "forest_propotion_to_land": 15,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Kiribati",
+    "year": 2025,
     "forest_propotion_to_land": 15,
     "country_population": 0,
     "wood_removal": 0,
@@ -51763,7 +56443,7 @@ module.exports = [
     "country_land_area_km": 17820,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 102.6828337934
+    "mean_yearly_exposure_pollution": 102.68283379340001
   },
   {
     "country": "Kuwait",
@@ -51776,7 +56456,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 103.7015761864
+    "mean_yearly_exposure_pollution": 103.70157618639999
   },
   {
     "country": "Kuwait",
@@ -51820,7 +56500,7 @@ module.exports = [
   {
     "country": "Kuwait",
     "year": 2016,
-    "forest_propotion_to_land": 0.3575053946,
+    "forest_propotion_to_land": 0.3575031859,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -51833,7 +56513,7 @@ module.exports = [
   {
     "country": "Kuwait",
     "year": 2017,
-    "forest_propotion_to_land": 0.3640697549,
+    "forest_propotion_to_land": 0.3640679878,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -51846,7 +56526,7 @@ module.exports = [
   {
     "country": "Kuwait",
     "year": 2018,
-    "forest_propotion_to_land": 0.3707503169,
+    "forest_propotion_to_land": 0.3707484225,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -51859,7 +56539,7 @@ module.exports = [
   {
     "country": "Kuwait",
     "year": 2019,
-    "forest_propotion_to_land": 0.3774165334,
+    "forest_propotion_to_land": 0.3774146114,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -51872,7 +56552,7 @@ module.exports = [
   {
     "country": "Kuwait",
     "year": 2020,
-    "forest_propotion_to_land": 0.3840845209,
+    "forest_propotion_to_land": 0.3840825554,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -51885,7 +56565,7 @@ module.exports = [
   {
     "country": "Kuwait",
     "year": 2021,
-    "forest_propotion_to_land": 0.3907522898,
+    "forest_propotion_to_land": 0.3907502832,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -51898,7 +56578,46 @@ module.exports = [
   {
     "country": "Kuwait",
     "year": 2022,
-    "forest_propotion_to_land": 0.3974200856,
+    "forest_propotion_to_land": 0.3974180376,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Kuwait",
+    "year": 2023,
+    "forest_propotion_to_land": 0.4040857888,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Kuwait",
+    "year": 2024,
+    "forest_propotion_to_land": 0.4107535403,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Kuwait",
+    "year": 2025,
+    "forest_propotion_to_land": 0.4174212918,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -51984,7 +56703,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 14.8626666985
+    "mean_yearly_exposure_pollution": 14.862666698499998
   },
   {
     "country": "Kyrgyzstan",
@@ -52049,7 +56768,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 14.9419764531
+    "mean_yearly_exposure_pollution": 14.941976453099999
   },
   {
     "country": "Kyrgyzstan",
@@ -52249,7 +56968,7 @@ module.exports = [
   {
     "country": "Kyrgyzstan",
     "year": 2016,
-    "forest_propotion_to_land": 3.2635008493,
+    "forest_propotion_to_land": 3.2635006625,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -52262,7 +56981,7 @@ module.exports = [
   {
     "country": "Kyrgyzstan",
     "year": 2017,
-    "forest_propotion_to_land": 3.186721941,
+    "forest_propotion_to_land": 3.1867218065,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -52275,7 +56994,7 @@ module.exports = [
   {
     "country": "Kyrgyzstan",
     "year": 2018,
-    "forest_propotion_to_land": 3.1108445382,
+    "forest_propotion_to_land": 3.1108444272000004,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -52288,7 +57007,7 @@ module.exports = [
   {
     "country": "Kyrgyzstan",
     "year": 2019,
-    "forest_propotion_to_land": 3.0348910384,
+    "forest_propotion_to_land": 3.0348909543,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -52301,7 +57020,7 @@ module.exports = [
   {
     "country": "Kyrgyzstan",
     "year": 2020,
-    "forest_propotion_to_land": 2.9589440054,
+    "forest_propotion_to_land": 2.9589439479000004,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -52314,7 +57033,7 @@ module.exports = [
   {
     "country": "Kyrgyzstan",
     "year": 2021,
-    "forest_propotion_to_land": 2.8829964236,
+    "forest_propotion_to_land": 2.8829963926,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -52327,7 +57046,46 @@ module.exports = [
   {
     "country": "Kyrgyzstan",
     "year": 2022,
-    "forest_propotion_to_land": 2.8070488883,
+    "forest_propotion_to_land": 2.807048884,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Kyrgyzstan",
+    "year": 2023,
+    "forest_propotion_to_land": 2.7311013713,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Kyrgyzstan",
+    "year": 2024,
+    "forest_propotion_to_land": 2.6551538591,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Kyrgyzstan",
+    "year": 2025,
+    "forest_propotion_to_land": 2.5792063467,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -52348,7 +57106,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 26.5431908989
+    "mean_yearly_exposure_pollution": 26.543190898899997
   },
   {
     "country": "Laos",
@@ -52413,7 +57171,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 26.8563101976
+    "mean_yearly_exposure_pollution": 26.856310197600003
   },
   {
     "country": "Laos",
@@ -52608,7 +57366,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 28.0297892653
+    "mean_yearly_exposure_pollution": 28.029789265300003
   },
   {
     "country": "Laos",
@@ -52621,7 +57379,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 28.6208150114
+    "mean_yearly_exposure_pollution": 28.620815011399998
   },
   {
     "country": "Laos",
@@ -52634,7 +57392,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 28.9779987813
+    "mean_yearly_exposure_pollution": 28.977998781300002
   },
   {
     "country": "Laos",
@@ -52673,12 +57431,12 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 27.9086845699
+    "mean_yearly_exposure_pollution": 27.908684569899997
   },
   {
     "country": "Laos",
     "year": 2016,
-    "forest_propotion_to_land": 81.8772678254,
+    "forest_propotion_to_land": 81.8772683574,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -52691,7 +57449,7 @@ module.exports = [
   {
     "country": "Laos",
     "year": 2017,
-    "forest_propotion_to_land": 82.8486005438,
+    "forest_propotion_to_land": 82.8486008747,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -52704,7 +57462,7 @@ module.exports = [
   {
     "country": "Laos",
     "year": 2018,
-    "forest_propotion_to_land": 83.7648767771,
+    "forest_propotion_to_land": 83.76487706489999,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -52717,7 +57475,7 @@ module.exports = [
   {
     "country": "Laos",
     "year": 2019,
-    "forest_propotion_to_land": 84.6885360374,
+    "forest_propotion_to_land": 84.68853625130002,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -52730,7 +57488,7 @@ module.exports = [
   {
     "country": "Laos",
     "year": 2020,
-    "forest_propotion_to_land": 85.6111900895,
+    "forest_propotion_to_land": 85.6111902349,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -52743,7 +57501,7 @@ module.exports = [
   {
     "country": "Laos",
     "year": 2021,
-    "forest_propotion_to_land": 86.5339805203,
+    "forest_propotion_to_land": 86.5339805963,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -52756,7 +57514,46 @@ module.exports = [
   {
     "country": "Laos",
     "year": 2022,
-    "forest_propotion_to_land": 87.4567524333,
+    "forest_propotion_to_land": 87.4567524399,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Laos",
+    "year": 2023,
+    "forest_propotion_to_land": 88.3795267975,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Laos",
+    "year": 2024,
+    "forest_propotion_to_land": 89.30230081379999,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Laos",
+    "year": 2025,
+    "forest_propotion_to_land": 90.2250748764,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -52842,7 +57639,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 38.6803640974
+    "mean_yearly_exposure_pollution": 38.680364097399995
   },
   {
     "country": "Late-demographic dividend",
@@ -53102,7 +57899,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 42.7456307945
+    "mean_yearly_exposure_pollution": 42.745630794499995
   },
   {
     "country": "Late-demographic dividend",
@@ -53185,6 +57982,45 @@ module.exports = [
   {
     "country": "Late-demographic dividend",
     "year": 2022,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Late-demographic dividend",
+    "year": 2023,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Late-demographic dividend",
+    "year": 2024,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Late-demographic dividend",
+    "year": 2025,
     "forest_propotion_to_land": 81.29,
     "country_population": 0,
     "wood_removal": 0,
@@ -53401,7 +58237,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 21.824096977
+    "mean_yearly_exposure_pollution": 21.824096976999996
   },
   {
     "country": "Latin America & Caribbean",
@@ -53625,21 +58461,8 @@ module.exports = [
     "mean_yearly_exposure_pollution": 0
   },
   {
-    "country": "Latin America & Caribbean (excluding high income)",
-    "year": 1990,
-    "forest_propotion_to_land": 81.29,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 21.5747876538
-  },
-  {
-    "country": "Latin America & Caribbean (excluding high income)",
-    "year": 1991,
+    "country": "Latin America & Caribbean",
+    "year": 2023,
     "forest_propotion_to_land": 81.29,
     "country_population": 0,
     "wood_removal": 0,
@@ -53651,8 +58474,8 @@ module.exports = [
     "mean_yearly_exposure_pollution": 0
   },
   {
-    "country": "Latin America & Caribbean (excluding high income)",
-    "year": 1992,
+    "country": "Latin America & Caribbean",
+    "year": 2024,
     "forest_propotion_to_land": 81.29,
     "country_population": 0,
     "wood_removal": 0,
@@ -53664,385 +58487,8 @@ module.exports = [
     "mean_yearly_exposure_pollution": 0
   },
   {
-    "country": "Latin America & Caribbean (excluding high income)",
-    "year": 1993,
-    "forest_propotion_to_land": 81.29,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Latin America & Caribbean (excluding high income)",
-    "year": 1994,
-    "forest_propotion_to_land": 81.29,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Latin America & Caribbean (excluding high income)",
-    "year": 1995,
-    "forest_propotion_to_land": 81.29,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 22.3257025667
-  },
-  {
-    "country": "Latin America & Caribbean (excluding high income)",
-    "year": 1996,
-    "forest_propotion_to_land": 81.29,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Latin America & Caribbean (excluding high income)",
-    "year": 1997,
-    "forest_propotion_to_land": 81.29,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Latin America & Caribbean (excluding high income)",
-    "year": 1998,
-    "forest_propotion_to_land": 81.29,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Latin America & Caribbean (excluding high income)",
-    "year": 1999,
-    "forest_propotion_to_land": 81.29,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Latin America & Caribbean (excluding high income)",
-    "year": 2000,
-    "forest_propotion_to_land": 81.29,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 23.8883678854
-  },
-  {
-    "country": "Latin America & Caribbean (excluding high income)",
-    "year": 2001,
-    "forest_propotion_to_land": 81.29,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Latin America & Caribbean (excluding high income)",
-    "year": 2002,
-    "forest_propotion_to_land": 81.29,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Latin America & Caribbean (excluding high income)",
-    "year": 2003,
-    "forest_propotion_to_land": 81.29,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Latin America & Caribbean (excluding high income)",
-    "year": 2004,
-    "forest_propotion_to_land": 81.29,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Latin America & Caribbean (excluding high income)",
-    "year": 2005,
-    "forest_propotion_to_land": 81.29,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 22.5144527431
-  },
-  {
-    "country": "Latin America & Caribbean (excluding high income)",
-    "year": 2006,
-    "forest_propotion_to_land": 81.29,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Latin America & Caribbean (excluding high income)",
-    "year": 2007,
-    "forest_propotion_to_land": 81.29,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Latin America & Caribbean (excluding high income)",
-    "year": 2008,
-    "forest_propotion_to_land": 81.29,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Latin America & Caribbean (excluding high income)",
-    "year": 2009,
-    "forest_propotion_to_land": 81.29,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Latin America & Caribbean (excluding high income)",
-    "year": 2010,
-    "forest_propotion_to_land": 81.29,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 17.4094674176
-  },
-  {
-    "country": "Latin America & Caribbean (excluding high income)",
-    "year": 2011,
-    "forest_propotion_to_land": 81.29,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 18.1430620858
-  },
-  {
-    "country": "Latin America & Caribbean (excluding high income)",
-    "year": 2012,
-    "forest_propotion_to_land": 81.29,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 18.5911249691
-  },
-  {
-    "country": "Latin America & Caribbean (excluding high income)",
-    "year": 2013,
-    "forest_propotion_to_land": 81.29,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 18.6658213159
-  },
-  {
-    "country": "Latin America & Caribbean (excluding high income)",
-    "year": 2014,
-    "forest_propotion_to_land": 81.29,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 18.2174875026
-  },
-  {
-    "country": "Latin America & Caribbean (excluding high income)",
-    "year": 2015,
-    "forest_propotion_to_land": 81.29,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 17.938588876
-  },
-  {
-    "country": "Latin America & Caribbean (excluding high income)",
-    "year": 2016,
-    "forest_propotion_to_land": 81.29,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Latin America & Caribbean (excluding high income)",
-    "year": 2017,
-    "forest_propotion_to_land": 81.29,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Latin America & Caribbean (excluding high income)",
-    "year": 2018,
-    "forest_propotion_to_land": 81.29,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Latin America & Caribbean (excluding high income)",
-    "year": 2019,
-    "forest_propotion_to_land": 81.29,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Latin America & Caribbean (excluding high income)",
-    "year": 2020,
-    "forest_propotion_to_land": 81.29,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Latin America & Caribbean (excluding high income)",
-    "year": 2021,
-    "forest_propotion_to_land": 81.29,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Latin America & Caribbean (excluding high income)",
-    "year": 2022,
+    "country": "Latin America & Caribbean",
+    "year": 2025,
     "forest_propotion_to_land": 81.29,
     "country_population": 0,
     "wood_removal": 0,
@@ -54064,7 +58510,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 20.9819833366
+    "mean_yearly_exposure_pollution": 20.981983336600003
   },
   {
     "country": "Latin America & Caribbean (IDA & IBRD)",
@@ -54194,7 +58640,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 23.1475044753
+    "mean_yearly_exposure_pollution": 23.147504475300003
   },
   {
     "country": "Latin America & Caribbean (IDA & IBRD)",
@@ -54259,7 +58705,7 @@ module.exports = [
     "country_land_area_km": 0,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 21.8720812293
+    "mean_yearly_exposure_pollution": 21.872081229299997
   },
   {
     "country": "Latin America & Caribbean (IDA & IBRD)",
@@ -54483,6 +58929,513 @@ module.exports = [
     "mean_yearly_exposure_pollution": 0
   },
   {
+    "country": "Latin America & Caribbean (IDA & IBRD)",
+    "year": 2023,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Latin America & Caribbean (IDA & IBRD)",
+    "year": 2024,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Latin America & Caribbean (IDA & IBRD)",
+    "year": 2025,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Latin America & Caribbean (excluding high income)",
+    "year": 1990,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 21.5747876538
+  },
+  {
+    "country": "Latin America & Caribbean (excluding high income)",
+    "year": 1991,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Latin America & Caribbean (excluding high income)",
+    "year": 1992,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Latin America & Caribbean (excluding high income)",
+    "year": 1993,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Latin America & Caribbean (excluding high income)",
+    "year": 1994,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Latin America & Caribbean (excluding high income)",
+    "year": 1995,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 22.325702566700002
+  },
+  {
+    "country": "Latin America & Caribbean (excluding high income)",
+    "year": 1996,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Latin America & Caribbean (excluding high income)",
+    "year": 1997,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Latin America & Caribbean (excluding high income)",
+    "year": 1998,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Latin America & Caribbean (excluding high income)",
+    "year": 1999,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Latin America & Caribbean (excluding high income)",
+    "year": 2000,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 23.8883678854
+  },
+  {
+    "country": "Latin America & Caribbean (excluding high income)",
+    "year": 2001,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Latin America & Caribbean (excluding high income)",
+    "year": 2002,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Latin America & Caribbean (excluding high income)",
+    "year": 2003,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Latin America & Caribbean (excluding high income)",
+    "year": 2004,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Latin America & Caribbean (excluding high income)",
+    "year": 2005,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 22.514452743099998
+  },
+  {
+    "country": "Latin America & Caribbean (excluding high income)",
+    "year": 2006,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Latin America & Caribbean (excluding high income)",
+    "year": 2007,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Latin America & Caribbean (excluding high income)",
+    "year": 2008,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Latin America & Caribbean (excluding high income)",
+    "year": 2009,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Latin America & Caribbean (excluding high income)",
+    "year": 2010,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 17.4094674176
+  },
+  {
+    "country": "Latin America & Caribbean (excluding high income)",
+    "year": 2011,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 18.1430620858
+  },
+  {
+    "country": "Latin America & Caribbean (excluding high income)",
+    "year": 2012,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 18.5911249691
+  },
+  {
+    "country": "Latin America & Caribbean (excluding high income)",
+    "year": 2013,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 18.6658213159
+  },
+  {
+    "country": "Latin America & Caribbean (excluding high income)",
+    "year": 2014,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 18.2174875026
+  },
+  {
+    "country": "Latin America & Caribbean (excluding high income)",
+    "year": 2015,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 17.938588876
+  },
+  {
+    "country": "Latin America & Caribbean (excluding high income)",
+    "year": 2016,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Latin America & Caribbean (excluding high income)",
+    "year": 2017,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Latin America & Caribbean (excluding high income)",
+    "year": 2018,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Latin America & Caribbean (excluding high income)",
+    "year": 2019,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Latin America & Caribbean (excluding high income)",
+    "year": 2020,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Latin America & Caribbean (excluding high income)",
+    "year": 2021,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Latin America & Caribbean (excluding high income)",
+    "year": 2022,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Latin America & Caribbean (excluding high income)",
+    "year": 2023,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Latin America & Caribbean (excluding high income)",
+    "year": 2024,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
+    "country": "Latin America & Caribbean (excluding high income)",
+    "year": 2025,
+    "forest_propotion_to_land": 81.29,
+    "country_population": 0,
+    "wood_removal": 0,
+    "code": 0,
+    "forest_area_km": 0,
+    "country_land_area_km": 0,
+    "total_land_usage": 0,
+    "percent_protected_land": 0,
+    "mean_yearly_exposure_pollution": 0
+  },
+  {
     "country": "Latvia",
     "year": 1990,
     "forest_propotion_to_land": 51.01,
@@ -54493,7 +59446,7 @@ module.exports = [
     "country_land_area_km": 62196,
     "total_land_usage": 0,
     "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 30.2279315689
+    "mean_yearly_exposure_pollution": 30.227931568899997
   },
   {
     "country": "Latvia",
@@ -54823,7 +59776,7 @@ module.exports = [
   {
     "country": "Latvia",
     "year": 2016,
-    "forest_propotion_to_land": 54.0863264264,
+    "forest_propotion_to_land": 54.0863264124,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -54836,7 +59789,7 @@ module.exports = [
   {
     "country": "Latvia",
     "year": 2017,
-    "forest_propotion_to_land": 54.2070998102,
+    "forest_propotion_to_land": 54.207099802399995,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -54849,7 +59802,7 @@ module.exports = [
   {
     "country": "Latvia",
     "year": 2018,
-    "forest_propotion_to_land": 54.329874893,
+    "forest_propotion_to_land": 54.329874885200006,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -54862,7 +59815,7 @@ module.exports = [
   {
     "country": "Latvia",
     "year": 2019,
-    "forest_propotion_to_land": 54.4523969678,
+    "forest_propotion_to_land": 54.452396961400005,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -54875,7 +59828,7 @@ module.exports = [
   {
     "country": "Latvia",
     "year": 2020,
-    "forest_propotion_to_land": 54.5749509334,
+    "forest_propotion_to_land": 54.574950928199996,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -54888,7 +59841,7 @@ module.exports = [
   {
     "country": "Latvia",
     "year": 2021,
-    "forest_propotion_to_land": 54.6975008811,
+    "forest_propotion_to_land": 54.697500876999996,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -54901,7 +59854,7 @@ module.exports = [
   {
     "country": "Latvia",
     "year": 2022,
-    "forest_propotion_to_land": 54.8200513349,
+    "forest_propotion_to_land": 54.820051332,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -54912,22 +59865,9 @@ module.exports = [
     "mean_yearly_exposure_pollution": 0
   },
   {
-    "country": "Least developed countries: UN classification",
-    "year": 1990,
-    "forest_propotion_to_land": 53.95,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 48.3019147654
-  },
-  {
-    "country": "Least developed countries: UN classification",
-    "year": 1991,
-    "forest_propotion_to_land": 53.95,
+    "country": "Latvia",
+    "year": 2023,
+    "forest_propotion_to_land": 54.9426017233,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -54938,9 +59878,9 @@ module.exports = [
     "mean_yearly_exposure_pollution": 0
   },
   {
-    "country": "Least developed countries: UN classification",
-    "year": 1992,
-    "forest_propotion_to_land": 53.95,
+    "country": "Latvia",
+    "year": 2024,
+    "forest_propotion_to_land": 55.0651521225,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
@@ -54951,815 +59891,9 @@ module.exports = [
     "mean_yearly_exposure_pollution": 0
   },
   {
-    "country": "Least developed countries: UN classification",
-    "year": 1993,
-    "forest_propotion_to_land": 53.95,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Least developed countries: UN classification",
-    "year": 1994,
-    "forest_propotion_to_land": 53.95,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Least developed countries: UN classification",
-    "year": 1995,
-    "forest_propotion_to_land": 53.95,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 48.3916391
-  },
-  {
-    "country": "Least developed countries: UN classification",
-    "year": 1996,
-    "forest_propotion_to_land": 53.95,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Least developed countries: UN classification",
-    "year": 1997,
-    "forest_propotion_to_land": 53.95,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Least developed countries: UN classification",
-    "year": 1998,
-    "forest_propotion_to_land": 53.95,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Least developed countries: UN classification",
-    "year": 1999,
-    "forest_propotion_to_land": 53.95,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Least developed countries: UN classification",
-    "year": 2000,
-    "forest_propotion_to_land": 53.95,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 48.7451121639
-  },
-  {
-    "country": "Least developed countries: UN classification",
-    "year": 2001,
-    "forest_propotion_to_land": 53.95,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Least developed countries: UN classification",
-    "year": 2002,
-    "forest_propotion_to_land": 53.95,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Least developed countries: UN classification",
-    "year": 2003,
-    "forest_propotion_to_land": 53.95,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Least developed countries: UN classification",
-    "year": 2004,
-    "forest_propotion_to_land": 53.95,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Least developed countries: UN classification",
-    "year": 2005,
-    "forest_propotion_to_land": 53.95,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 48.4912566164
-  },
-  {
-    "country": "Least developed countries: UN classification",
-    "year": 2006,
-    "forest_propotion_to_land": 53.95,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Least developed countries: UN classification",
-    "year": 2007,
-    "forest_propotion_to_land": 53.95,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Least developed countries: UN classification",
-    "year": 2008,
-    "forest_propotion_to_land": 53.95,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Least developed countries: UN classification",
-    "year": 2009,
-    "forest_propotion_to_land": 53.95,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Least developed countries: UN classification",
-    "year": 2010,
-    "forest_propotion_to_land": 53.95,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 48.2263878853
-  },
-  {
-    "country": "Least developed countries: UN classification",
-    "year": 2011,
-    "forest_propotion_to_land": 53.95,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 49.8071388318
-  },
-  {
-    "country": "Least developed countries: UN classification",
-    "year": 2012,
-    "forest_propotion_to_land": 53.95,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 50.359875106
-  },
-  {
-    "country": "Least developed countries: UN classification",
-    "year": 2013,
-    "forest_propotion_to_land": 53.95,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 50.6461123685
-  },
-  {
-    "country": "Least developed countries: UN classification",
-    "year": 2014,
-    "forest_propotion_to_land": 53.95,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 49.3899204892
-  },
-  {
-    "country": "Least developed countries: UN classification",
-    "year": 2015,
-    "forest_propotion_to_land": 53.95,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 63.2982420357
-  },
-  {
-    "country": "Least developed countries: UN classification",
-    "year": 2016,
-    "forest_propotion_to_land": 53.95,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Least developed countries: UN classification",
-    "year": 2017,
-    "forest_propotion_to_land": 53.95,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Least developed countries: UN classification",
-    "year": 2018,
-    "forest_propotion_to_land": 53.95,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Least developed countries: UN classification",
-    "year": 2019,
-    "forest_propotion_to_land": 53.95,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Least developed countries: UN classification",
-    "year": 2020,
-    "forest_propotion_to_land": 53.95,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Least developed countries: UN classification",
-    "year": 2021,
-    "forest_propotion_to_land": 53.95,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Least developed countries: UN classification",
-    "year": 2022,
-    "forest_propotion_to_land": 53.95,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Lebanon",
-    "year": 1990,
-    "forest_propotion_to_land": 12.81,
-    "country_population": 2703016,
-    "wood_removal": 74200,
-    "code": "LBN",
-    "forest_area_km": 1310,
-    "country_land_area_km": 10230,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 24.6631394087
-  },
-  {
-    "country": "Lebanon",
-    "year": 1991,
-    "forest_propotion_to_land": 12.81,
-    "country_population": 0,
-    "wood_removal": 74000,
-    "code": "LBN",
-    "forest_area_km": 1310,
-    "country_land_area_km": 10230,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Lebanon",
-    "year": 1992,
-    "forest_propotion_to_land": 12.81,
-    "country_population": 0,
-    "wood_removal": 80300,
-    "code": "LBN",
-    "forest_area_km": 1310,
-    "country_land_area_km": 10230,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Lebanon",
-    "year": 1993,
-    "forest_propotion_to_land": 12.81,
-    "country_population": 0,
-    "wood_removal": 83000,
-    "code": "LBN",
-    "forest_area_km": 1310,
-    "country_land_area_km": 10230,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Lebanon",
-    "year": 1994,
-    "forest_propotion_to_land": 12.81,
-    "country_population": 0,
-    "wood_removal": 85200,
-    "code": "LBN",
-    "forest_area_km": 1310,
-    "country_land_area_km": 10230,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Lebanon",
-    "year": 1995,
-    "forest_propotion_to_land": 12.81,
-    "country_population": 0,
-    "wood_removal": 87200,
-    "code": "LBN",
-    "forest_area_km": 1310,
-    "country_land_area_km": 10230,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 23.3222262458
-  },
-  {
-    "country": "Lebanon",
-    "year": 1996,
-    "forest_propotion_to_land": 12.81,
-    "country_population": 0,
-    "wood_removal": 89100,
-    "code": "LBN",
-    "forest_area_km": 1310,
-    "country_land_area_km": 10230,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Lebanon",
-    "year": 1997,
-    "forest_propotion_to_land": 12.81,
-    "country_population": 0,
-    "wood_removal": 90500,
-    "code": "LBN",
-    "forest_area_km": 1310,
-    "country_land_area_km": 10230,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Lebanon",
-    "year": 1998,
-    "forest_propotion_to_land": 12.81,
-    "country_population": 0,
-    "wood_removal": 90000,
-    "code": "LBN",
-    "forest_area_km": 1310,
-    "country_land_area_km": 10230,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Lebanon",
-    "year": 1999,
-    "forest_propotion_to_land": 12.81,
-    "country_population": 0,
-    "wood_removal": 25200,
-    "code": "LBN",
-    "forest_area_km": 1310,
-    "country_land_area_km": 10230,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Lebanon",
-    "year": 2000,
-    "forest_propotion_to_land": 12.81,
-    "country_population": 3235366,
-    "wood_removal": 26200,
-    "code": "LBN",
-    "forest_area_km": 1310,
-    "country_land_area_km": 10230,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 24.645281769
-  },
-  {
-    "country": "Lebanon",
-    "year": 2001,
-    "forest_propotion_to_land": 12.81,
-    "country_population": 0,
-    "wood_removal": 26200,
-    "code": "LBN",
-    "forest_area_km": 1321,
-    "country_land_area_km": 10230,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Lebanon",
-    "year": 2002,
-    "forest_propotion_to_land": 12.81,
-    "country_population": 0,
-    "wood_removal": 26200,
-    "code": "LBN",
-    "forest_area_km": 1332,
-    "country_land_area_km": 10230,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Lebanon",
-    "year": 2003,
-    "forest_propotion_to_land": 12.81,
-    "country_population": 0,
-    "wood_removal": 26200,
-    "code": "LBN",
-    "forest_area_km": 1343,
-    "country_land_area_km": 10230,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Lebanon",
-    "year": 2004,
-    "forest_propotion_to_land": 12.81,
-    "country_population": 0,
-    "wood_removal": 26200,
-    "code": "LBN",
-    "forest_area_km": 1354,
-    "country_land_area_km": 10230,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Lebanon",
-    "year": 2005,
-    "forest_propotion_to_land": 13.34,
-    "country_population": 3986852,
-    "wood_removal": 26200,
-    "code": "LBN",
-    "forest_area_km": 1365,
-    "country_land_area_km": 10230,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 24.7134031556
-  },
-  {
-    "country": "Lebanon",
-    "year": 2006,
-    "forest_propotion_to_land": 13.34,
-    "country_population": 0,
-    "wood_removal": 26100,
-    "code": "LBN",
-    "forest_area_km": 1365.8,
-    "country_land_area_km": 10230,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Lebanon",
-    "year": 2007,
-    "forest_propotion_to_land": 13.34,
-    "country_population": 0,
-    "wood_removal": 26100,
-    "code": "LBN",
-    "forest_area_km": 1366.6,
-    "country_land_area_km": 10230,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Lebanon",
-    "year": 2008,
-    "forest_propotion_to_land": 13.34,
-    "country_population": 0,
-    "wood_removal": 26100,
-    "code": "LBN",
-    "forest_area_km": 1367.4,
-    "country_land_area_km": 10230,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Lebanon",
-    "year": 2009,
-    "forest_propotion_to_land": 13.34,
-    "country_population": 0,
-    "wood_removal": 26100,
-    "code": "LBN",
-    "forest_area_km": 1368.2,
-    "country_land_area_km": 10230,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Lebanon",
-    "year": 2010,
-    "forest_propotion_to_land": 13.38,
-    "country_population": 4337141,
-    "wood_removal": 26000,
-    "code": "LBN",
-    "forest_area_km": 1369,
-    "country_land_area_km": 10230,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 28.4357176231
-  },
-  {
-    "country": "Lebanon",
-    "year": 2011,
-    "forest_propotion_to_land": 13.38,
-    "country_population": 0,
-    "wood_removal": 26000,
-    "code": "LBN",
-    "forest_area_km": 1369.8,
-    "country_land_area_km": 10230,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 27.6084951364
-  },
-  {
-    "country": "Lebanon",
-    "year": 2012,
-    "forest_propotion_to_land": 13.38,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 27.1306278522
-  },
-  {
-    "country": "Lebanon",
-    "year": 2013,
-    "forest_propotion_to_land": 13.38,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 28.8706024659
-  },
-  {
-    "country": "Lebanon",
-    "year": 2014,
-    "forest_propotion_to_land": 13.38,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 30.4874613963
-  },
-  {
-    "country": "Lebanon",
-    "year": 2015,
-    "forest_propotion_to_land": 13.42,
-    "country_population": 5851479,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 32.381078278
-  },
-  {
-    "country": "Lebanon",
-    "year": 2016,
-    "forest_propotion_to_land": 13.4445491508,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Lebanon",
-    "year": 2017,
-    "forest_propotion_to_land": 13.4699107167,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Lebanon",
-    "year": 2018,
-    "forest_propotion_to_land": 13.4952189686,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Lebanon",
-    "year": 2019,
-    "forest_propotion_to_land": 13.5205305592,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Lebanon",
-    "year": 2020,
-    "forest_propotion_to_land": 13.5458419389,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Lebanon",
-    "year": 2021,
-    "forest_propotion_to_land": 13.5711533318,
-    "country_population": 0,
-    "wood_removal": 0,
-    "code": 0,
-    "forest_area_km": 0,
-    "country_land_area_km": 0,
-    "total_land_usage": 0,
-    "percent_protected_land": 0,
-    "mean_yearly_exposure_pollution": 0
-  },
-  {
-    "country": "Lebanon",
-    "year": 2022,
-    "forest_propotion_to_land": 13.5964647239,
+    "country": "Latvia",
+    "year": 2025,
+    "forest_propotion_to_land": 55.1877025208,
     "country_population": 0,
     "wood_removal": 0,
     "code": 0,
