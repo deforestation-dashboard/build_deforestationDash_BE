@@ -37,6 +37,33 @@ server.get("/forest", async (req, res) => {
 	}
 });
 
+server.get("/downtrend", async (req, res) => {
+	try {
+		const list = await Forest.getDownTrend();
+		res.status(200).json(list);
+	} catch (error) {
+		return res.status(500).json({ message: "Error retrieving information" });
+	}
+});
+
+server.get("/uptrend", async (req, res) => {
+	try {
+		const list = await Forest.getUpTrend();
+		res.status(200).json(list);
+	} catch (error) {
+		return res.status(500).json({ message: "Error retrieving information" });
+	}
+});
+
+server.get("/neutral", async (req, res) => {
+	try {
+		const list = await Forest.getNeutral();
+		res.status(200).json(list);
+	} catch (error) {
+		return res.status(500).json({ message: "Error retrieving information" });
+	}
+});
+
 server.get("/forest/:year", async (req, res) => {
 
 	try {
