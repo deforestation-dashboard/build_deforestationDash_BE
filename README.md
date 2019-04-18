@@ -1,5 +1,13 @@
 # API For Deforestation Dashboard
 
+## Getting started
+
+To get the server running locally:
+
+- Clone this repo
+- `yarn install` to install all req'd dependencies
+- `yarn start` to start the local server
+
 # Dependencies
 
 ### [Express](https://www.npmjs.com/package/express)
