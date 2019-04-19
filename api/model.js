@@ -1,24 +1,39 @@
 const db = require("../data/database");
 
 const get = () => {
-	return db("forest");
+	return db("deforestation");
+};
+
+const getDownTrend = () => {
+	return db("downtrend");
+};
+
+const getUpTrend = () => {
+	return db("uptrend");
+};
+
+const getNeutral = () => {
+	return db("neutral");
 };
 
 const getByYear = (year) => {
-	return db("forest").where({year}).select('entity', 'percent');
+	return db("deforestation").where({year}).select('country', 'forest_propotion_to_land');
 };
 
 const getCountry = (country) => {
-	return db("countryinfo").where({country});
+	return db("deforestation").where({country});
 };
 
 const getCountryByYear = (country,year) => {
-	return db("countryinfo").where({country, year}).first();
+	return db("deforestation").where({country, year}).first();
 };
 
 module.exports = {
     get,
     getByYear,
     getCountry,
-    getCountryByYear
+    getCountryByYear,
+    getDownTrend,
+    getUpTrend,
+    getNeutral
 };

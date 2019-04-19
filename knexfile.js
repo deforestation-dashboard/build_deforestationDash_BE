@@ -22,17 +22,11 @@ module.exports = {
 	},
 
 	development: {
-		client: "pg",
-		connection: {
-			host: "localhost",
-			database: "DeforestationDash",
-			user: "david",
-			password: "password"
-		},
-		pool: {
-			min: 2,
-			max: 10
-		},
+		client: 'sqlite3',
+    	connection: {
+      		filename: './data/mydata.db3',
+    	},
+    	useNullAsDefault: true,
 		migrations: {
 			directory: "./data/migrations"
 		},
